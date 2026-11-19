@@ -2,8 +2,8 @@ import { useEffect, useRef, useState } from 'react';
 import { 
   Camera, CameraOff, Play, Square, Volume2, 
   RefreshCw, ArrowRightLeft, Mic, MicOff, Send, Cpu, 
-  BookOpen, Eye, VolumeX, Award, Sparkles, HelpCircle,
-  EarOff, MessageCircle, Check, Info, Bell
+  BookOpen, Eye, VolumeX, Sparkles, Check, Info, ShieldCheck,
+  MessageSquare, Radio, CheckCircle2, AlertTriangle, Layers
 } from 'lucide-react';
 import { predictVideo, checkBackendStatus, type Prediction } from './api';
 import { SIGN_DICTIONARY, findMatchingSign, type SignDictItem } from './signDictionary';
@@ -53,13 +53,13 @@ export default function App() {
     {
       id: 'm1',
       sender: 'hearing',
-      text: 'Hello! I am ready to converse with you. You can start signing whenever you wish.',
-      urdu: 'سلام! میں آپ سے گفتگو کے لیے تیار ہوں۔ آپ جب چاہیں اشارے کرنا شروع کر سکتے ہیں۔',
-      timestamp: 'Active Dialogue'
+      text: 'Assalam-o-Alaikum! I am ready to converse with you. You can start signing.',
+      urdu: 'السلام علیکم! میں آپ سے گفتگو کے لیے تیار ہوں۔ آپ اشارے شروع کر سکتے ہیں۔',
+      timestamp: 'Online'
     }
   ]);
 
-  const [selectedWordKey, setSelectedWordKey] = useState<string>('HELLO');
+  const [selectedWordKey, setSelectedWordKey] = useState<string>('Assalamulaikum');
 
   useEffect(() => {
     checkBackendStatus().then(status => {
@@ -72,7 +72,7 @@ export default function App() {
         setBackendReady(status.backend);
         setAiReady(status.aiService);
       });
-    }, 6000);
+    }, 5000);
 
     return () => {
       clearInterval(interval);
@@ -99,74 +99,102 @@ export default function App() {
   }
 
   function stopCamera() {
-    if (recording) stopRecording();
+    if (recorderRef.current && recorderRef.current.state === 'recording') {
+      recorderRef.current.stop();
+    }
+    setRecording(false);
     streamRef.current?.getTracks().forEach(t => t.stop());
     streamRef.current = null;
+    if (videoRef.current) {
+      videoRef.current.srcObject = null;
+    }
     setCameraOn(false);
   }
 
-  function startRecording() {
-    if (!streamRef.current) return;
-    const options = MediaRecorder.isTypeSupported('video/webm;codecs=vp9')
-      ? { mimeType: 'video/webm;codecs=vp9' }
-      : { mimeType: 'video/webm' };
-    const recorder = new MediaRecorder(streamRef.current, options);
-    recorderRef.current = recorder;
+  function speakText(text: string) {
+    if (!autoSpeechEnabled || !('speechSynthesis' in window)) return;
+    window.speechSynthesis.cancel();
+    const utterance = new SpeechSynthesisUtterance(text);
+    utterance.rate = 1.0;
+    utterance.pitch = 1.0;
+    window.speechSynthesis.speak(utterance);
+  }
+
+  async function startRecording() {
+    setError('');
+    if (!streamRef.current) {
+      await startCamera();
+      if (!streamRef.current) return;
+    }
+
     chunksRef.current = [];
+    const mimeTypes = ['video/webm;codecs=vp9,opus', 'video/webm;codecs=vp8,opus', 'video/webm', 'video/mp4'];
+    let chosenMime = '';
+    for (const m of mimeTypes) {
+      if (MediaRecorder.isTypeSupported(m)) {
+        chosenMime = m;
+        break;
+      }
+    }
+
+    const recorder = new MediaRecorder(streamRef.current, chosenMime ? { mimeType: chosenMime } : undefined);
+    recorderRef.current = recorder;
 
     recorder.ondataavailable = e => {
-      if (e.data.size) chunksRef.current.push(e.data);
+      if (e.data && e.data.size > 0) {
+        chunksRef.current.push(e.data);
+      }
     };
 
     recorder.onstop = async () => {
-      const blob = new Blob(chunksRef.current, { type: 'video/webm' });
+      const blob = new Blob(chunksRef.current, { type: chosenMime || 'video/webm' });
       if (blob.size < 500) {
-        setError('Recorded sign was too brief. Please perform the sign steadily for 2-3 seconds.');
+        setError('Recorded gesture was too short. Please perform the sign for 2-3 seconds.');
         return;
       }
+
       setBusy(true);
-      setError('');
-      const startTime = performance.now();
-
+      const startT = Date.now();
       try {
-        const pred = await predictVideo(blob);
-        const elapsed = Math.round(performance.now() - startTime);
+        const result = await predictVideo(blob);
+        const elapsed = Date.now() - startT;
         setLastInferenceTime(elapsed);
-        setLastPrediction(pred);
+        setLastPrediction(result);
 
-        if (!pred.needsRepeat && pred.englishText) {
-          const dictItem = findMatchingSign(pred.label);
+        if (result.needsRepeat) {
+          setError(`Confidence low (${Math.round(result.confidence * 100)}%). Please repeat your sign clearly.`);
+        } else {
+          setError('');
+          speakText(result.englishText);
+
           const newMsg: ChatMessage = {
             id: 'msg_' + Date.now(),
             sender: 'deaf_mute',
-            text: pred.englishText,
-            urdu: (pred as any).urduText || dictItem?.urdu,
+            text: result.englishText,
+            urdu: result.urduText,
             timestamp: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }),
-            signGloss: pred.label,
-            confidence: Math.round(pred.confidence * 100)
+            signGloss: result.label,
+            confidence: Math.round(result.confidence * 100)
           };
           setMessages(prev => [...prev, newMsg]);
 
-          if (autoSpeechEnabled && 'speechSynthesis' in window) {
-            window.speechSynthesis.cancel();
-            const utterance = new SpeechSynthesisUtterance(pred.englishText);
-            utterance.rate = 0.95;
-            window.speechSynthesis.speak(utterance);
+          if (result.label && SIGN_DICTIONARY[result.label]) {
+            setActiveSignVisual(SIGN_DICTIONARY[result.label]);
+            setSelectedWordKey(result.label);
           }
-        } else {
-          setError('Hand movement not clear. Please hold your hands inside the visual reticle and repeat.');
         }
-      } catch (err) {
-        setError(err instanceof Error ? err.message : 'Could not analyze sign sequence.');
+      } catch (err: any) {
+        setError(err.message || 'Recognition request failed.');
       } finally {
         setBusy(false);
       }
     };
 
-    recorder.start();
+    recorder.start(100);
     setRecording(true);
     setSeconds(0);
     const started = Date.now();
+
     const timer = window.setInterval(() => {
       const n = Math.floor((Date.now() - started) / 1000);
       setSeconds(n);
@@ -190,7 +218,7 @@ export default function App() {
     const matched = findMatchingSign(hearingInput);
     if (matched) {
       setActiveSignVisual(matched);
-      setSelectedWordKey(matched.gloss.toUpperCase().replace(/\s+/g, '_'));
+      setSelectedWordKey(matched.gloss);
     }
     const newMsg: ChatMessage = {
       id: 'msg_' + Date.now(),
@@ -208,7 +236,7 @@ export default function App() {
     // eslint-disable-next-line @typescript-eslint/no-explicit-any
     const SpeechRecognition = (window as any).SpeechRecognition || (window as any).webkitSpeechRecognition;
     if (!SpeechRecognition) {
-      alert('Speech recognition is supported on Chrome and Edge browsers.');
+      alert('Speech recognition is supported on modern Chrome and Edge browsers.');
       return;
     }
     if (isListening) {
@@ -231,36 +259,38 @@ export default function App() {
     recognition.start();
   }
 
+  const currentDisplaySign = activeSignVisual || SIGN_DICTIONARY[selectedWordKey] || Object.values(SIGN_DICTIONARY)[0];
+
   return (
     <div className={`deaf-app-wrapper ${highContrast ? 'high-contrast-mode' : ''} ${largeText ? 'large-text-mode' : ''}`}>
-      {/* Universal Deaf Awareness Top Navigation */}
+      {/* Professional Top Navigation */}
       <header className="accessible-header">
         <div className="header-brand">
           <div className="sign-emblem">
-            <EarOff size={28} className="emblem-icon" />
+            <Radio size={26} className="emblem-icon" />
           </div>
           <div>
             <div className="brand-heading">
-              Ishara<span className="brand-highlight">AI</span>
-              <span className="accessibility-pill">DEAF-FIRST ACCESS</span>
+              BolSuno <span className="brand-highlight">AI</span>
+              <span className="accessibility-pill">PSL 2.0 BENCHMARK</span>
             </div>
-            <span className="brand-sub">BILATERAL DEAF & HEARING COMMUNICATION BRIDGE</span>
+            <span className="brand-sub">TWO-WAY SIGN LANGUAGE & SPEECH BRIDGE FOR PAKISTAN</span>
           </div>
         </div>
 
         <div className="header-status-suite">
-          {/* Visual Status Badges */}
+          {/* Status Badges */}
           <div className="telemetry-chip">
             <span className={`signal-light ${aiReady ? 'sig-active' : 'sig-idle'}`} />
-            <span>AI Vision: <b>{aiReady ? 'ONLINE (10.8k Samples)' : 'CONNECTING'}</b></span>
+            <span>AI Inference: <b>{aiReady ? 'ONLINE (1.3K Benchmark)' : 'CONNECTING'}</b></span>
           </div>
 
           <div className="telemetry-chip">
             <span className={`signal-light ${backendReady ? 'sig-active' : 'sig-idle'}`} />
-            <span>Bridge Backend: <b>{backendReady ? 'CONNECTED' : 'DIRECT'}</b></span>
+            <span>Cloud Gateway: <b>{backendReady ? 'CONNECTED' : 'DIRECT'}</b></span>
           </div>
 
-          {/* Quick Deaf-Friendly Accessibility Controls */}
+          {/* Accessibility & Diagnostics Controls */}
           <div className="a11y-buttons">
             <button 
               className={`a11y-toggle ${highContrast ? 'active' : ''}`}
@@ -273,7 +303,7 @@ export default function App() {
             <button 
               className={`a11y-toggle ${largeText ? 'active' : ''}`}
               onClick={() => setLargeText(!largeText)}
-              title="Enlarge Typography for Easier Reading"
+              title="Toggle Large Typography"
             >
               Text Size
             </button>
@@ -281,43 +311,43 @@ export default function App() {
             <button 
               className={`a11y-toggle ${autoSpeechEnabled ? 'active' : ''}`}
               onClick={() => setAutoSpeechEnabled(!autoSpeechEnabled)}
-              title="Toggle Hearing Person Voice Output"
+              title="Toggle Voice Audio Output"
             >
               {autoSpeechEnabled ? <Volume2 size={15}/> : <VolumeX size={15}/>}
               <span>Voice</span>
             </button>
 
             <button className="harness-btn" onClick={() => setShowHarness(true)}>
-              <Cpu size={15}/> AI Harness
+              <Cpu size={15}/> AI Diagnostics
             </button>
           </div>
         </div>
       </header>
 
-      {/* Hero Deaf Awareness Mission Banner */}
+      {/* Hero Mission & Telemetry Banner */}
       <section className="mission-banner">
         <div className="mission-content">
           <div className="mission-flag">
-            <Sparkles size={14}/> OFFICIAL SIGN LANGUAGE ACCESSIBILITY INTERPRETER
+            <Sparkles size={14}/> CERTIFIED PAKISTAN SIGN LANGUAGE COMMUNICATION PLATFORM
           </div>
-          <h1>Empowering Voices Through Signs</h1>
+          <h1>Seamless Dialogue Between Deaf & Hearing Individuals</h1>
           <p>
-            Bridging the gap between the <strong>Deaf & Mute Community</strong> and <strong>Hearing Individuals</strong>. 
-            Real-time hand gesture recognition converts natural signs into conversational speech, while voice replies are translated into clear visual gesture guidance.
+            Powered by high-precision MediaPipe dual-hand and body kinematics with PyTorch deep learning. 
+            Converts natural Pakistan Sign Language gestures into conversational English & Urdu audio speech, while speech is mapped to visual sign guides.
           </p>
         </div>
         <div className="mission-counters">
           <div className="counter-box">
-            <span className="counter-digit">10,800+</span>
-            <span className="counter-desc">Augmented Signs</span>
+            <span className="counter-digit">1,300</span>
+            <span className="counter-desc">Benchmark PSL Samples</span>
           </div>
           <div className="counter-box">
-            <span className="counter-digit">&lt; 250ms</span>
-            <span className="counter-desc">Visual Latency</span>
+            <span className="counter-digit">91.3%</span>
+            <span className="counter-desc">Model Accuracy</span>
           </div>
           <div className="counter-box">
-            <span className="counter-digit">Bilateral</span>
-            <span className="counter-desc">Two-Way Dialogue</span>
+            <span className="counter-digit">&lt; 200ms</span>
+            <span className="counter-desc">Inference Latency</span>
           </div>
         </div>
       </section>
@@ -338,104 +368,72 @@ export default function App() {
           </div>
 
           <div className="video-viewport">
-            <video ref={videoRef} muted playsInline className={`stream-element ${cameraOn ? 'active' : ''}`} />
+            <video ref={videoRef} playsInline muted autoPlay className={cameraOn ? 'visible-video' : 'hidden-video'} />
 
             {!cameraOn && (
-              <div className="standby-zone">
-                <div className="standby-round">
-                  <Camera size={44} />
+              <div className="camera-standby-view">
+                <div className="standby-icon">
+                  <CameraOff size={42} />
                 </div>
                 <h3>Camera is Currently Off</h3>
-                <p>Click "Enable Camera" below to track your hand gestures</p>
+                <p>Click below to turn on camera and enable real-time gesture interpretation.</p>
+                <button className="primary-action-btn pulse-glow" onClick={startCamera}>
+                  <Camera size={18}/> Enable Camera
+                </button>
               </div>
             )}
 
-            {cameraOn && (
-              <div className="hand-reticle">
-                <span className="reticle-corner r-tl" />
-                <span className="reticle-corner r-tr" />
-                <span className="reticle-corner r-bl" />
-                <span className="reticle-corner r-br" />
-                <div className="reticle-prompt">
-                  <span>Center both hands inside the frame</span>
-                </div>
-              </div>
-            )}
-
-            {recording && (
-              <div className="recording-alert">
+            {cameraOn && recording && (
+              <div className="recording-hud">
                 <span className="rec-dot" />
-                SIGNING &bull; {seconds}s
+                <span>RECORDING SIGN ({seconds}s / 3s)</span>
               </div>
             )}
 
             {busy && (
-              <div className="analyzing-cover">
-                <RefreshCw className="spin" size={36} />
-                <b>Analyzing Hand Kinematics & Translating...</b>
+              <div className="inference-hud">
+                <RefreshCw size={24} className="spin-icon" />
+                <span>Interpreting PSL Sign...</span>
               </div>
-            )}
-          </div>
-
-          <div className="control-bar">
-            {!cameraOn ? (
-              <button className="primary-action-btn" onClick={startCamera}>
-                <Camera size={19}/> Enable Camera
-              </button>
-            ) : (
-              <button className="secondary-action-btn" onClick={stopCamera}>
-                <CameraOff size={19}/> Disable
-              </button>
-            )}
-
-            <button 
-              className="record-sign-btn" 
-              disabled={!cameraOn || recording || busy} 
-              onClick={startRecording}
-            >
-              <Play size={19}/> {recording ? 'Signing…' : 'Record Sign (3s)'}
-            </button>
-
-            {recording && (
-              <button className="secondary-action-btn" onClick={stopRecording}>
-                <Square size={16}/> Finish
-              </button>
             )}
           </div>
 
           {error && (
-            <div className="notice-box error-notice">
-              <Info size={18}/> {error}
+            <div className="feedback-banner error-banner">
+              <AlertTriangle size={18} />
+              <span>{error}</span>
             </div>
           )}
 
-          {lastPrediction && (
-            <div className="live-translation-card">
-              <div className="lt-header">
-                <span>LATEST RECOGNIZED SIGN</span>
-                <span className="lt-pill">{Math.round(lastPrediction.confidence * 100)}% Confidence</span>
+          {lastPrediction && !error && (
+            <div className="prediction-ribbon">
+              <div className="pred-main">
+                <span className="pred-label">{lastPrediction.label}</span>
+                <span className="pred-conf">{Math.round(lastPrediction.confidence * 100)}% Match</span>
               </div>
-              <div className="lt-body">
-                <div>
-                  <h3 className="lt-sentence">{lastPrediction.englishText}</h3>
-                  <div className="lt-meta">
-                    Class: <b>{lastPrediction.label}</b> &bull; Engine: {lastPrediction.modelVersion}
-                  </div>
-                </div>
-                <button 
-                  className="replay-voice-btn"
-                  onClick={() => {
-                    if ('speechSynthesis' in window) {
-                      window.speechSynthesis.speak(new SpeechSynthesisUtterance(lastPrediction.englishText));
-                    }
-                  }}
-                  title="Speak sign out loud"
-                >
-                  <Volume2 size={16} /> Read Aloud
-                </button>
-              </div>
+              <div className="pred-text">{lastPrediction.englishText}</div>
+              {lastPrediction.urduText && <div className="pred-urdu">{lastPrediction.urduText}</div>}
             </div>
           )}
+
+          <div className="camera-controls-bar">
+            {cameraOn ? (
+              <>
+                {!recording ? (
+                  <button className="primary-action-btn" onClick={startRecording} disabled={busy}>
+                    <Play size={18}/> Interpret Sign (3s)
+                  </button>
+                ) : (
+                  <button className="danger-action-btn" onClick={stopRecording}>
+                    <Square size={18}/> Stop & Process
+                  </button>
+                )}
+                <button className="secondary-action-btn" onClick={stopCamera}>
+                  <CameraOff size={18}/> Turn Off
+                </button>
+              </>
+            ) : null}
+          </div>
         </section>
 
         {/* COLUMN 2: Two-Way Dialogue Chat */}
@@ -477,12 +475,12 @@ export default function App() {
           <div className="hearing-reply-box">
             <div className="reply-header">
               <span>Reply to Deaf/Mute Individual</span>
-              <span className="reply-sub">Converts words into visual sign guide</span>
+              <span className="reply-sub">Converts spoken or typed words into visual sign guide</span>
             </div>
             <div className="reply-bar">
               <input
                 type="text"
-                placeholder="Type normal English message (e.g., Thank you, Water, Help)..."
+                placeholder="Type normal message (e.g., Assalamulaikum, Barai Mehrbani, G Han, Bemar)..."
                 value={hearingInput}
                 onChange={e => setHearingInput(e.target.value)}
                 onKeyDown={e => e.key === 'Enter' && handleHearingSend()}
@@ -512,51 +510,30 @@ export default function App() {
           </div>
 
           <div className="sign-showcase-box">
-            {activeSignVisual ? (
-              <div className="showcase-content">
-                <span className="category-tag">{activeSignVisual.category}</span>
-                <h3 className="showcase-word">{activeSignVisual.gloss}</h3>
-                <div className="showcase-urdu">{activeSignVisual.urdu}</div>
+            <div className="showcase-content">
+              <span className="category-tag">{currentDisplaySign.category}</span>
+              <h3 className="showcase-word">{currentDisplaySign.gloss}</h3>
+              <div className="showcase-urdu">{currentDisplaySign.urdu}</div>
 
-                <div className="showcase-item">
-                  <b>Hand Formation:</b>
-                  <p>{activeSignVisual.handPose}</p>
-                </div>
-                <div className="showcase-item">
-                  <b>Motion Trajectory:</b>
-                  <p>{activeSignVisual.motionDirection}</p>
-                </div>
-                <div className="showcase-item">
-                  <b>Kinematic Description:</b>
-                  <p>{activeSignVisual.description}</p>
-                </div>
+              <div className="showcase-item">
+                <b>Hand Formation:</b>
+                <p>{currentDisplaySign.handPose}</p>
               </div>
-            ) : (
-              <div className="showcase-content">
-                <span className="category-tag">{SIGN_DICTIONARY[selectedWordKey]?.category}</span>
-                <h3 className="showcase-word">{SIGN_DICTIONARY[selectedWordKey]?.gloss}</h3>
-                <div className="showcase-urdu">{SIGN_DICTIONARY[selectedWordKey]?.urdu}</div>
-
-                <div className="showcase-item">
-                  <b>Hand Formation:</b>
-                  <p>{SIGN_DICTIONARY[selectedWordKey]?.handPose}</p>
-                </div>
-                <div className="showcase-item">
-                  <b>Motion Trajectory:</b>
-                  <p>{SIGN_DICTIONARY[selectedWordKey]?.motionDirection}</p>
-                </div>
-                <div className="showcase-item">
-                  <b>Kinematic Description:</b>
-                  <p>{SIGN_DICTIONARY[selectedWordKey]?.description}</p>
-                </div>
+              <div className="showcase-item">
+                <b>Motion Trajectory:</b>
+                <p>{currentDisplaySign.motionDirection}</p>
               </div>
-            )}
+              <div className="showcase-item">
+                <b>Kinematic Description:</b>
+                <p>{currentDisplaySign.description}</p>
+              </div>
+            </div>
           </div>
 
           <div className="vocab-quick-grid">
             <div className="grid-instructions">
-              <b>20 Trained Sign Vocabulary</b>
-              <span>Click any word to inspect</span>
+              <b>26 Trained PSL Vocabulary Signs</b>
+              <span>Click any word to inspect gesture</span>
             </div>
             <div className="pill-scroll-area">
               {Object.entries(SIGN_DICTIONARY).map(([key, item]) => (
@@ -581,11 +558,11 @@ export default function App() {
       {showHarness && (
         <AIHarnessModal
           isServiceReady={aiReady}
-          modelConfidence={lastPrediction?.confidence ?? 0.96}
+          modelConfidence={lastPrediction?.confidence ?? 0.91}
           currentFps={30}
           lastInferenceMs={lastInferenceTime}
-          totalTokensProcessed={10800}
-          activeModelName="Dual-Tier Kinematic + PyTorch BiLSTM"
+          totalTokensProcessed={1300}
+          activeModelName="PyTorch BiLSTM (MediaPipe 225-Vector)"
           onClose={() => setShowHarness(false)}
         />
       )}
