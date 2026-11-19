@@ -1,0 +1,18 @@
+{
+  "python.defaultInterpreterPath": "C:\\Users\\AT\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}/AI-Service",
+    "${workspaceFolder}/AI-Service/app",
+    "${workspaceFolder}/AI-Service/scripts"
+  ],
+  "python.analysis.typeCheckingMode": "off",
+  "python.analysis.diagnosticSeverityOverrides": {
+    "reportMissingImports": "none",
+    "reportUndefinedVariable": "none",
+    "reportGeneralTypeIssues": "none"
+  },
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/.pytest_cache": true
+  }
+}
