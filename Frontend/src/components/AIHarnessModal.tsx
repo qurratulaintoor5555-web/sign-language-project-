@@ -26,8 +26,8 @@ export const AIHarnessModal: React.FC<AIHarnessProps & { onClose: () => void }> 
           <div className="harness-title">
             <Cpu className="text-emerald-400" size={24} />
             <div>
-              <h3>BolSuno AI — System & Model Diagnostics</h3>
-              <p>Pakistan Sign Language Benchmark Neural Inference Diagnostics</p>
+              <h3>SignBridge AI — System & Model Diagnostics</h3>
+              <p>Sign Language Benchmark Neural Inference Diagnostics</p>
             </div>
           </div>
           <button className="harness-close" onClick={onClose}>&times;</button>

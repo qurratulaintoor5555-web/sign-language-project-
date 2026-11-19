@@ -271,7 +271,7 @@ export default function App() {
           </div>
           <div>
             <div className="brand-heading">
-              BolSuno <span className="brand-highlight">AI</span>
+              SignBridge <span className="brand-highlight">AI</span>
               <span className="accessibility-pill">PSL 2.0 BENCHMARK</span>
             </div>
             <span className="brand-sub">TWO-WAY SIGN LANGUAGE & SPEECH BRIDGE FOR PAKISTAN</span>
