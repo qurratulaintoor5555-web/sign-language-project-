@@ -1,0 +1,19 @@
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
+WORKDIR /src
+
+COPY Backend/PSL.Api/*.csproj ./Backend/PSL.Api/
+RUN dotnet restore Backend/PSL.Api/PSL.Api.csproj
+
+COPY Backend/PSL.Api/ ./Backend/PSL.Api/
+RUN dotnet publish Backend/PSL.Api/PSL.Api.csproj -c Release -o /app/publish
+
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS final
+WORKDIR /app
+COPY --from=build /app/publish .
+
+ENV ASPNETCORE_URLS=http://+:5000 \
+    ASPNETCORE_ENVIRONMENT=Production
+
+EXPOSE 5000
+
+ENTRYPOINT ["dotnet", "PSL.Api.dll"]
