@@ -1,1105 +1,3571 @@
-478	Behra
-721	Kab
-312	Baad may
-660	Jao
-823	Kya qeemat hai
-115	Allah
-901	Mujhay
-631	G Han
-1102	Walaikumasalam
-101	Allah
-802	Kya qeemat hai
-1249	Yaqeen
-628	G Han
-654	Jao
-865	Mahsoos kar rahay
-220	Apki
-1165	Watermelon
-700	Kab
-538	Bemar
-184	Ap
-649	G Han
-1041	Samjhna
-1053	Seekh raha hun
-1073	Seekh raha hun
-892	Mahsoos kar rahay
-44	APPLE
-759	Kesay
-471	Behra
-842	Kya qeemat hai
-494	Behra
-1259	Ye
-196	Ap
-1110	Walaikumasalam
-548	Bemar
-427	Barai Mehrbani
-1010	Samjhna
-994	Nahi hai
-940	Mujhay
-643	G Han
-1096	Seekh raha hun
-666	Jao
-76	Aj
-298	Assalamulaikum
-1151	Watermelon
-1187	Watermelon
-221	Apki
-65	Aj
-862	Mahsoos kar rahay
-620	G Han
-458	Behra
-849	Kya qeemat hai
-1205	Yaqeen
-1061	Seekh raha hun
-316	Baad may
-644	G Han
-937	Mujhay
-661	Jao
-23	APPLE
-63	Aj
-1276	Ye
-670	Jao
-51	Aj
-1022	Samjhna
-43	APPLE
-198	Ap
-730	Kab
-482	Behra
-447	Barai Mehrbani
-533	Bemar
-1219	Yaqeen
-1260	Ye
-464	Behra
-78	Aj
-218	Apki
-561	Email Address
-1100	Walaikumasalam
-254	Assalamulaikum
-560	Email Address
-1094	Seekh raha hun
-240	Apki
-361	Bachay
-527	Bemar
-629	G Han
-210	Apki
-265	Assalamulaikum
-624	G Han
-32	APPLE
-895	Mahsoos kar rahay
-1131	Walaikumasalam
-988	Nahi hai
-81	Aj
-1246	Yaqeen
-861	Mahsoos kar rahay
-410	Barai Mehrbani
-594	Email Address
-1090	Seekh raha hun
-588	Email Address
-813	Kya qeemat hai
-848	Kya qeemat hai
-275	Assalamulaikum
-289	Assalamulaikum
-843	Kya qeemat hai
-736	Kab
-915	Mujhay
-467	Behra
-442	Barai Mehrbani
-1011	Samjhna
-1034	Samjhna
-382	Bachay
-243	Apki
-233	Apki
-923	Mujhay
-462	Behra
-575	Email Address
-231	Apki
-58	Aj
-741	Kab
-1001	Samjhna
-1186	Watermelon
-1292	Ye
-1050	Seekh raha hun
-1003	Samjhna
-358	Bachay
-953	Nahi hai
-479	Behra
-49	APPLE
-844	Kya qeemat hai
-413	Barai Mehrbani
-297	Assalamulaikum
-86	Aj
-123	Allah
-1203	Yaqeen
-430	Barai Mehrbani
-303	Baad may
-1286	Ye
-566	Email Address
-542	Bemar
-1182	Watermelon
-128	Allah
-351	Bachay
-503	Bemar
-192	Ap
-803	Kya qeemat hai
-1164	Watermelon
-352	Bachay
-415	Barai Mehrbani
-1241	Yaqeen
-771	Kesay
-1274	Ye
-29	APPLE
-277	Assalamulaikum
-724	Kab
-31	APPLE
-331	Baad may
-1037	Samjhna
-602	G Han
-1209	Yaqeen
-70	Aj
-1256	Ye
-621	G Han
-1262	Ye
-282	Assalamulaikum
-780	Kesay
-261	Assalamulaikum
-852	Mahsoos kar rahay
-973	Nahi hai
-552	Email Address
-48	APPLE
-113	Allah
-155	Ap
-626	G Han
-422	Barai Mehrbani
-676	Jao
-614	G Han
-841	Kya qeemat hai
-1289	Ye
-673	Jao
-411	Barai Mehrbani
-107	Allah
-239	Apki
-1026	Samjhna
-1042	Samjhna
-695	Jao
-1234	Yaqeen
-1198	Watermelon
-847	Kya qeemat hai
-363	Bachay
-919	Mujhay
-380	Bachay
-941	Mujhay
-497	Behra
-506	Bemar
-168	Ap
-1168	Watermelon
-672	Jao
-208	Apki
-872	Mahsoos kar rahay
-428	Barai Mehrbani
-890	Mahsoos kar rahay
-174	Ap
-398	Bachay
-1284	Ye
-365	Bachay
-585	Email Address
-54	Aj
-1002	Samjhna
-598	Email Address
-244	Apki
-56	Aj
-965	Nahi hai
-163	Ap
-109	Allah
-259	Assalamulaikum
-667	Jao
-350	Bachay
-708	Kab
-846	Kya qeemat hai
-1166	Watermelon
-270	Assalamulaikum
-493	Behra
-634	G Han
-781	Kesay
-1243	Yaqeen
-716	Kab
-528	Bemar
-713	Kab
-911	Mujhay
-405	Barai Mehrbani
-974	Nahi hai
-553	Email Address
-711	Kab
-583	Email Address
-785	Kesay
-925	Mujhay
-978	Nahi hai
-451	Behra
-859	Mahsoos kar rahay
-1240	Yaqeen
-875	Mahsoos kar rahay
-170	Ap
-834	Kya qeemat hai
-247	Apki
-677	Jao
-936	Mujhay
-609	G Han
-209	Apki
-678	Jao
-814	Kya qeemat hai
-140	Allah
-874	Mahsoos kar rahay
-374	Bachay
-605	G Han
-1212	Yaqeen
-371	Bachay
-932	Mujhay
-306	Baad may
-199	Ap
-296	Assalamulaikum
-286	Assalamulaikum
-826	Kya qeemat hai
-10	APPLE
-147	Allah
-342	Baad may
-999	Nahi hai
-811	Kya qeemat hai
-344	Baad may
-808	Kya qeemat hai
-486	Behra
-536	Bemar
-348	Baad may
-534	Bemar
-135	Allah
-309	Baad may
-367	Bachay
-549	Bemar
-731	Kab
-772	Kesay
-158	Ap
-381	Bachay
-1127	Walaikumasalam
-1183	Watermelon
-682	Jao
-1062	Seekh raha hun
-809	Kya qeemat hai
-867	Mahsoos kar rahay
-96	Aj
-346	Baad may
-850	Mahsoos kar rahay
-1117	Walaikumasalam
-439	Barai Mehrbani
-156	Ap
-968	Nahi hai
-1119	Walaikumasalam
-705	Kab
-308	Baad may
-543	Bemar
-394	Bachay
-420	Barai Mehrbani
-1115	Walaikumasalam
-894	Mahsoos kar rahay
-481	Behra
-377	Bachay
-1147	Walaikumasalam
-1132	Walaikumasalam
-979	Nahi hai
-610	G Han
-599	Email Address
-962	Nahi hai
-178	Ap
-1201	Yaqeen
-912	Mujhay
-1006	Samjhna
-294	Assalamulaikum
-573	Email Address
-1150	Watermelon
-435	Barai Mehrbani
-899	Mahsoos kar rahay
-88	Aj
-1237	Yaqeen
-390	Bachay
-1108	Walaikumasalam
-526	Bemar
-715	Kab
-665	Jao
-290	Assalamulaikum
-285	Assalamulaikum
-1063	Seekh raha hun
-1231	Yaqeen
-1085	Seekh raha hun
-266	Assalamulaikum
-327	Baad may
-339	Baad may
-59	Aj
-931	Mujhay
-1227	Yaqeen
-1278	Ye
-818	Kya qeemat hai
-765	Kesay
-409	Barai Mehrbani
-333	Baad may
-579	Email Address
-839	Kya qeemat hai
-545	Bemar
-886	Mahsoos kar rahay
-1190	Watermelon
-1206	Yaqeen
-720	Kab
-764	Kesay
-461	Behra
-328	Baad may
-433	Barai Mehrbani
-1078	Seekh raha hun
-983	Nahi hai
-83	Aj
-129	Allah
-722	Kab
-1113	Walaikumasalam
-171	Ap
-582	Email Address
-260	Assalamulaikum
-622	G Han
-636	G Han
-1070	Seekh raha hun
-1149	Walaikumasalam
-332	Baad may
-355	Bachay
-138	Allah
-292	Assalamulaikum
-1057	Seekh raha hun
-429	Barai Mehrbani
-141	Allah
-1158	Watermelon
-591	Email Address
-762	Kesay
-139	Allah
-1226	Yaqeen
-984	Nahi hai
-224	Apki
-453	Behra
-274	Assalamulaikum
-323	Baad may
-1193	Watermelon
-325	Baad may
-551	Email Address
-597	Email Address
-668	Jao
-845	Kya qeemat hai
-966	Nahi hai
-934	Mujhay
-718	Kab
-777	Kesay
-1049	Samjhna
-438	Barai Mehrbani
-578	Email Address
-671	Jao
-1005	Samjhna
-812	Kya qeemat hai
-746	Kab
-793	Kesay
-321	Baad may
-432	Barai Mehrbani
-739	Kab
-986	Nahi hai
-425	Barai Mehrbani
-39	APPLE
-30	APPLE
-242	Apki
-680	Jao
-889	Mahsoos kar rahay
-136	Allah
-310	Baad may
-1084	Seekh raha hun
-996	Nahi hai
-924	Mujhay
-1148	Walaikumasalam
-1290	Ye
-1120	Walaikumasalam
-3	APPLE
-111	Allah
-701	Kab
-1121	Walaikumasalam
-1069	Seekh raha hun
-1013	Samjhna
-868	Mahsoos kar rahay
-376	Bachay
-1048	Samjhna
-485	Behra
-314	Baad may
-1052	Seekh raha hun
-319	Baad may
-1285	Ye
-820	Kya qeemat hai
-5	APPLE
-100	Allah
-424	Barai Mehrbani
-1172	Watermelon
-596	Email Address
-964	Nahi hai
-838	Kya qeemat hai
-423	Barai Mehrbani
-949	Mujhay
-1141	Walaikumasalam
-1081	Seekh raha hun
-589	Email Address
-227	Apki
-477	Behra
-615	G Han
-744	Kab
-522	Bemar
-66	Aj
-1155	Watermelon
-67	Aj
-1207	Yaqeen
-211	Apki
-12	APPLE
-1251	Ye
-752	Kesay
-299	Assalamulaikum
-554	Email Address
-898	Mahsoos kar rahay
-1167	Watermelon
-778	Kesay
-1170	Watermelon
-693	Jao
-1233	Yaqeen
-490	Behra
-618	G Han
-1156	Watermelon
-1214	Yaqeen
-1159	Watermelon
-788	Kesay
-1124	Walaikumasalam
-273	Assalamulaikum
-513	Bemar
-362	Bachay
-237	Apki
-1191	Watermelon
-930	Mujhay
-2	APPLE
-6	APPLE
-370	Bachay
-311	Baad may
-1116	Walaikumasalam
-806	Kya qeemat hai
-581	Email Address
-710	Kab
-1009	Samjhna
-215	Apki
-535	Bemar
-712	Kab
-27	APPLE
-873	Mahsoos kar rahay
-1253	Ye
-514	Bemar
-523	Bemar
-914	Mujhay
-947	Mujhay
-570	Email Address
-857	Mahsoos kar rahay
-1271	Ye
-354	Bachay
-1138	Walaikumasalam
-1142	Walaikumasalam
-256	Assalamulaikum
-291	Assalamulaikum
-25	APPLE
-336	Baad may
-529	Bemar
-47	APPLE
-318	Baad may
-106	Allah
-939	Mujhay
-55	Aj
-613	G Han
-213	Apki
-120	Allah
-855	Mahsoos kar rahay
-558	Email Address
-72	Aj
-807	Kya qeemat hai
-45	APPLE
-993	Nahi hai
-707	Kab
-651	Jao
-922	Mujhay
-465	Behra
-946	Mujhay
-1111	Walaikumasalam
-590	Email Address
-60	Aj
-92	Aj
-532	Bemar
-194	Ap
-280	Assalamulaikum
-359	Bachay
-519	Bemar
-617	G Han
-584	Email Address
-182	Ap
-110	Allah
-828	Kya qeemat hai
-743	Kab
-204	Apki
-1097	Seekh raha hun
-948	Mujhay
-755	Kesay
-798	Kesay
-1157	Watermelon
-572	Email Address
-183	Ap
-137	Allah
-737	Kab
-80	Aj
-1195	Watermelon
-541	Bemar
-1055	Seekh raha hun
-480	Behra
-165	Ap
-248	Apki
-307	Baad may
-893	Mahsoos kar rahay
-567	Email Address
-334	Baad may
-97	Aj
-1161	Watermelon
-714	Kab
-944	Mujhay
-885	Mahsoos kar rahay
-1283	Ye
-1174	Watermelon
-1176	Watermelon
-302	Baad may
-1066	Seekh raha hun
-388	Bachay
-235	Apki
-952	Nahi hai
-832	Kya qeemat hai
-305	Baad may
-903	Mujhay
-1054	Seekh raha hun
-249	Apki
-887	Mahsoos kar rahay
-1179	Watermelon
-71	Aj
-94	Aj
-1065	Seekh raha hun
-33	APPLE
-900	Mujhay
-448	Barai Mehrbani
-445	Barai Mehrbani
-967	Nahi hai
-1247	Yaqeen
-796	Kesay
-77	Aj
-84	Aj
-1153	Watermelon
-82	Aj
-457	Behra
-1074	Seekh raha hun
-864	Mahsoos kar rahay
-436	Barai Mehrbani
-1008	Samjhna
-1039	Samjhna
-404	Barai Mehrbani
-1133	Walaikumasalam
-706	Kab
-754	Kesay
-104	Allah
-630	G Han
-704	Kab
-62	Aj
-281	Assalamulaikum
-770	Kesay
-238	Apki
-223	Apki
-145	Allah
-1213	Yaqeen
-373	Bachay
-118	Allah
-945	Mujhay
-250	Assalamulaikum
-1252	Ye
-9	APPLE
-449	Barai Mehrbani
-255	Assalamulaikum
-593	Email Address
-389	Bachay
-727	Kab
-1043	Samjhna
-557	Email Address
-460	Behra
-1197	Watermelon
-144	Allah
-501	Bemar
-1200	Yaqeen
-539	Bemar
-177	Ap
-1254	Ye
-816	Kya qeemat hai
-679	Jao
-1293	Ye
-7	APPLE
-650	Jao
-1031	Samjhna
-357	Bachay
-329	Baad may
-987	Nahi hai
-976	Nahi hai
-258	Assalamulaikum
-1024	Samjhna
-372	Bachay
-908	Mujhay
-1032	Samjhna
-1268	Ye
-525	Bemar
-1264	Ye
-1125	Walaikumasalam
-879	Mahsoos kar rahay
-1236	Yaqeen
-440	Barai Mehrbani
-531	Bemar
-1134	Walaikumasalam
-226	Apki
-228	Apki
-1128	Walaikumasalam
-212	Apki
-79	Aj
-148	Allah
-1291	Ye
-990	Nahi hai
-1265	Ye
-133	Allah
-917	Mujhay
-408	Barai Mehrbani
-783	Kesay
-507	Bemar
-1030	Samjhna
-504	Bemar
-787	Kesay
-347	Baad may
-386	Bachay
-0	APPLE
-360	Bachay
-1229	Yaqeen
-475	Behra
-1114	Walaikumasalam
-910	Mujhay
-904	Mujhay
-881	Mahsoos kar rahay
-723	Kab
-172	Ap
-450	Behra
-125	Allah
-745	Kab
-530	Bemar
-90	Aj
-1257	Ye
-181	Ap
-767	Kesay
-414	Barai Mehrbani
-251	Assalamulaikum
-69	Aj
-131	Allah
-300	Baad may
-1007	Samjhna
-326	Baad may
-1270	Ye
-926	Mujhay
-499	Behra
-774	Kesay
-364	Bachay
-495	Behra
-1210	Yaqeen
-338	Baad may
-421	Barai Mehrbani
-164	Ap
-28	APPLE
-516	Bemar
-193	Ap
-1178	Watermelon
-1075	Seekh raha hun
-169	Ap
-916	Mujhay
-652	Jao
-173	Ap
-518	Bemar
-1216	Yaqeen
-1072	Seekh raha hun
-491	Behra
-73	Aj
-1088	Seekh raha hun
-587	Email Address
-657	Jao
-234	Apki
-732	Kab
-214	Apki
-162	Ap
-132	Allah
-909	Mujhay
-1273	Ye
-1068	Seekh raha hun
-185	Ap
-41	APPLE
-692	Jao
-108	Allah
-1000	Samjhna
-568	Email Address
-756	Kesay
-1101	Walaikumasalam
-1250	Ye
-483	Behra
-468	Behra
-24	APPLE
-851	Mahsoos kar rahay
-792	Kesay
-1295	Ye
-1099	Seekh raha hun
-366	Bachay
-989	Nahi hai
-1143	Walaikumasalam
-383	Bachay
-734	Kab
-717	Kab
-454	Behra
-264	Assalamulaikum
-888	Mahsoos kar rahay
-232	Apki
-444	Barai Mehrbani
-395	Bachay
-869	Mahsoos kar rahay
-176	Ap
-18	APPLE
-1139	Walaikumasalam
-825	Kya qeemat hai
-969	Nahi hai
-858	Mahsoos kar rahay
-595	Email Address
-61	Aj
-272	Assalamulaikum
-1221	Yaqeen
-278	Assalamulaikum
-991	Nahi hai
-694	Jao
-368	Bachay
-1196	Watermelon
-36	APPLE
-735	Kab
-963	Nahi hai
-1089	Seekh raha hun
-1258	Ye
-905	Mujhay
-547	Bemar
-1175	Watermelon
-688	Jao
-738	Kab
-191	Ap
-456	Behra
-393	Bachay
-675	Jao
-760	Kesay
-1279	Ye
-728	Kab
-419	Barai Mehrbani
-375	Bachay
-412	Barai Mehrbani
-74	Aj
-1217	Yaqeen
-1018	Samjhna
-500	Bemar
-943	Mujhay
-616	G Han
-114	Allah
-417	Barai Mehrbani
-601	G Han
-604	G Han
-982	Nahi hai
-89	Aj
-970	Nahi hai
-1244	Yaqeen
-753	Kesay
-498	Behra
-1029	Samjhna
-1035	Samjhna
-1033	Samjhna
-11	APPLE
-396	Bachay
-977	Nahi hai
-555	Email Address
-42	APPLE
-167	Ap
-416	Barai Mehrbani
-576	Email Address
-267	Assalamulaikum
-950	Nahi hai
-426	Barai Mehrbani
-690	Jao
-544	Bemar
-1218	Yaqeen
-674	Jao
-689	Jao
-1146	Walaikumasalam
-1272	Ye
-159	Ap
-1036	Samjhna
-257	Assalamulaikum
-997	Nahi hai
-335	Baad may
-1046	Samjhna
-15	APPLE
-515	Bemar
-324	Baad may
-768	Kesay
-607	G Han
-1144	Walaikumasalam
-1027	Samjhna
-1208	Yaqeen
-222	Apki
-179	Ap
-906	Mujhay
-99	Aj
-836	Kya qeemat hai
-757	Kesay
-521	Bemar
-761	Kesay
-22	APPLE
-356	Bachay
-733	Kab
-1079	Seekh raha hun
-1204	Yaqeen
-611	G Han
-1106	Walaikumasalam
-340	Baad may
-431	Barai Mehrbani
-918	Mujhay
-217	Apki
-203	Apki
-1047	Samjhna
-1058	Seekh raha hun
-93	Aj
-938	Mujhay
-68	Aj
-1135	Walaikumasalam
-284	Assalamulaikum
-696	Jao
-85	Aj
-434	Barai Mehrbani
-933	Mujhay
-153	Ap
-75	Aj
-1296	Ye
-1298	Ye
-789	Kesay
-580	Email Address
-446	Barai Mehrbani
-703	Kab
-188	Ap
-271	Assalamulaikum
-1093	Seekh raha hun
-884	Mahsoos kar rahay
-236	Apki
-487	Behra
-1255	Ye
-559	Email Address
-117	Allah
-637	G Han
-1169	Watermelon
-801	Kya qeemat hai
-750	Kesay
-512	Bemar
-633	G Han
-921	Mujhay
-1103	Walaikumasalam
-907	Mujhay
-1004	Samjhna
-126	Allah
-790	Kesay
-829	Kya qeemat hai
-116	Allah
-473	Behra
-740	Kab
-1098	Seekh raha hun
-57	Aj
-603	G Han
-786	Kesay
-830	Kya qeemat hai
-119	Allah
-656	Jao
-1297	Ye
-669	Jao
-105	Allah
-635	G Han
-369	Bachay
-268	Assalamulaikum
-655	Jao
-819	Kya qeemat hai
-935	Mujhay
-822	Kya qeemat hai
-1232	Yaqeen
-46	APPLE
-349	Baad may
-1122	Walaikumasalam
-876	Mahsoos kar rahay
-773	Kesay
-195	Ap
-102	Allah
-4	APPLE
-619	G Han
-571	Email Address
-52	Aj
-263	Assalamulaikum
-1185	Watermelon
-443	Barai Mehrbani
-1083	Seekh raha hun
-782	Kesay
-837	Kya qeemat hai
-998	Nahi hai
-691	Jao
-304	Baad may
-341	Baad may
-1023	Samjhna
-313	Baad may
-149	Allah
-124	Allah
-1261	Ye
-574	Email Address
-697	Jao
-664	Jao
-50	Aj
-1015	Samjhna
-958	Nahi hai
-726	Kab
-799	Kesay
-833	Kya qeemat hai
-353	Bachay
-1248	Yaqeen
-142	Allah
-470	Behra
-882	Mahsoos kar rahay
-971	Nahi hai
-653	Jao
-399	Bachay
-511	Bemar
-1245	Yaqeen
-320	Baad may
-19	APPLE
-684	Jao
-35	APPLE
-824	Kya qeemat hai
-902	Mujhay
-505	Bemar
-827	Kya qeemat hai
-1163	Watermelon
-407	Barai Mehrbani
-920	Mujhay
-817	Kya qeemat hai
-866	Mahsoos kar rahay
-537	Bemar
-758	Kesay
-1160	Watermelon
-1040	Samjhna
-38	APPLE
-175	Ap
-245	Apki
-810	Kya qeemat hai
-1177	Watermelon
-1107	Walaikumasalam
-1080	Seekh raha hun
-784	Kesay
-985	Nahi hai
-1282	Ye
-489	Behra
-154	Ap
-638	G Han
-961	Nahi hai
-662	Jao
-853	Mahsoos kar rahay
-942	Mujhay
-287	Assalamulaikum
-625	G Han
-1222	Yaqeen
-685	Jao
-1140	Walaikumasalam
-322	Baad may
-569	Email Address
-1239	Yaqeen
-17	APPLE
-127	Allah
-927	Mujhay
-980	Nahi hai
-1275	Ye
-190	Ap
-992	Nahi hai
-1269	Ye
-606	G Han
-180	Ap
-301	Baad may
-496	Behra
-1288	Ye
-1077	Seekh raha hun
-517	Bemar
-476	Behra
-157	Ap
-16	APPLE
-546	Bemar
-658	Jao
-1067	Seekh raha hun
-1019	Samjhna
-1091	Seekh raha hun
-959	Nahi hai
-1224	Yaqeen
-283	Assalamulaikum
-797	Kesay
-225	Apki
-26	APPLE
-437	Barai Mehrbani
-1263	Ye
-229	Apki
-37	APPLE
-749	Kab
-1045	Samjhna
-469	Behra
-1112	Walaikumasalam
-1277	Ye
-687	Jao
-1194	Watermelon
-639	G Han
-1299	Ye
-1087	Seekh raha hun
-1281	Ye
-800	Kya qeemat hai
-160	Ap
-956	Nahi hai
-821	Kya qeemat hai
-1105	Walaikumasalam
-877	Mahsoos kar rahay
-913	Mujhay
-152	Ap
-1189	Watermelon
-509	Bemar
-1092	Seekh raha hun
-103	Allah
-586	Email Address
-1211	Yaqeen
-53	Aj
-151	Ap
-403	Barai Mehrbani
-207	Apki
-1230	Yaqeen
-8	APPLE
-1014	Samjhna
-1060	Seekh raha hun
-452	Behra
-253	Assalamulaikum
-896	Mahsoos kar rahay
-1137	Walaikumasalam
-880	Mahsoos kar rahay
-1228	Yaqeen
-623	G Han
-345	Baad may
-1118	Walaikumasalam
-262	Assalamulaikum
-150	Ap
-472	Behra
-640	G Han
-1287	Ye
+dataset/raw\APPLE\APPLE_31.npy	APPLE
+dataset/raw\APPLE\APPLE_3.npy	APPLE
+dataset/raw\APPLE\APPLE_26.npy	APPLE
+dataset/raw\APPLE\APPLE_19.npy	APPLE
+dataset/raw\APPLE\APPLE_12.npy	APPLE
+dataset/raw\APPLE\APPLE_5.npy	APPLE
+dataset/raw\APPLE\APPLE_32.npy	APPLE
+dataset/raw\APPLE\APPLE_17.npy	APPLE
+dataset/raw\APPLE\APPLE_35.npy	APPLE
+dataset/raw\APPLE\APPLE_23.npy	APPLE
+dataset/raw\APPLE\APPLE_37.npy	APPLE
+dataset/raw\APPLE\APPLE_28.npy	APPLE
+dataset/raw\APPLE\APPLE_2.npy	APPLE
+dataset/raw\APPLE\APPLE_11.npy	APPLE
+dataset/raw\APPLE\APPLE_44.npy	APPLE
+dataset/raw\APPLE\APPLE_43.npy	APPLE
+dataset/raw\APPLE\APPLE_18.npy	APPLE
+dataset/raw\APPLE\APPLE_30.npy	APPLE
+dataset/raw\APPLE\APPLE_40.npy	APPLE
+dataset/raw\APPLE\APPLE_0.npy	APPLE
+dataset/raw\APPLE\APPLE_48.npy	APPLE
+dataset/raw\APPLE\APPLE_25.npy	APPLE
+dataset/raw\APPLE\APPLE_39.npy	APPLE
+dataset/raw\APPLE\APPLE_8.npy	APPLE
+dataset/raw\APPLE\APPLE_46.npy	APPLE
+dataset/raw\APPLE\APPLE_36.npy	APPLE
+dataset/raw\APPLE\APPLE_34.npy	APPLE
+dataset/raw\APPLE\APPLE_27.npy	APPLE
+dataset/raw\APPLE\APPLE_29.npy	APPLE
+dataset/raw\APPLE\APPLE_47.npy	APPLE
+dataset/raw\APPLE\APPLE_6.npy	APPLE
+dataset/raw\APPLE\APPLE_41.npy	APPLE
+dataset/raw\APPLE\APPLE_38.npy	APPLE
+dataset/raw\APPLE\APPLE_49.npy	APPLE
+dataset/raw\APPLE\APPLE_20.npy	APPLE
+dataset/raw\APPLE\APPLE_9.npy	APPLE
+dataset/raw\APPLE\APPLE_7.npy	APPLE
+dataset/raw\APPLE\APPLE_10.npy	APPLE
+dataset/raw\APPLE\APPLE_33.npy	APPLE
+dataset/raw\APPLE\APPLE_42.npy	APPLE
+dataset/raw\Ain\Ain_47.npy	Ain
+dataset/raw\Ain\Ain_46.npy	Ain
+dataset/raw\Ain\Ain_20.npy	Ain
+dataset/raw\Ain\Ain_17.npy	Ain
+dataset/raw\Ain\Ain_26.npy	Ain
+dataset/raw\Ain\Ain_35.npy	Ain
+dataset/raw\Ain\Ain_1.npy	Ain
+dataset/raw\Ain\Ain_0.npy	Ain
+dataset/raw\Ain\Ain_22.npy	Ain
+dataset/raw\Ain\Ain_11.npy	Ain
+dataset/raw\Ain\Ain_34.npy	Ain
+dataset/raw\Ain\Ain_18.npy	Ain
+dataset/raw\Ain\Ain_43.npy	Ain
+dataset/raw\Ain\Ain_29.npy	Ain
+dataset/raw\Ain\Ain_23.npy	Ain
+dataset/raw\Ain\Ain_5.npy	Ain
+dataset/raw\Ain\Ain_8.npy	Ain
+dataset/raw\Ain\Ain_24.npy	Ain
+dataset/raw\Ain\Ain_31.npy	Ain
+dataset/raw\Ain\Ain_42.npy	Ain
+dataset/raw\Ain\Ain_36.npy	Ain
+dataset/raw\Ain\Ain_28.npy	Ain
+dataset/raw\Ain\Ain_38.npy	Ain
+dataset/raw\Ain\Ain_37.npy	Ain
+dataset/raw\Ain\Ain_33.npy	Ain
+dataset/raw\Ain\Ain_9.npy	Ain
+dataset/raw\Ain\Ain_19.npy	Ain
+dataset/raw\Ain\Ain_32.npy	Ain
+dataset/raw\Ain\Ain_27.npy	Ain
+dataset/raw\Ain\Ain_39.npy	Ain
+dataset/raw\Ain\Ain_16.npy	Ain
+dataset/raw\Ain\Ain_7.npy	Ain
+dataset/raw\Ain\Ain_14.npy	Ain
+dataset/raw\Ain\Ain_48.npy	Ain
+dataset/raw\Ain\Ain_6.npy	Ain
+dataset/raw\Ain\Ain_49.npy	Ain
+dataset/raw\Ain\Ain_21.npy	Ain
+dataset/raw\Ain\Ain_10.npy	Ain
+dataset/raw\Ain\Ain_12.npy	Ain
+dataset/raw\Ain\Ain_2.npy	Ain
+dataset/raw\Aj\Aj_29.npy	Aj
+dataset/raw\Aj\Aj_25.npy	Aj
+dataset/raw\Aj\Aj_18.npy	Aj
+dataset/raw\Aj\Aj_21.npy	Aj
+dataset/raw\Aj\Aj_24.npy	Aj
+dataset/raw\Aj\Aj_26.npy	Aj
+dataset/raw\Aj\Aj_14.npy	Aj
+dataset/raw\Aj\Aj_36.npy	Aj
+dataset/raw\Aj\Aj_3.npy	Aj
+dataset/raw\Aj\Aj_0.npy	Aj
+dataset/raw\Aj\Aj_32.npy	Aj
+dataset/raw\Aj\Aj_28.npy	Aj
+dataset/raw\Aj\Aj_42.npy	Aj
+dataset/raw\Aj\Aj_45.npy	Aj
+dataset/raw\Aj\Aj_44.npy	Aj
+dataset/raw\Aj\Aj_38.npy	Aj
+dataset/raw\Aj\Aj_2.npy	Aj
+dataset/raw\Aj\Aj_48.npy	Aj
+dataset/raw\Aj\Aj_7.npy	Aj
+dataset/raw\Aj\Aj_13.npy	Aj
+dataset/raw\Aj\Aj_6.npy	Aj
+dataset/raw\Aj\Aj_34.npy	Aj
+dataset/raw\Aj\Aj_11.npy	Aj
+dataset/raw\Aj\Aj_1.npy	Aj
+dataset/raw\Aj\Aj_30.npy	Aj
+dataset/raw\Aj\Aj_10.npy	Aj
+dataset/raw\Aj\Aj_8.npy	Aj
+dataset/raw\Aj\Aj_39.npy	Aj
+dataset/raw\Aj\Aj_12.npy	Aj
+dataset/raw\Aj\Aj_15.npy	Aj
+dataset/raw\Aj\Aj_19.npy	Aj
+dataset/raw\Aj\Aj_47.npy	Aj
+dataset/raw\Aj\Aj_33.npy	Aj
+dataset/raw\Aj\Aj_43.npy	Aj
+dataset/raw\Aj\Aj_4.npy	Aj
+dataset/raw\Aj\Aj_40.npy	Aj
+dataset/raw\Aj\Aj_22.npy	Aj
+dataset/raw\Aj\Aj_16.npy	Aj
+dataset/raw\Aj\Aj_23.npy	Aj
+dataset/raw\Aj\Aj_17.npy	Aj
+dataset/raw\Alif\Alif_8.npy	Alif
+dataset/raw\Alif\Alif_34.npy	Alif
+dataset/raw\Alif\Alif_13.npy	Alif
+dataset/raw\Alif\Alif_20.npy	Alif
+dataset/raw\Alif\Alif_42.npy	Alif
+dataset/raw\Alif\Alif_30.npy	Alif
+dataset/raw\Alif\Alif_29.npy	Alif
+dataset/raw\Alif\Alif_46.npy	Alif
+dataset/raw\Alif\Alif_33.npy	Alif
+dataset/raw\Alif\Alif_24.npy	Alif
+dataset/raw\Alif\Alif_21.npy	Alif
+dataset/raw\Alif\Alif_16.npy	Alif
+dataset/raw\Alif\Alif_28.npy	Alif
+dataset/raw\Alif\Alif_4.npy	Alif
+dataset/raw\Alif\Alif_5.npy	Alif
+dataset/raw\Alif\Alif_12.npy	Alif
+dataset/raw\Alif\Alif_37.npy	Alif
+dataset/raw\Alif\Alif_36.npy	Alif
+dataset/raw\Alif\Alif_44.npy	Alif
+dataset/raw\Alif\Alif_10.npy	Alif
+dataset/raw\Alif\Alif_25.npy	Alif
+dataset/raw\Alif\Alif_40.npy	Alif
+dataset/raw\Alif\Alif_1.npy	Alif
+dataset/raw\Alif\Alif_15.npy	Alif
+dataset/raw\Alif\Alif_41.npy	Alif
+dataset/raw\Alif\Alif_31.npy	Alif
+dataset/raw\Alif\Alif_32.npy	Alif
+dataset/raw\Alif\Alif_48.npy	Alif
+dataset/raw\Alif\Alif_11.npy	Alif
+dataset/raw\Alif\Alif_43.npy	Alif
+dataset/raw\Alif\Alif_22.npy	Alif
+dataset/raw\Alif\Alif_27.npy	Alif
+dataset/raw\Alif\Alif_7.npy	Alif
+dataset/raw\Alif\Alif_39.npy	Alif
+dataset/raw\Alif\Alif_9.npy	Alif
+dataset/raw\Alif\Alif_3.npy	Alif
+dataset/raw\Alif\Alif_17.npy	Alif
+dataset/raw\Alif\Alif_2.npy	Alif
+dataset/raw\Alif\Alif_47.npy	Alif
+dataset/raw\Alif\Alif_26.npy	Alif
+dataset/raw\Allah\Allah_32.npy	Allah
+dataset/raw\Allah\Allah_36.npy	Allah
+dataset/raw\Allah\Allah_3.npy	Allah
+dataset/raw\Allah\Allah_25.npy	Allah
+dataset/raw\Allah\Allah_44.npy	Allah
+dataset/raw\Allah\Allah_31.npy	Allah
+dataset/raw\Allah\Allah_38.npy	Allah
+dataset/raw\Allah\Allah_17.npy	Allah
+dataset/raw\Allah\Allah_13.npy	Allah
+dataset/raw\Allah\Allah_20.npy	Allah
+dataset/raw\Allah\Allah_19.npy	Allah
+dataset/raw\Allah\Allah_35.npy	Allah
+dataset/raw\Allah\Allah_8.npy	Allah
+dataset/raw\Allah\Allah_27.npy	Allah
+dataset/raw\Allah\Allah_2.npy	Allah
+dataset/raw\Allah\Allah_26.npy	Allah
+dataset/raw\Allah\Allah_30.npy	Allah
+dataset/raw\Allah\Allah_29.npy	Allah
+dataset/raw\Allah\Allah_37.npy	Allah
+dataset/raw\Allah\Allah_24.npy	Allah
+dataset/raw\Allah\Allah_14.npy	Allah
+dataset/raw\Allah\Allah_5.npy	Allah
+dataset/raw\Allah\Allah_47.npy	Allah
+dataset/raw\Allah\Allah_16.npy	Allah
+dataset/raw\Allah\Allah_6.npy	Allah
+dataset/raw\Allah\Allah_23.npy	Allah
+dataset/raw\Allah\Allah_10.npy	Allah
+dataset/raw\Allah\Allah_18.npy	Allah
+dataset/raw\Allah\Allah_33.npy	Allah
+dataset/raw\Allah\Allah_46.npy	Allah
+dataset/raw\Allah\Allah_7.npy	Allah
+dataset/raw\Allah\Allah_4.npy	Allah
+dataset/raw\Allah\Allah_41.npy	Allah
+dataset/raw\Allah\Allah_11.npy	Allah
+dataset/raw\Allah\Allah_48.npy	Allah
+dataset/raw\Allah\Allah_0.npy	Allah
+dataset/raw\Allah\Allah_43.npy	Allah
+dataset/raw\Allah\Allah_45.npy	Allah
+dataset/raw\Allah\Allah_49.npy	Allah
+dataset/raw\Allah\Allah_40.npy	Allah
+dataset/raw\Allama Iqbal\Allama Iqbal_38.npy	Allama Iqbal
+dataset/raw\Allama Iqbal\Allama Iqbal_18.npy	Allama Iqbal
+dataset/raw\Allama Iqbal\Allama Iqbal_23.npy	Allama Iqbal
+dataset/raw\Allama Iqbal\Allama Iqbal_25.npy	Allama Iqbal
+dataset/raw\Allama Iqbal\Allama Iqbal_36.npy	Allama Iqbal
+dataset/raw\Allama Iqbal\Allama Iqbal_17.npy	Allama Iqbal
+dataset/raw\Allama Iqbal\Allama Iqbal_26.npy	Allama Iqbal
+dataset/raw\Allama Iqbal\Allama Iqbal_44.npy	Allama Iqbal
+dataset/raw\Allama Iqbal\Allama Iqbal_46.npy	Allama Iqbal
+dataset/raw\Allama Iqbal\Allama Iqbal_8.npy	Allama Iqbal
+dataset/raw\Allama Iqbal\Allama Iqbal_21.npy	Allama Iqbal
+dataset/raw\Allama Iqbal\Allama Iqbal_32.npy	Allama Iqbal
+dataset/raw\Allama Iqbal\Allama Iqbal_48.npy	Allama Iqbal
+dataset/raw\Allama Iqbal\Allama Iqbal_29.npy	Allama Iqbal
+dataset/raw\Allama Iqbal\Allama Iqbal_40.npy	Allama Iqbal
+dataset/raw\Allama Iqbal\Allama Iqbal_43.npy	Allama Iqbal
+dataset/raw\Allama Iqbal\Allama Iqbal_37.npy	Allama Iqbal
+dataset/raw\Allama Iqbal\Allama Iqbal_27.npy	Allama Iqbal
+dataset/raw\Allama Iqbal\Allama Iqbal_31.npy	Allama Iqbal
+dataset/raw\Allama Iqbal\Allama Iqbal_1.npy	Allama Iqbal
+dataset/raw\Allama Iqbal\Allama Iqbal_49.npy	Allama Iqbal
+dataset/raw\Allama Iqbal\Allama Iqbal_39.npy	Allama Iqbal
+dataset/raw\Allama Iqbal\Allama Iqbal_3.npy	Allama Iqbal
+dataset/raw\Allama Iqbal\Allama Iqbal_41.npy	Allama Iqbal
+dataset/raw\Allama Iqbal\Allama Iqbal_20.npy	Allama Iqbal
+dataset/raw\Allama Iqbal\Allama Iqbal_13.npy	Allama Iqbal
+dataset/raw\Allama Iqbal\Allama Iqbal_15.npy	Allama Iqbal
+dataset/raw\Allama Iqbal\Allama Iqbal_45.npy	Allama Iqbal
+dataset/raw\Allama Iqbal\Allama Iqbal_30.npy	Allama Iqbal
+dataset/raw\Allama Iqbal\Allama Iqbal_42.npy	Allama Iqbal
+dataset/raw\Allama Iqbal\Allama Iqbal_10.npy	Allama Iqbal
+dataset/raw\Allama Iqbal\Allama Iqbal_0.npy	Allama Iqbal
+dataset/raw\Allama Iqbal\Allama Iqbal_11.npy	Allama Iqbal
+dataset/raw\Allama Iqbal\Allama Iqbal_7.npy	Allama Iqbal
+dataset/raw\Allama Iqbal\Allama Iqbal_47.npy	Allama Iqbal
+dataset/raw\Allama Iqbal\Allama Iqbal_12.npy	Allama Iqbal
+dataset/raw\Allama Iqbal\Allama Iqbal_9.npy	Allama Iqbal
+dataset/raw\Allama Iqbal\Allama Iqbal_35.npy	Allama Iqbal
+dataset/raw\Allama Iqbal\Allama Iqbal_24.npy	Allama Iqbal
+dataset/raw\Allama Iqbal\Allama Iqbal_19.npy	Allama Iqbal
+dataset/raw\Ap\Ap_17.npy	Ap
+dataset/raw\Ap\Ap_47.npy	Ap
+dataset/raw\Ap\Ap_37.npy	Ap
+dataset/raw\Ap\Ap_21.npy	Ap
+dataset/raw\Ap\Ap_5.npy	Ap
+dataset/raw\Ap\Ap_45.npy	Ap
+dataset/raw\Ap\Ap_0.npy	Ap
+dataset/raw\Ap\Ap_34.npy	Ap
+dataset/raw\Ap\Ap_43.npy	Ap
+dataset/raw\Ap\Ap_30.npy	Ap
+dataset/raw\Ap\Ap_40.npy	Ap
+dataset/raw\Ap\Ap_2.npy	Ap
+dataset/raw\Ap\Ap_24.npy	Ap
+dataset/raw\Ap\Ap_32.npy	Ap
+dataset/raw\Ap\Ap_29.npy	Ap
+dataset/raw\Ap\Ap_33.npy	Ap
+dataset/raw\Ap\Ap_44.npy	Ap
+dataset/raw\Ap\Ap_8.npy	Ap
+dataset/raw\Ap\Ap_14.npy	Ap
+dataset/raw\Ap\Ap_16.npy	Ap
+dataset/raw\Ap\Ap_46.npy	Ap
+dataset/raw\Ap\Ap_23.npy	Ap
+dataset/raw\Ap\Ap_3.npy	Ap
+dataset/raw\Ap\Ap_49.npy	Ap
+dataset/raw\Ap\Ap_28.npy	Ap
+dataset/raw\Ap\Ap_20.npy	Ap
+dataset/raw\Ap\Ap_10.npy	Ap
+dataset/raw\Ap\Ap_35.npy	Ap
+dataset/raw\Ap\Ap_1.npy	Ap
+dataset/raw\Ap\Ap_26.npy	Ap
+dataset/raw\Ap\Ap_25.npy	Ap
+dataset/raw\Ap\Ap_4.npy	Ap
+dataset/raw\Ap\Ap_15.npy	Ap
+dataset/raw\Ap\Ap_31.npy	Ap
+dataset/raw\Ap\Ap_22.npy	Ap
+dataset/raw\Ap\Ap_41.npy	Ap
+dataset/raw\Ap\Ap_12.npy	Ap
+dataset/raw\Ap\Ap_19.npy	Ap
+dataset/raw\Ap\Ap_13.npy	Ap
+dataset/raw\Ap\Ap_48.npy	Ap
+dataset/raw\Apki\Apki_35.npy	Apki
+dataset/raw\Apki\Apki_32.npy	Apki
+dataset/raw\Apki\Apki_33.npy	Apki
+dataset/raw\Apki\Apki_13.npy	Apki
+dataset/raw\Apki\Apki_19.npy	Apki
+dataset/raw\Apki\Apki_10.npy	Apki
+dataset/raw\Apki\Apki_15.npy	Apki
+dataset/raw\Apki\Apki_2.npy	Apki
+dataset/raw\Apki\Apki_31.npy	Apki
+dataset/raw\Apki\Apki_6.npy	Apki
+dataset/raw\Apki\Apki_27.npy	Apki
+dataset/raw\Apki\Apki_1.npy	Apki
+dataset/raw\Apki\Apki_41.npy	Apki
+dataset/raw\Apki\Apki_20.npy	Apki
+dataset/raw\Apki\Apki_21.npy	Apki
+dataset/raw\Apki\Apki_47.npy	Apki
+dataset/raw\Apki\Apki_49.npy	Apki
+dataset/raw\Apki\Apki_37.npy	Apki
+dataset/raw\Apki\Apki_30.npy	Apki
+dataset/raw\Apki\Apki_28.npy	Apki
+dataset/raw\Apki\Apki_46.npy	Apki
+dataset/raw\Apki\Apki_42.npy	Apki
+dataset/raw\Apki\Apki_44.npy	Apki
+dataset/raw\Apki\Apki_17.npy	Apki
+dataset/raw\Apki\Apki_9.npy	Apki
+dataset/raw\Apki\Apki_5.npy	Apki
+dataset/raw\Apki\Apki_24.npy	Apki
+dataset/raw\Apki\Apki_48.npy	Apki
+dataset/raw\Apki\Apki_36.npy	Apki
+dataset/raw\Apki\Apki_45.npy	Apki
+dataset/raw\Apki\Apki_11.npy	Apki
+dataset/raw\Apki\Apki_8.npy	Apki
+dataset/raw\Apki\Apki_7.npy	Apki
+dataset/raw\Apki\Apki_14.npy	Apki
+dataset/raw\Apki\Apki_43.npy	Apki
+dataset/raw\Apki\Apki_40.npy	Apki
+dataset/raw\Apki\Apki_0.npy	Apki
+dataset/raw\Apki\Apki_39.npy	Apki
+dataset/raw\Apki\Apki_26.npy	Apki
+dataset/raw\Apki\Apki_4.npy	Apki
+dataset/raw\Assalamulaikum\Assalamulaikum_23.npy	Assalamulaikum
+dataset/raw\Assalamulaikum\Assalamulaikum_22.npy	Assalamulaikum
+dataset/raw\Assalamulaikum\Assalamulaikum_41.npy	Assalamulaikum
+dataset/raw\Assalamulaikum\Assalamulaikum_46.npy	Assalamulaikum
+dataset/raw\Assalamulaikum\Assalamulaikum_32.npy	Assalamulaikum
+dataset/raw\Assalamulaikum\Assalamulaikum_27.npy	Assalamulaikum
+dataset/raw\Assalamulaikum\Assalamulaikum_18.npy	Assalamulaikum
+dataset/raw\Assalamulaikum\Assalamulaikum_13.npy	Assalamulaikum
+dataset/raw\Assalamulaikum\Assalamulaikum_38.npy	Assalamulaikum
+dataset/raw\Assalamulaikum\Assalamulaikum_8.npy	Assalamulaikum
+dataset/raw\Assalamulaikum\Assalamulaikum_30.npy	Assalamulaikum
+dataset/raw\Assalamulaikum\Assalamulaikum_21.npy	Assalamulaikum
+dataset/raw\Assalamulaikum\Assalamulaikum_2.npy	Assalamulaikum
+dataset/raw\Assalamulaikum\Assalamulaikum_39.npy	Assalamulaikum
+dataset/raw\Assalamulaikum\Assalamulaikum_25.npy	Assalamulaikum
+dataset/raw\Assalamulaikum\Assalamulaikum_29.npy	Assalamulaikum
+dataset/raw\Assalamulaikum\Assalamulaikum_48.npy	Assalamulaikum
+dataset/raw\Assalamulaikum\Assalamulaikum_20.npy	Assalamulaikum
+dataset/raw\Assalamulaikum\Assalamulaikum_24.npy	Assalamulaikum
+dataset/raw\Assalamulaikum\Assalamulaikum_36.npy	Assalamulaikum
+dataset/raw\Assalamulaikum\Assalamulaikum_11.npy	Assalamulaikum
+dataset/raw\Assalamulaikum\Assalamulaikum_37.npy	Assalamulaikum
+dataset/raw\Assalamulaikum\Assalamulaikum_49.npy	Assalamulaikum
+dataset/raw\Assalamulaikum\Assalamulaikum_28.npy	Assalamulaikum
+dataset/raw\Assalamulaikum\Assalamulaikum_14.npy	Assalamulaikum
+dataset/raw\Assalamulaikum\Assalamulaikum_19.npy	Assalamulaikum
+dataset/raw\Assalamulaikum\Assalamulaikum_1.npy	Assalamulaikum
+dataset/raw\Assalamulaikum\Assalamulaikum_43.npy	Assalamulaikum
+dataset/raw\Assalamulaikum\Assalamulaikum_31.npy	Assalamulaikum
+dataset/raw\Assalamulaikum\Assalamulaikum_35.npy	Assalamulaikum
+dataset/raw\Assalamulaikum\Assalamulaikum_34.npy	Assalamulaikum
+dataset/raw\Assalamulaikum\Assalamulaikum_44.npy	Assalamulaikum
+dataset/raw\Assalamulaikum\Assalamulaikum_26.npy	Assalamulaikum
+dataset/raw\Assalamulaikum\Assalamulaikum_45.npy	Assalamulaikum
+dataset/raw\Assalamulaikum\Assalamulaikum_16.npy	Assalamulaikum
+dataset/raw\Assalamulaikum\Assalamulaikum_7.npy	Assalamulaikum
+dataset/raw\Assalamulaikum\Assalamulaikum_47.npy	Assalamulaikum
+dataset/raw\Assalamulaikum\Assalamulaikum_6.npy	Assalamulaikum
+dataset/raw\Assalamulaikum\Assalamulaikum_42.npy	Assalamulaikum
+dataset/raw\Assalamulaikum\Assalamulaikum_3.npy	Assalamulaikum
+dataset/raw\Baad may\Baad may_22.npy	Baad may
+dataset/raw\Baad may\Baad may_8.npy	Baad may
+dataset/raw\Baad may\Baad may_34.npy	Baad may
+dataset/raw\Baad may\Baad may_43.npy	Baad may
+dataset/raw\Baad may\Baad may_15.npy	Baad may
+dataset/raw\Baad may\Baad may_23.npy	Baad may
+dataset/raw\Baad may\Baad may_3.npy	Baad may
+dataset/raw\Baad may\Baad may_49.npy	Baad may
+dataset/raw\Baad may\Baad may_4.npy	Baad may
+dataset/raw\Baad may\Baad may_47.npy	Baad may
+dataset/raw\Baad may\Baad may_45.npy	Baad may
+dataset/raw\Baad may\Baad may_14.npy	Baad may
+dataset/raw\Baad may\Baad may_27.npy	Baad may
+dataset/raw\Baad may\Baad may_7.npy	Baad may
+dataset/raw\Baad may\Baad may_17.npy	Baad may
+dataset/raw\Baad may\Baad may_38.npy	Baad may
+dataset/raw\Baad may\Baad may_33.npy	Baad may
+dataset/raw\Baad may\Baad may_19.npy	Baad may
+dataset/raw\Baad may\Baad may_20.npy	Baad may
+dataset/raw\Baad may\Baad may_37.npy	Baad may
+dataset/raw\Baad may\Baad may_44.npy	Baad may
+dataset/raw\Baad may\Baad may_9.npy	Baad may
+dataset/raw\Baad may\Baad may_25.npy	Baad may
+dataset/raw\Baad may\Baad may_13.npy	Baad may
+dataset/raw\Baad may\Baad may_16.npy	Baad may
+dataset/raw\Baad may\Baad may_11.npy	Baad may
+dataset/raw\Baad may\Baad may_0.npy	Baad may
+dataset/raw\Baad may\Baad may_18.npy	Baad may
+dataset/raw\Baad may\Baad may_39.npy	Baad may
+dataset/raw\Baad may\Baad may_32.npy	Baad may
+dataset/raw\Baad may\Baad may_41.npy	Baad may
+dataset/raw\Baad may\Baad may_42.npy	Baad may
+dataset/raw\Baad may\Baad may_48.npy	Baad may
+dataset/raw\Baad may\Baad may_40.npy	Baad may
+dataset/raw\Baad may\Baad may_12.npy	Baad may
+dataset/raw\Baad may\Baad may_24.npy	Baad may
+dataset/raw\Baad may\Baad may_28.npy	Baad may
+dataset/raw\Baad may\Baad may_31.npy	Baad may
+dataset/raw\Baad may\Baad may_5.npy	Baad may
+dataset/raw\Baad may\Baad may_1.npy	Baad may
+dataset/raw\Bachay\Bachay_46.npy	Bachay
+dataset/raw\Bachay\Bachay_19.npy	Bachay
+dataset/raw\Bachay\Bachay_36.npy	Bachay
+dataset/raw\Bachay\Bachay_42.npy	Bachay
+dataset/raw\Bachay\Bachay_33.npy	Bachay
+dataset/raw\Bachay\Bachay_9.npy	Bachay
+dataset/raw\Bachay\Bachay_35.npy	Bachay
+dataset/raw\Bachay\Bachay_1.npy	Bachay
+dataset/raw\Bachay\Bachay_10.npy	Bachay
+dataset/raw\Bachay\Bachay_29.npy	Bachay
+dataset/raw\Bachay\Bachay_4.npy	Bachay
+dataset/raw\Bachay\Bachay_11.npy	Bachay
+dataset/raw\Bachay\Bachay_23.npy	Bachay
+dataset/raw\Bachay\Bachay_22.npy	Bachay
+dataset/raw\Bachay\Bachay_48.npy	Bachay
+dataset/raw\Bachay\Bachay_21.npy	Bachay
+dataset/raw\Bachay\Bachay_18.npy	Bachay
+dataset/raw\Bachay\Bachay_20.npy	Bachay
+dataset/raw\Bachay\Bachay_14.npy	Bachay
+dataset/raw\Bachay\Bachay_43.npy	Bachay
+dataset/raw\Bachay\Bachay_37.npy	Bachay
+dataset/raw\Bachay\Bachay_0.npy	Bachay
+dataset/raw\Bachay\Bachay_24.npy	Bachay
+dataset/raw\Bachay\Bachay_39.npy	Bachay
+dataset/raw\Bachay\Bachay_17.npy	Bachay
+dataset/raw\Bachay\Bachay_41.npy	Bachay
+dataset/raw\Bachay\Bachay_45.npy	Bachay
+dataset/raw\Bachay\Bachay_13.npy	Bachay
+dataset/raw\Bachay\Bachay_34.npy	Bachay
+dataset/raw\Bachay\Bachay_3.npy	Bachay
+dataset/raw\Bachay\Bachay_7.npy	Bachay
+dataset/raw\Bachay\Bachay_30.npy	Bachay
+dataset/raw\Bachay\Bachay_6.npy	Bachay
+dataset/raw\Bachay\Bachay_2.npy	Bachay
+dataset/raw\Bachay\Bachay_16.npy	Bachay
+dataset/raw\Bachay\Bachay_40.npy	Bachay
+dataset/raw\Bachay\Bachay_25.npy	Bachay
+dataset/raw\Bachay\Bachay_31.npy	Bachay
+dataset/raw\Bachay\Bachay_5.npy	Bachay
+dataset/raw\Bachay\Bachay_32.npy	Bachay
+dataset/raw\Barai Mehrbani\Barai Mehrbani_33.npy	Barai Mehrbani
+dataset/raw\Barai Mehrbani\Barai Mehrbani_25.npy	Barai Mehrbani
+dataset/raw\Barai Mehrbani\Barai Mehrbani_3.npy	Barai Mehrbani
+dataset/raw\Barai Mehrbani\Barai Mehrbani_19.npy	Barai Mehrbani
+dataset/raw\Barai Mehrbani\Barai Mehrbani_46.npy	Barai Mehrbani
+dataset/raw\Barai Mehrbani\Barai Mehrbani_39.npy	Barai Mehrbani
+dataset/raw\Barai Mehrbani\Barai Mehrbani_14.npy	Barai Mehrbani
+dataset/raw\Barai Mehrbani\Barai Mehrbani_28.npy	Barai Mehrbani
+dataset/raw\Barai Mehrbani\Barai Mehrbani_5.npy	Barai Mehrbani
+dataset/raw\Barai Mehrbani\Barai Mehrbani_16.npy	Barai Mehrbani
+dataset/raw\Barai Mehrbani\Barai Mehrbani_18.npy	Barai Mehrbani
+dataset/raw\Barai Mehrbani\Barai Mehrbani_8.npy	Barai Mehrbani
+dataset/raw\Barai Mehrbani\Barai Mehrbani_40.npy	Barai Mehrbani
+dataset/raw\Barai Mehrbani\Barai Mehrbani_9.npy	Barai Mehrbani
+dataset/raw\Barai Mehrbani\Barai Mehrbani_43.npy	Barai Mehrbani
+dataset/raw\Barai Mehrbani\Barai Mehrbani_38.npy	Barai Mehrbani
+dataset/raw\Barai Mehrbani\Barai Mehrbani_34.npy	Barai Mehrbani
+dataset/raw\Barai Mehrbani\Barai Mehrbani_24.npy	Barai Mehrbani
+dataset/raw\Barai Mehrbani\Barai Mehrbani_49.npy	Barai Mehrbani
+dataset/raw\Barai Mehrbani\Barai Mehrbani_7.npy	Barai Mehrbani
+dataset/raw\Barai Mehrbani\Barai Mehrbani_23.npy	Barai Mehrbani
+dataset/raw\Barai Mehrbani\Barai Mehrbani_13.npy	Barai Mehrbani
+dataset/raw\Barai Mehrbani\Barai Mehrbani_15.npy	Barai Mehrbani
+dataset/raw\Barai Mehrbani\Barai Mehrbani_20.npy	Barai Mehrbani
+dataset/raw\Barai Mehrbani\Barai Mehrbani_11.npy	Barai Mehrbani
+dataset/raw\Barai Mehrbani\Barai Mehrbani_42.npy	Barai Mehrbani
+dataset/raw\Barai Mehrbani\Barai Mehrbani_4.npy	Barai Mehrbani
+dataset/raw\Barai Mehrbani\Barai Mehrbani_0.npy	Barai Mehrbani
+dataset/raw\Barai Mehrbani\Barai Mehrbani_29.npy	Barai Mehrbani
+dataset/raw\Barai Mehrbani\Barai Mehrbani_27.npy	Barai Mehrbani
+dataset/raw\Barai Mehrbani\Barai Mehrbani_45.npy	Barai Mehrbani
+dataset/raw\Barai Mehrbani\Barai Mehrbani_47.npy	Barai Mehrbani
+dataset/raw\Barai Mehrbani\Barai Mehrbani_31.npy	Barai Mehrbani
+dataset/raw\Barai Mehrbani\Barai Mehrbani_37.npy	Barai Mehrbani
+dataset/raw\Barai Mehrbani\Barai Mehrbani_30.npy	Barai Mehrbani
+dataset/raw\Barai Mehrbani\Barai Mehrbani_6.npy	Barai Mehrbani
+dataset/raw\Barai Mehrbani\Barai Mehrbani_41.npy	Barai Mehrbani
+dataset/raw\Barai Mehrbani\Barai Mehrbani_32.npy	Barai Mehrbani
+dataset/raw\Barai Mehrbani\Barai Mehrbani_35.npy	Barai Mehrbani
+dataset/raw\Barai Mehrbani\Barai Mehrbani_12.npy	Barai Mehrbani
+dataset/raw\Bay\Bay_3.npy	Bay
+dataset/raw\Bay\Bay_16.npy	Bay
+dataset/raw\Bay\Bay_1.npy	Bay
+dataset/raw\Bay\Bay_4.npy	Bay
+dataset/raw\Bay\Bay_13.npy	Bay
+dataset/raw\Bay\Bay_48.npy	Bay
+dataset/raw\Bay\Bay_35.npy	Bay
+dataset/raw\Bay\Bay_31.npy	Bay
+dataset/raw\Bay\Bay_19.npy	Bay
+dataset/raw\Bay\Bay_5.npy	Bay
+dataset/raw\Bay\Bay_17.npy	Bay
+dataset/raw\Bay\Bay_30.npy	Bay
+dataset/raw\Bay\Bay_38.npy	Bay
+dataset/raw\Bay\Bay_11.npy	Bay
+dataset/raw\Bay\Bay_0.npy	Bay
+dataset/raw\Bay\Bay_40.npy	Bay
+dataset/raw\Bay\Bay_21.npy	Bay
+dataset/raw\Bay\Bay_9.npy	Bay
+dataset/raw\Bay\Bay_26.npy	Bay
+dataset/raw\Bay\Bay_20.npy	Bay
+dataset/raw\Bay\Bay_8.npy	Bay
+dataset/raw\Bay\Bay_14.npy	Bay
+dataset/raw\Bay\Bay_32.npy	Bay
+dataset/raw\Bay\Bay_29.npy	Bay
+dataset/raw\Bay\Bay_2.npy	Bay
+dataset/raw\Bay\Bay_15.npy	Bay
+dataset/raw\Bay\Bay_33.npy	Bay
+dataset/raw\Bay\Bay_41.npy	Bay
+dataset/raw\Bay\Bay_10.npy	Bay
+dataset/raw\Bay\Bay_46.npy	Bay
+dataset/raw\Bay\Bay_42.npy	Bay
+dataset/raw\Bay\Bay_27.npy	Bay
+dataset/raw\Bay\Bay_28.npy	Bay
+dataset/raw\Bay\Bay_43.npy	Bay
+dataset/raw\Bay\Bay_44.npy	Bay
+dataset/raw\Bay\Bay_25.npy	Bay
+dataset/raw\Bay\Bay_12.npy	Bay
+dataset/raw\Bay\Bay_6.npy	Bay
+dataset/raw\Bay\Bay_47.npy	Bay
+dataset/raw\Bay\Bay_49.npy	Bay
+dataset/raw\Behra\Behra_29.npy	Behra
+dataset/raw\Behra\Behra_22.npy	Behra
+dataset/raw\Behra\Behra_26.npy	Behra
+dataset/raw\Behra\Behra_12.npy	Behra
+dataset/raw\Behra\Behra_27.npy	Behra
+dataset/raw\Behra\Behra_17.npy	Behra
+dataset/raw\Behra\Behra_3.npy	Behra
+dataset/raw\Behra\Behra_36.npy	Behra
+dataset/raw\Behra\Behra_11.npy	Behra
+dataset/raw\Behra\Behra_34.npy	Behra
+dataset/raw\Behra\Behra_7.npy	Behra
+dataset/raw\Behra\Behra_23.npy	Behra
+dataset/raw\Behra\Behra_19.npy	Behra
+dataset/raw\Behra\Behra_0.npy	Behra
+dataset/raw\Behra\Behra_15.npy	Behra
+dataset/raw\Behra\Behra_10.npy	Behra
+dataset/raw\Behra\Behra_25.npy	Behra
+dataset/raw\Behra\Behra_20.npy	Behra
+dataset/raw\Behra\Behra_32.npy	Behra
+dataset/raw\Behra\Behra_40.npy	Behra
+dataset/raw\Behra\Behra_47.npy	Behra
+dataset/raw\Behra\Behra_48.npy	Behra
+dataset/raw\Behra\Behra_44.npy	Behra
+dataset/raw\Behra\Behra_14.npy	Behra
+dataset/raw\Behra\Behra_45.npy	Behra
+dataset/raw\Behra\Behra_2.npy	Behra
+dataset/raw\Behra\Behra_5.npy	Behra
+dataset/raw\Behra\Behra_42.npy	Behra
+dataset/raw\Behra\Behra_39.npy	Behra
+dataset/raw\Behra\Behra_8.npy	Behra
+dataset/raw\Behra\Behra_38.npy	Behra
+dataset/raw\Behra\Behra_43.npy	Behra
+dataset/raw\Behra\Behra_6.npy	Behra
+dataset/raw\Behra\Behra_13.npy	Behra
+dataset/raw\Behra\Behra_41.npy	Behra
+dataset/raw\Behra\Behra_46.npy	Behra
+dataset/raw\Behra\Behra_49.npy	Behra
+dataset/raw\Behra\Behra_4.npy	Behra
+dataset/raw\Behra\Behra_16.npy	Behra
+dataset/raw\Behra\Behra_35.npy	Behra
+dataset/raw\Bemar\Bemar_12.npy	Bemar
+dataset/raw\Bemar\Bemar_30.npy	Bemar
+dataset/raw\Bemar\Bemar_24.npy	Bemar
+dataset/raw\Bemar\Bemar_31.npy	Bemar
+dataset/raw\Bemar\Bemar_39.npy	Bemar
+dataset/raw\Bemar\Bemar_43.npy	Bemar
+dataset/raw\Bemar\Bemar_0.npy	Bemar
+dataset/raw\Bemar\Bemar_19.npy	Bemar
+dataset/raw\Bemar\Bemar_45.npy	Bemar
+dataset/raw\Bemar\Bemar_6.npy	Bemar
+dataset/raw\Bemar\Bemar_21.npy	Bemar
+dataset/raw\Bemar\Bemar_4.npy	Bemar
+dataset/raw\Bemar\Bemar_42.npy	Bemar
+dataset/raw\Bemar\Bemar_5.npy	Bemar
+dataset/raw\Bemar\Bemar_13.npy	Bemar
+dataset/raw\Bemar\Bemar_37.npy	Bemar
+dataset/raw\Bemar\Bemar_33.npy	Bemar
+dataset/raw\Bemar\Bemar_49.npy	Bemar
+dataset/raw\Bemar\Bemar_11.npy	Bemar
+dataset/raw\Bemar\Bemar_40.npy	Bemar
+dataset/raw\Bemar\Bemar_27.npy	Bemar
+dataset/raw\Bemar\Bemar_34.npy	Bemar
+dataset/raw\Bemar\Bemar_10.npy	Bemar
+dataset/raw\Bemar\Bemar_38.npy	Bemar
+dataset/raw\Bemar\Bemar_29.npy	Bemar
+dataset/raw\Bemar\Bemar_32.npy	Bemar
+dataset/raw\Bemar\Bemar_2.npy	Bemar
+dataset/raw\Bemar\Bemar_28.npy	Bemar
+dataset/raw\Bemar\Bemar_25.npy	Bemar
+dataset/raw\Bemar\Bemar_7.npy	Bemar
+dataset/raw\Bemar\Bemar_8.npy	Bemar
+dataset/raw\Bemar\Bemar_9.npy	Bemar
+dataset/raw\Bemar\Bemar_14.npy	Bemar
+dataset/raw\Bemar\Bemar_26.npy	Bemar
+dataset/raw\Bemar\Bemar_46.npy	Bemar
+dataset/raw\Bemar\Bemar_48.npy	Bemar
+dataset/raw\Bemar\Bemar_18.npy	Bemar
+dataset/raw\Bemar\Bemar_3.npy	Bemar
+dataset/raw\Bemar\Bemar_23.npy	Bemar
+dataset/raw\Bemar\Bemar_35.npy	Bemar
+dataset/raw\Chay\Chay_23.npy	Chay
+dataset/raw\Chay\Chay_11.npy	Chay
+dataset/raw\Chay\Chay_10.npy	Chay
+dataset/raw\Chay\Chay_49.npy	Chay
+dataset/raw\Chay\Chay_43.npy	Chay
+dataset/raw\Chay\Chay_1.npy	Chay
+dataset/raw\Chay\Chay_16.npy	Chay
+dataset/raw\Chay\Chay_9.npy	Chay
+dataset/raw\Chay\Chay_31.npy	Chay
+dataset/raw\Chay\Chay_6.npy	Chay
+dataset/raw\Chay\Chay_20.npy	Chay
+dataset/raw\Chay\Chay_32.npy	Chay
+dataset/raw\Chay\Chay_12.npy	Chay
+dataset/raw\Chay\Chay_29.npy	Chay
+dataset/raw\Chay\Chay_37.npy	Chay
+dataset/raw\Chay\Chay_14.npy	Chay
+dataset/raw\Chay\Chay_41.npy	Chay
+dataset/raw\Chay\Chay_38.npy	Chay
+dataset/raw\Chay\Chay_3.npy	Chay
+dataset/raw\Chay\Chay_48.npy	Chay
+dataset/raw\Chay\Chay_0.npy	Chay
+dataset/raw\Chay\Chay_18.npy	Chay
+dataset/raw\Chay\Chay_2.npy	Chay
+dataset/raw\Chay\Chay_28.npy	Chay
+dataset/raw\Chay\Chay_26.npy	Chay
+dataset/raw\Chay\Chay_25.npy	Chay
+dataset/raw\Chay\Chay_42.npy	Chay
+dataset/raw\Chay\Chay_30.npy	Chay
+dataset/raw\Chay\Chay_15.npy	Chay
+dataset/raw\Chay\Chay_21.npy	Chay
+dataset/raw\Chay\Chay_34.npy	Chay
+dataset/raw\Chay\Chay_40.npy	Chay
+dataset/raw\Chay\Chay_13.npy	Chay
+dataset/raw\Chay\Chay_22.npy	Chay
+dataset/raw\Chay\Chay_27.npy	Chay
+dataset/raw\Chay\Chay_47.npy	Chay
+dataset/raw\Chay\Chay_7.npy	Chay
+dataset/raw\Chay\Chay_8.npy	Chay
+dataset/raw\Chay\Chay_36.npy	Chay
+dataset/raw\Chay\Chay_4.npy	Chay
+dataset/raw\Cherry\Cherry_44.npy	Cherry
+dataset/raw\Cherry\Cherry_0.npy	Cherry
+dataset/raw\Cherry\Cherry_42.npy	Cherry
+dataset/raw\Cherry\Cherry_23.npy	Cherry
+dataset/raw\Cherry\Cherry_10.npy	Cherry
+dataset/raw\Cherry\Cherry_2.npy	Cherry
+dataset/raw\Cherry\Cherry_41.npy	Cherry
+dataset/raw\Cherry\Cherry_6.npy	Cherry
+dataset/raw\Cherry\Cherry_20.npy	Cherry
+dataset/raw\Cherry\Cherry_32.npy	Cherry
+dataset/raw\Cherry\Cherry_39.npy	Cherry
+dataset/raw\Cherry\Cherry_12.npy	Cherry
+dataset/raw\Cherry\Cherry_28.npy	Cherry
+dataset/raw\Cherry\Cherry_48.npy	Cherry
+dataset/raw\Cherry\Cherry_35.npy	Cherry
+dataset/raw\Cherry\Cherry_8.npy	Cherry
+dataset/raw\Cherry\Cherry_45.npy	Cherry
+dataset/raw\Cherry\Cherry_27.npy	Cherry
+dataset/raw\Cherry\Cherry_47.npy	Cherry
+dataset/raw\Cherry\Cherry_14.npy	Cherry
+dataset/raw\Cherry\Cherry_11.npy	Cherry
+dataset/raw\Cherry\Cherry_15.npy	Cherry
+dataset/raw\Cherry\Cherry_30.npy	Cherry
+dataset/raw\Cherry\Cherry_17.npy	Cherry
+dataset/raw\Cherry\Cherry_16.npy	Cherry
+dataset/raw\Cherry\Cherry_43.npy	Cherry
+dataset/raw\Cherry\Cherry_38.npy	Cherry
+dataset/raw\Cherry\Cherry_19.npy	Cherry
+dataset/raw\Cherry\Cherry_18.npy	Cherry
+dataset/raw\Cherry\Cherry_24.npy	Cherry
+dataset/raw\Cherry\Cherry_4.npy	Cherry
+dataset/raw\Cherry\Cherry_33.npy	Cherry
+dataset/raw\Cherry\Cherry_29.npy	Cherry
+dataset/raw\Cherry\Cherry_5.npy	Cherry
+dataset/raw\Cherry\Cherry_3.npy	Cherry
+dataset/raw\Cherry\Cherry_26.npy	Cherry
+dataset/raw\Cherry\Cherry_7.npy	Cherry
+dataset/raw\Cherry\Cherry_31.npy	Cherry
+dataset/raw\Cherry\Cherry_21.npy	Cherry
+dataset/raw\Cherry\Cherry_25.npy	Cherry
+dataset/raw\Choti-ye\Choti-ye_49.npy	Choti-ye
+dataset/raw\Choti-ye\Choti-ye_41.npy	Choti-ye
+dataset/raw\Choti-ye\Choti-ye_20.npy	Choti-ye
+dataset/raw\Choti-ye\Choti-ye_39.npy	Choti-ye
+dataset/raw\Choti-ye\Choti-ye_29.npy	Choti-ye
+dataset/raw\Choti-ye\Choti-ye_15.npy	Choti-ye
+dataset/raw\Choti-ye\Choti-ye_3.npy	Choti-ye
+dataset/raw\Choti-ye\Choti-ye_19.npy	Choti-ye
+dataset/raw\Choti-ye\Choti-ye_21.npy	Choti-ye
+dataset/raw\Choti-ye\Choti-ye_18.npy	Choti-ye
+dataset/raw\Choti-ye\Choti-ye_23.npy	Choti-ye
+dataset/raw\Choti-ye\Choti-ye_42.npy	Choti-ye
+dataset/raw\Choti-ye\Choti-ye_38.npy	Choti-ye
+dataset/raw\Choti-ye\Choti-ye_9.npy	Choti-ye
+dataset/raw\Choti-ye\Choti-ye_31.npy	Choti-ye
+dataset/raw\Choti-ye\Choti-ye_43.npy	Choti-ye
+dataset/raw\Choti-ye\Choti-ye_17.npy	Choti-ye
+dataset/raw\Choti-ye\Choti-ye_27.npy	Choti-ye
+dataset/raw\Choti-ye\Choti-ye_12.npy	Choti-ye
+dataset/raw\Choti-ye\Choti-ye_35.npy	Choti-ye
+dataset/raw\Choti-ye\Choti-ye_46.npy	Choti-ye
+dataset/raw\Choti-ye\Choti-ye_30.npy	Choti-ye
+dataset/raw\Choti-ye\Choti-ye_32.npy	Choti-ye
+dataset/raw\Choti-ye\Choti-ye_2.npy	Choti-ye
+dataset/raw\Choti-ye\Choti-ye_48.npy	Choti-ye
+dataset/raw\Choti-ye\Choti-ye_47.npy	Choti-ye
+dataset/raw\Choti-ye\Choti-ye_22.npy	Choti-ye
+dataset/raw\Choti-ye\Choti-ye_33.npy	Choti-ye
+dataset/raw\Choti-ye\Choti-ye_44.npy	Choti-ye
+dataset/raw\Choti-ye\Choti-ye_1.npy	Choti-ye
+dataset/raw\Choti-ye\Choti-ye_13.npy	Choti-ye
+dataset/raw\Choti-ye\Choti-ye_28.npy	Choti-ye
+dataset/raw\Choti-ye\Choti-ye_34.npy	Choti-ye
+dataset/raw\Choti-ye\Choti-ye_6.npy	Choti-ye
+dataset/raw\Choti-ye\Choti-ye_36.npy	Choti-ye
+dataset/raw\Choti-ye\Choti-ye_45.npy	Choti-ye
+dataset/raw\Choti-ye\Choti-ye_8.npy	Choti-ye
+dataset/raw\Choti-ye\Choti-ye_14.npy	Choti-ye
+dataset/raw\Choti-ye\Choti-ye_37.npy	Choti-ye
+dataset/raw\Choti-ye\Choti-ye_7.npy	Choti-ye
+dataset/raw\Cuckoo\Cuckoo_48.npy	Cuckoo
+dataset/raw\Cuckoo\Cuckoo_27.npy	Cuckoo
+dataset/raw\Cuckoo\Cuckoo_24.npy	Cuckoo
+dataset/raw\Cuckoo\Cuckoo_46.npy	Cuckoo
+dataset/raw\Cuckoo\Cuckoo_2.npy	Cuckoo
+dataset/raw\Cuckoo\Cuckoo_31.npy	Cuckoo
+dataset/raw\Cuckoo\Cuckoo_3.npy	Cuckoo
+dataset/raw\Cuckoo\Cuckoo_4.npy	Cuckoo
+dataset/raw\Cuckoo\Cuckoo_35.npy	Cuckoo
+dataset/raw\Cuckoo\Cuckoo_43.npy	Cuckoo
+dataset/raw\Cuckoo\Cuckoo_41.npy	Cuckoo
+dataset/raw\Cuckoo\Cuckoo_30.npy	Cuckoo
+dataset/raw\Cuckoo\Cuckoo_42.npy	Cuckoo
+dataset/raw\Cuckoo\Cuckoo_9.npy	Cuckoo
+dataset/raw\Cuckoo\Cuckoo_26.npy	Cuckoo
+dataset/raw\Cuckoo\Cuckoo_11.npy	Cuckoo
+dataset/raw\Cuckoo\Cuckoo_49.npy	Cuckoo
+dataset/raw\Cuckoo\Cuckoo_8.npy	Cuckoo
+dataset/raw\Cuckoo\Cuckoo_25.npy	Cuckoo
+dataset/raw\Cuckoo\Cuckoo_16.npy	Cuckoo
+dataset/raw\Cuckoo\Cuckoo_38.npy	Cuckoo
+dataset/raw\Cuckoo\Cuckoo_28.npy	Cuckoo
+dataset/raw\Cuckoo\Cuckoo_10.npy	Cuckoo
+dataset/raw\Cuckoo\Cuckoo_21.npy	Cuckoo
+dataset/raw\Cuckoo\Cuckoo_39.npy	Cuckoo
+dataset/raw\Cuckoo\Cuckoo_33.npy	Cuckoo
+dataset/raw\Cuckoo\Cuckoo_29.npy	Cuckoo
+dataset/raw\Cuckoo\Cuckoo_37.npy	Cuckoo
+dataset/raw\Cuckoo\Cuckoo_15.npy	Cuckoo
+dataset/raw\Cuckoo\Cuckoo_1.npy	Cuckoo
+dataset/raw\Cuckoo\Cuckoo_17.npy	Cuckoo
+dataset/raw\Cuckoo\Cuckoo_36.npy	Cuckoo
+dataset/raw\Cuckoo\Cuckoo_34.npy	Cuckoo
+dataset/raw\Cuckoo\Cuckoo_32.npy	Cuckoo
+dataset/raw\Cuckoo\Cuckoo_0.npy	Cuckoo
+dataset/raw\Cuckoo\Cuckoo_5.npy	Cuckoo
+dataset/raw\Cuckoo\Cuckoo_12.npy	Cuckoo
+dataset/raw\Cuckoo\Cuckoo_40.npy	Cuckoo
+dataset/raw\Cuckoo\Cuckoo_19.npy	Cuckoo
+dataset/raw\Cuckoo\Cuckoo_22.npy	Cuckoo
+dataset/raw\Dal\Dal_12.npy	Dal
+dataset/raw\Dal\Dal_20.npy	Dal
+dataset/raw\Dal\Dal_2.npy	Dal
+dataset/raw\Dal\Dal_30.npy	Dal
+dataset/raw\Dal\Dal_3.npy	Dal
+dataset/raw\Dal\Dal_6.npy	Dal
+dataset/raw\Dal\Dal_11.npy	Dal
+dataset/raw\Dal\Dal_7.npy	Dal
+dataset/raw\Dal\Dal_19.npy	Dal
+dataset/raw\Dal\Dal_40.npy	Dal
+dataset/raw\Dal\Dal_15.npy	Dal
+dataset/raw\Dal\Dal_18.npy	Dal
+dataset/raw\Dal\Dal_14.npy	Dal
+dataset/raw\Dal\Dal_17.npy	Dal
+dataset/raw\Dal\Dal_42.npy	Dal
+dataset/raw\Dal\Dal_29.npy	Dal
+dataset/raw\Dal\Dal_46.npy	Dal
+dataset/raw\Dal\Dal_47.npy	Dal
+dataset/raw\Dal\Dal_22.npy	Dal
+dataset/raw\Dal\Dal_48.npy	Dal
+dataset/raw\Dal\Dal_39.npy	Dal
+dataset/raw\Dal\Dal_5.npy	Dal
+dataset/raw\Dal\Dal_16.npy	Dal
+dataset/raw\Dal\Dal_9.npy	Dal
+dataset/raw\Dal\Dal_0.npy	Dal
+dataset/raw\Dal\Dal_45.npy	Dal
+dataset/raw\Dal\Dal_25.npy	Dal
+dataset/raw\Dal\Dal_41.npy	Dal
+dataset/raw\Dal\Dal_32.npy	Dal
+dataset/raw\Dal\Dal_28.npy	Dal
+dataset/raw\Dal\Dal_36.npy	Dal
+dataset/raw\Dal\Dal_21.npy	Dal
+dataset/raw\Dal\Dal_44.npy	Dal
+dataset/raw\Dal\Dal_1.npy	Dal
+dataset/raw\Dal\Dal_23.npy	Dal
+dataset/raw\Dal\Dal_27.npy	Dal
+dataset/raw\Dal\Dal_33.npy	Dal
+dataset/raw\Dal\Dal_10.npy	Dal
+dataset/raw\Dal\Dal_43.npy	Dal
+dataset/raw\Dal\Dal_13.npy	Dal
+dataset/raw\Ddal\Ddal_20.npy	Ddal
+dataset/raw\Ddal\Ddal_3.npy	Ddal
+dataset/raw\Ddal\Ddal_45.npy	Ddal
+dataset/raw\Ddal\Ddal_7.npy	Ddal
+dataset/raw\Ddal\Ddal_18.npy	Ddal
+dataset/raw\Ddal\Ddal_6.npy	Ddal
+dataset/raw\Ddal\Ddal_2.npy	Ddal
+dataset/raw\Ddal\Ddal_5.npy	Ddal
+dataset/raw\Ddal\Ddal_11.npy	Ddal
+dataset/raw\Ddal\Ddal_34.npy	Ddal
+dataset/raw\Ddal\Ddal_39.npy	Ddal
+dataset/raw\Ddal\Ddal_28.npy	Ddal
+dataset/raw\Ddal\Ddal_41.npy	Ddal
+dataset/raw\Ddal\Ddal_33.npy	Ddal
+dataset/raw\Ddal\Ddal_48.npy	Ddal
+dataset/raw\Ddal\Ddal_29.npy	Ddal
+dataset/raw\Ddal\Ddal_17.npy	Ddal
+dataset/raw\Ddal\Ddal_12.npy	Ddal
+dataset/raw\Ddal\Ddal_24.npy	Ddal
+dataset/raw\Ddal\Ddal_16.npy	Ddal
+dataset/raw\Ddal\Ddal_4.npy	Ddal
+dataset/raw\Ddal\Ddal_36.npy	Ddal
+dataset/raw\Ddal\Ddal_21.npy	Ddal
+dataset/raw\Ddal\Ddal_42.npy	Ddal
+dataset/raw\Ddal\Ddal_22.npy	Ddal
+dataset/raw\Ddal\Ddal_30.npy	Ddal
+dataset/raw\Ddal\Ddal_26.npy	Ddal
+dataset/raw\Ddal\Ddal_19.npy	Ddal
+dataset/raw\Ddal\Ddal_43.npy	Ddal
+dataset/raw\Ddal\Ddal_14.npy	Ddal
+dataset/raw\Ddal\Ddal_1.npy	Ddal
+dataset/raw\Ddal\Ddal_9.npy	Ddal
+dataset/raw\Ddal\Ddal_46.npy	Ddal
+dataset/raw\Ddal\Ddal_0.npy	Ddal
+dataset/raw\Ddal\Ddal_38.npy	Ddal
+dataset/raw\Ddal\Ddal_8.npy	Ddal
+dataset/raw\Ddal\Ddal_15.npy	Ddal
+dataset/raw\Ddal\Ddal_44.npy	Ddal
+dataset/raw\Ddal\Ddal_23.npy	Ddal
+dataset/raw\Ddal\Ddal_27.npy	Ddal
+dataset/raw\Duck\Duck_26.npy	Duck
+dataset/raw\Duck\Duck_3.npy	Duck
+dataset/raw\Duck\Duck_28.npy	Duck
+dataset/raw\Duck\Duck_11.npy	Duck
+dataset/raw\Duck\Duck_19.npy	Duck
+dataset/raw\Duck\Duck_1.npy	Duck
+dataset/raw\Duck\Duck_41.npy	Duck
+dataset/raw\Duck\Duck_45.npy	Duck
+dataset/raw\Duck\Duck_14.npy	Duck
+dataset/raw\Duck\Duck_43.npy	Duck
+dataset/raw\Duck\Duck_6.npy	Duck
+dataset/raw\Duck\Duck_47.npy	Duck
+dataset/raw\Duck\Duck_13.npy	Duck
+dataset/raw\Duck\Duck_7.npy	Duck
+dataset/raw\Duck\Duck_29.npy	Duck
+dataset/raw\Duck\Duck_21.npy	Duck
+dataset/raw\Duck\Duck_12.npy	Duck
+dataset/raw\Duck\Duck_42.npy	Duck
+dataset/raw\Duck\Duck_48.npy	Duck
+dataset/raw\Duck\Duck_27.npy	Duck
+dataset/raw\Duck\Duck_4.npy	Duck
+dataset/raw\Duck\Duck_0.npy	Duck
+dataset/raw\Duck\Duck_34.npy	Duck
+dataset/raw\Duck\Duck_23.npy	Duck
+dataset/raw\Duck\Duck_18.npy	Duck
+dataset/raw\Duck\Duck_20.npy	Duck
+dataset/raw\Duck\Duck_31.npy	Duck
+dataset/raw\Duck\Duck_39.npy	Duck
+dataset/raw\Duck\Duck_49.npy	Duck
+dataset/raw\Duck\Duck_10.npy	Duck
+dataset/raw\Duck\Duck_33.npy	Duck
+dataset/raw\Duck\Duck_16.npy	Duck
+dataset/raw\Duck\Duck_2.npy	Duck
+dataset/raw\Duck\Duck_30.npy	Duck
+dataset/raw\Duck\Duck_5.npy	Duck
+dataset/raw\Duck\Duck_40.npy	Duck
+dataset/raw\Duck\Duck_8.npy	Duck
+dataset/raw\Duck\Duck_22.npy	Duck
+dataset/raw\Duck\Duck_44.npy	Duck
+dataset/raw\Duck\Duck_36.npy	Duck
+dataset/raw\Dur hai\Dur hai_33.npy	Dur hai
+dataset/raw\Dur hai\Dur hai_45.npy	Dur hai
+dataset/raw\Dur hai\Dur hai_31.npy	Dur hai
+dataset/raw\Dur hai\Dur hai_21.npy	Dur hai
+dataset/raw\Dur hai\Dur hai_25.npy	Dur hai
+dataset/raw\Dur hai\Dur hai_41.npy	Dur hai
+dataset/raw\Dur hai\Dur hai_13.npy	Dur hai
+dataset/raw\Dur hai\Dur hai_11.npy	Dur hai
+dataset/raw\Dur hai\Dur hai_1.npy	Dur hai
+dataset/raw\Dur hai\Dur hai_6.npy	Dur hai
+dataset/raw\Dur hai\Dur hai_29.npy	Dur hai
+dataset/raw\Dur hai\Dur hai_15.npy	Dur hai
+dataset/raw\Dur hai\Dur hai_23.npy	Dur hai
+dataset/raw\Dur hai\Dur hai_19.npy	Dur hai
+dataset/raw\Dur hai\Dur hai_44.npy	Dur hai
+dataset/raw\Dur hai\Dur hai_24.npy	Dur hai
+dataset/raw\Dur hai\Dur hai_32.npy	Dur hai
+dataset/raw\Dur hai\Dur hai_40.npy	Dur hai
+dataset/raw\Dur hai\Dur hai_48.npy	Dur hai
+dataset/raw\Dur hai\Dur hai_2.npy	Dur hai
+dataset/raw\Dur hai\Dur hai_26.npy	Dur hai
+dataset/raw\Dur hai\Dur hai_18.npy	Dur hai
+dataset/raw\Dur hai\Dur hai_42.npy	Dur hai
+dataset/raw\Dur hai\Dur hai_22.npy	Dur hai
+dataset/raw\Dur hai\Dur hai_43.npy	Dur hai
+dataset/raw\Dur hai\Dur hai_39.npy	Dur hai
+dataset/raw\Dur hai\Dur hai_8.npy	Dur hai
+dataset/raw\Dur hai\Dur hai_20.npy	Dur hai
+dataset/raw\Dur hai\Dur hai_12.npy	Dur hai
+dataset/raw\Dur hai\Dur hai_3.npy	Dur hai
+dataset/raw\Dur hai\Dur hai_0.npy	Dur hai
+dataset/raw\Dur hai\Dur hai_35.npy	Dur hai
+dataset/raw\Dur hai\Dur hai_4.npy	Dur hai
+dataset/raw\Dur hai\Dur hai_34.npy	Dur hai
+dataset/raw\Dur hai\Dur hai_14.npy	Dur hai
+dataset/raw\Dur hai\Dur hai_28.npy	Dur hai
+dataset/raw\Dur hai\Dur hai_38.npy	Dur hai
+dataset/raw\Dur hai\Dur hai_16.npy	Dur hai
+dataset/raw\Dur hai\Dur hai_9.npy	Dur hai
+dataset/raw\Dur hai\Dur hai_37.npy	Dur hai
+dataset/raw\Eagle\Eagle_43.npy	Eagle
+dataset/raw\Eagle\Eagle_30.npy	Eagle
+dataset/raw\Eagle\Eagle_6.npy	Eagle
+dataset/raw\Eagle\Eagle_39.npy	Eagle
+dataset/raw\Eagle\Eagle_46.npy	Eagle
+dataset/raw\Eagle\Eagle_16.npy	Eagle
+dataset/raw\Eagle\Eagle_49.npy	Eagle
+dataset/raw\Eagle\Eagle_19.npy	Eagle
+dataset/raw\Eagle\Eagle_41.npy	Eagle
+dataset/raw\Eagle\Eagle_0.npy	Eagle
+dataset/raw\Eagle\Eagle_35.npy	Eagle
+dataset/raw\Eagle\Eagle_20.npy	Eagle
+dataset/raw\Eagle\Eagle_23.npy	Eagle
+dataset/raw\Eagle\Eagle_24.npy	Eagle
+dataset/raw\Eagle\Eagle_48.npy	Eagle
+dataset/raw\Eagle\Eagle_21.npy	Eagle
+dataset/raw\Eagle\Eagle_44.npy	Eagle
+dataset/raw\Eagle\Eagle_12.npy	Eagle
+dataset/raw\Eagle\Eagle_36.npy	Eagle
+dataset/raw\Eagle\Eagle_38.npy	Eagle
+dataset/raw\Eagle\Eagle_15.npy	Eagle
+dataset/raw\Eagle\Eagle_40.npy	Eagle
+dataset/raw\Eagle\Eagle_2.npy	Eagle
+dataset/raw\Eagle\Eagle_47.npy	Eagle
+dataset/raw\Eagle\Eagle_7.npy	Eagle
+dataset/raw\Eagle\Eagle_37.npy	Eagle
+dataset/raw\Eagle\Eagle_4.npy	Eagle
+dataset/raw\Eagle\Eagle_13.npy	Eagle
+dataset/raw\Eagle\Eagle_31.npy	Eagle
+dataset/raw\Eagle\Eagle_28.npy	Eagle
+dataset/raw\Eagle\Eagle_42.npy	Eagle
+dataset/raw\Eagle\Eagle_32.npy	Eagle
+dataset/raw\Eagle\Eagle_22.npy	Eagle
+dataset/raw\Eagle\Eagle_17.npy	Eagle
+dataset/raw\Eagle\Eagle_9.npy	Eagle
+dataset/raw\Eagle\Eagle_3.npy	Eagle
+dataset/raw\Eagle\Eagle_29.npy	Eagle
+dataset/raw\Eagle\Eagle_25.npy	Eagle
+dataset/raw\Eagle\Eagle_11.npy	Eagle
+dataset/raw\Eagle\Eagle_27.npy	Eagle
+dataset/raw\Email Address\Email Address_32.npy	Email Address
+dataset/raw\Email Address\Email Address_12.npy	Email Address
+dataset/raw\Email Address\Email Address_13.npy	Email Address
+dataset/raw\Email Address\Email Address_5.npy	Email Address
+dataset/raw\Email Address\Email Address_24.npy	Email Address
+dataset/raw\Email Address\Email Address_11.npy	Email Address
+dataset/raw\Email Address\Email Address_27.npy	Email Address
+dataset/raw\Email Address\Email Address_48.npy	Email Address
+dataset/raw\Email Address\Email Address_37.npy	Email Address
+dataset/raw\Email Address\Email Address_10.npy	Email Address
+dataset/raw\Email Address\Email Address_20.npy	Email Address
+dataset/raw\Email Address\Email Address_21.npy	Email Address
+dataset/raw\Email Address\Email Address_34.npy	Email Address
+dataset/raw\Email Address\Email Address_46.npy	Email Address
+dataset/raw\Email Address\Email Address_18.npy	Email Address
+dataset/raw\Email Address\Email Address_44.npy	Email Address
+dataset/raw\Email Address\Email Address_43.npy	Email Address
+dataset/raw\Email Address\Email Address_40.npy	Email Address
+dataset/raw\Email Address\Email Address_19.npy	Email Address
+dataset/raw\Email Address\Email Address_15.npy	Email Address
+dataset/raw\Email Address\Email Address_17.npy	Email Address
+dataset/raw\Email Address\Email Address_9.npy	Email Address
+dataset/raw\Email Address\Email Address_47.npy	Email Address
+dataset/raw\Email Address\Email Address_38.npy	Email Address
+dataset/raw\Email Address\Email Address_3.npy	Email Address
+dataset/raw\Email Address\Email Address_41.npy	Email Address
+dataset/raw\Email Address\Email Address_28.npy	Email Address
+dataset/raw\Email Address\Email Address_6.npy	Email Address
+dataset/raw\Email Address\Email Address_39.npy	Email Address
+dataset/raw\Email Address\Email Address_0.npy	Email Address
+dataset/raw\Email Address\Email Address_16.npy	Email Address
+dataset/raw\Email Address\Email Address_31.npy	Email Address
+dataset/raw\Email Address\Email Address_1.npy	Email Address
+dataset/raw\Email Address\Email Address_4.npy	Email Address
+dataset/raw\Email Address\Email Address_25.npy	Email Address
+dataset/raw\Email Address\Email Address_29.npy	Email Address
+dataset/raw\Email Address\Email Address_7.npy	Email Address
+dataset/raw\Email Address\Email Address_22.npy	Email Address
+dataset/raw\Email Address\Email Address_14.npy	Email Address
+dataset/raw\Email Address\Email Address_36.npy	Email Address
+dataset/raw\Falcon\Falcon_26.npy	Falcon
+dataset/raw\Falcon\Falcon_17.npy	Falcon
+dataset/raw\Falcon\Falcon_41.npy	Falcon
+dataset/raw\Falcon\Falcon_22.npy	Falcon
+dataset/raw\Falcon\Falcon_1.npy	Falcon
+dataset/raw\Falcon\Falcon_21.npy	Falcon
+dataset/raw\Falcon\Falcon_33.npy	Falcon
+dataset/raw\Falcon\Falcon_20.npy	Falcon
+dataset/raw\Falcon\Falcon_14.npy	Falcon
+dataset/raw\Falcon\Falcon_34.npy	Falcon
+dataset/raw\Falcon\Falcon_47.npy	Falcon
+dataset/raw\Falcon\Falcon_7.npy	Falcon
+dataset/raw\Falcon\Falcon_42.npy	Falcon
+dataset/raw\Falcon\Falcon_9.npy	Falcon
+dataset/raw\Falcon\Falcon_6.npy	Falcon
+dataset/raw\Falcon\Falcon_11.npy	Falcon
+dataset/raw\Falcon\Falcon_48.npy	Falcon
+dataset/raw\Falcon\Falcon_0.npy	Falcon
+dataset/raw\Falcon\Falcon_29.npy	Falcon
+dataset/raw\Falcon\Falcon_37.npy	Falcon
+dataset/raw\Falcon\Falcon_5.npy	Falcon
+dataset/raw\Falcon\Falcon_43.npy	Falcon
+dataset/raw\Falcon\Falcon_49.npy	Falcon
+dataset/raw\Falcon\Falcon_31.npy	Falcon
+dataset/raw\Falcon\Falcon_46.npy	Falcon
+dataset/raw\Falcon\Falcon_45.npy	Falcon
+dataset/raw\Falcon\Falcon_44.npy	Falcon
+dataset/raw\Falcon\Falcon_30.npy	Falcon
+dataset/raw\Falcon\Falcon_12.npy	Falcon
+dataset/raw\Falcon\Falcon_10.npy	Falcon
+dataset/raw\Falcon\Falcon_40.npy	Falcon
+dataset/raw\Falcon\Falcon_35.npy	Falcon
+dataset/raw\Falcon\Falcon_15.npy	Falcon
+dataset/raw\Falcon\Falcon_28.npy	Falcon
+dataset/raw\Falcon\Falcon_8.npy	Falcon
+dataset/raw\Falcon\Falcon_36.npy	Falcon
+dataset/raw\Falcon\Falcon_23.npy	Falcon
+dataset/raw\Falcon\Falcon_18.npy	Falcon
+dataset/raw\Falcon\Falcon_24.npy	Falcon
+dataset/raw\Falcon\Falcon_38.npy	Falcon
+dataset/raw\Fay\Fay_17.npy	Fay
+dataset/raw\Fay\Fay_18.npy	Fay
+dataset/raw\Fay\Fay_0.npy	Fay
+dataset/raw\Fay\Fay_39.npy	Fay
+dataset/raw\Fay\Fay_33.npy	Fay
+dataset/raw\Fay\Fay_42.npy	Fay
+dataset/raw\Fay\Fay_23.npy	Fay
+dataset/raw\Fay\Fay_31.npy	Fay
+dataset/raw\Fay\Fay_30.npy	Fay
+dataset/raw\Fay\Fay_36.npy	Fay
+dataset/raw\Fay\Fay_49.npy	Fay
+dataset/raw\Fay\Fay_4.npy	Fay
+dataset/raw\Fay\Fay_41.npy	Fay
+dataset/raw\Fay\Fay_13.npy	Fay
+dataset/raw\Fay\Fay_34.npy	Fay
+dataset/raw\Fay\Fay_1.npy	Fay
+dataset/raw\Fay\Fay_40.npy	Fay
+dataset/raw\Fay\Fay_27.npy	Fay
+dataset/raw\Fay\Fay_38.npy	Fay
+dataset/raw\Fay\Fay_11.npy	Fay
+dataset/raw\Fay\Fay_47.npy	Fay
+dataset/raw\Fay\Fay_6.npy	Fay
+dataset/raw\Fay\Fay_25.npy	Fay
+dataset/raw\Fay\Fay_20.npy	Fay
+dataset/raw\Fay\Fay_24.npy	Fay
+dataset/raw\Fay\Fay_29.npy	Fay
+dataset/raw\Fay\Fay_3.npy	Fay
+dataset/raw\Fay\Fay_28.npy	Fay
+dataset/raw\Fay\Fay_19.npy	Fay
+dataset/raw\Fay\Fay_8.npy	Fay
+dataset/raw\Fay\Fay_2.npy	Fay
+dataset/raw\Fay\Fay_9.npy	Fay
+dataset/raw\Fay\Fay_22.npy	Fay
+dataset/raw\Fay\Fay_14.npy	Fay
+dataset/raw\Fay\Fay_5.npy	Fay
+dataset/raw\Fay\Fay_37.npy	Fay
+dataset/raw\Fay\Fay_48.npy	Fay
+dataset/raw\Fay\Fay_43.npy	Fay
+dataset/raw\Fay\Fay_10.npy	Fay
+dataset/raw\Fay\Fay_16.npy	Fay
+dataset/raw\Fig\Fig_27.npy	Fig
+dataset/raw\Fig\Fig_6.npy	Fig
+dataset/raw\Fig\Fig_14.npy	Fig
+dataset/raw\Fig\Fig_19.npy	Fig
+dataset/raw\Fig\Fig_44.npy	Fig
+dataset/raw\Fig\Fig_25.npy	Fig
+dataset/raw\Fig\Fig_34.npy	Fig
+dataset/raw\Fig\Fig_21.npy	Fig
+dataset/raw\Fig\Fig_37.npy	Fig
+dataset/raw\Fig\Fig_8.npy	Fig
+dataset/raw\Fig\Fig_17.npy	Fig
+dataset/raw\Fig\Fig_23.npy	Fig
+dataset/raw\Fig\Fig_36.npy	Fig
+dataset/raw\Fig\Fig_41.npy	Fig
+dataset/raw\Fig\Fig_10.npy	Fig
+dataset/raw\Fig\Fig_3.npy	Fig
+dataset/raw\Fig\Fig_49.npy	Fig
+dataset/raw\Fig\Fig_5.npy	Fig
+dataset/raw\Fig\Fig_29.npy	Fig
+dataset/raw\Fig\Fig_9.npy	Fig
+dataset/raw\Fig\Fig_42.npy	Fig
+dataset/raw\Fig\Fig_31.npy	Fig
+dataset/raw\Fig\Fig_40.npy	Fig
+dataset/raw\Fig\Fig_0.npy	Fig
+dataset/raw\Fig\Fig_26.npy	Fig
+dataset/raw\Fig\Fig_39.npy	Fig
+dataset/raw\Fig\Fig_30.npy	Fig
+dataset/raw\Fig\Fig_18.npy	Fig
+dataset/raw\Fig\Fig_7.npy	Fig
+dataset/raw\Fig\Fig_33.npy	Fig
+dataset/raw\Fig\Fig_32.npy	Fig
+dataset/raw\Fig\Fig_38.npy	Fig
+dataset/raw\Fig\Fig_4.npy	Fig
+dataset/raw\Fig\Fig_12.npy	Fig
+dataset/raw\Fig\Fig_48.npy	Fig
+dataset/raw\Fig\Fig_16.npy	Fig
+dataset/raw\Fig\Fig_22.npy	Fig
+dataset/raw\Fig\Fig_28.npy	Fig
+dataset/raw\Fig\Fig_11.npy	Fig
+dataset/raw\Fig\Fig_1.npy	Fig
+dataset/raw\Firaun\Firaun_33.npy	Firaun
+dataset/raw\Firaun\Firaun_40.npy	Firaun
+dataset/raw\Firaun\Firaun_46.npy	Firaun
+dataset/raw\Firaun\Firaun_19.npy	Firaun
+dataset/raw\Firaun\Firaun_0.npy	Firaun
+dataset/raw\Firaun\Firaun_13.npy	Firaun
+dataset/raw\Firaun\Firaun_23.npy	Firaun
+dataset/raw\Firaun\Firaun_4.npy	Firaun
+dataset/raw\Firaun\Firaun_47.npy	Firaun
+dataset/raw\Firaun\Firaun_37.npy	Firaun
+dataset/raw\Firaun\Firaun_45.npy	Firaun
+dataset/raw\Firaun\Firaun_15.npy	Firaun
+dataset/raw\Firaun\Firaun_25.npy	Firaun
+dataset/raw\Firaun\Firaun_24.npy	Firaun
+dataset/raw\Firaun\Firaun_17.npy	Firaun
+dataset/raw\Firaun\Firaun_2.npy	Firaun
+dataset/raw\Firaun\Firaun_32.npy	Firaun
+dataset/raw\Firaun\Firaun_16.npy	Firaun
+dataset/raw\Firaun\Firaun_27.npy	Firaun
+dataset/raw\Firaun\Firaun_5.npy	Firaun
+dataset/raw\Firaun\Firaun_8.npy	Firaun
+dataset/raw\Firaun\Firaun_41.npy	Firaun
+dataset/raw\Firaun\Firaun_18.npy	Firaun
+dataset/raw\Firaun\Firaun_30.npy	Firaun
+dataset/raw\Firaun\Firaun_43.npy	Firaun
+dataset/raw\Firaun\Firaun_44.npy	Firaun
+dataset/raw\Firaun\Firaun_29.npy	Firaun
+dataset/raw\Firaun\Firaun_22.npy	Firaun
+dataset/raw\Firaun\Firaun_48.npy	Firaun
+dataset/raw\Firaun\Firaun_28.npy	Firaun
+dataset/raw\Firaun\Firaun_20.npy	Firaun
+dataset/raw\Firaun\Firaun_31.npy	Firaun
+dataset/raw\Firaun\Firaun_9.npy	Firaun
+dataset/raw\Firaun\Firaun_11.npy	Firaun
+dataset/raw\Firaun\Firaun_1.npy	Firaun
+dataset/raw\Firaun\Firaun_35.npy	Firaun
+dataset/raw\Firaun\Firaun_26.npy	Firaun
+dataset/raw\Firaun\Firaun_39.npy	Firaun
+dataset/raw\Firaun\Firaun_10.npy	Firaun
+dataset/raw\Firaun\Firaun_21.npy	Firaun
+dataset/raw\G Han\G Han_2.npy	G Han
+dataset/raw\G Han\G Han_29.npy	G Han
+dataset/raw\G Han\G Han_10.npy	G Han
+dataset/raw\G Han\G Han_16.npy	G Han
+dataset/raw\G Han\G Han_15.npy	G Han
+dataset/raw\G Han\G Han_48.npy	G Han
+dataset/raw\G Han\G Han_26.npy	G Han
+dataset/raw\G Han\G Han_34.npy	G Han
+dataset/raw\G Han\G Han_38.npy	G Han
+dataset/raw\G Han\G Han_9.npy	G Han
+dataset/raw\G Han\G Han_42.npy	G Han
+dataset/raw\G Han\G Han_49.npy	G Han
+dataset/raw\G Han\G Han_0.npy	G Han
+dataset/raw\G Han\G Han_44.npy	G Han
+dataset/raw\G Han\G Han_22.npy	G Han
+dataset/raw\G Han\G Han_45.npy	G Han
+dataset/raw\G Han\G Han_37.npy	G Han
+dataset/raw\G Han\G Han_20.npy	G Han
+dataset/raw\G Han\G Han_41.npy	G Han
+dataset/raw\G Han\G Han_18.npy	G Han
+dataset/raw\G Han\G Han_7.npy	G Han
+dataset/raw\G Han\G Han_30.npy	G Han
+dataset/raw\G Han\G Han_25.npy	G Han
+dataset/raw\G Han\G Han_1.npy	G Han
+dataset/raw\G Han\G Han_24.npy	G Han
+dataset/raw\G Han\G Han_40.npy	G Han
+dataset/raw\G Han\G Han_5.npy	G Han
+dataset/raw\G Han\G Han_19.npy	G Han
+dataset/raw\G Han\G Han_6.npy	G Han
+dataset/raw\G Han\G Han_43.npy	G Han
+dataset/raw\G Han\G Han_11.npy	G Han
+dataset/raw\G Han\G Han_46.npy	G Han
+dataset/raw\G Han\G Han_39.npy	G Han
+dataset/raw\G Han\G Han_4.npy	G Han
+dataset/raw\G Han\G Han_13.npy	G Han
+dataset/raw\G Han\G Han_12.npy	G Han
+dataset/raw\G Han\G Han_36.npy	G Han
+dataset/raw\G Han\G Han_17.npy	G Han
+dataset/raw\G Han\G Han_3.npy	G Han
+dataset/raw\G Han\G Han_23.npy	G Han
+dataset/raw\Gaaf\Gaaf_17.npy	Gaaf
+dataset/raw\Gaaf\Gaaf_11.npy	Gaaf
+dataset/raw\Gaaf\Gaaf_36.npy	Gaaf
+dataset/raw\Gaaf\Gaaf_46.npy	Gaaf
+dataset/raw\Gaaf\Gaaf_16.npy	Gaaf
+dataset/raw\Gaaf\Gaaf_20.npy	Gaaf
+dataset/raw\Gaaf\Gaaf_38.npy	Gaaf
+dataset/raw\Gaaf\Gaaf_43.npy	Gaaf
+dataset/raw\Gaaf\Gaaf_18.npy	Gaaf
+dataset/raw\Gaaf\Gaaf_30.npy	Gaaf
+dataset/raw\Gaaf\Gaaf_22.npy	Gaaf
+dataset/raw\Gaaf\Gaaf_31.npy	Gaaf
+dataset/raw\Gaaf\Gaaf_34.npy	Gaaf
+dataset/raw\Gaaf\Gaaf_49.npy	Gaaf
+dataset/raw\Gaaf\Gaaf_39.npy	Gaaf
+dataset/raw\Gaaf\Gaaf_5.npy	Gaaf
+dataset/raw\Gaaf\Gaaf_8.npy	Gaaf
+dataset/raw\Gaaf\Gaaf_23.npy	Gaaf
+dataset/raw\Gaaf\Gaaf_7.npy	Gaaf
+dataset/raw\Gaaf\Gaaf_35.npy	Gaaf
+dataset/raw\Gaaf\Gaaf_27.npy	Gaaf
+dataset/raw\Gaaf\Gaaf_32.npy	Gaaf
+dataset/raw\Gaaf\Gaaf_10.npy	Gaaf
+dataset/raw\Gaaf\Gaaf_2.npy	Gaaf
+dataset/raw\Gaaf\Gaaf_37.npy	Gaaf
+dataset/raw\Gaaf\Gaaf_25.npy	Gaaf
+dataset/raw\Gaaf\Gaaf_12.npy	Gaaf
+dataset/raw\Gaaf\Gaaf_45.npy	Gaaf
+dataset/raw\Gaaf\Gaaf_13.npy	Gaaf
+dataset/raw\Gaaf\Gaaf_0.npy	Gaaf
+dataset/raw\Gaaf\Gaaf_4.npy	Gaaf
+dataset/raw\Gaaf\Gaaf_28.npy	Gaaf
+dataset/raw\Gaaf\Gaaf_26.npy	Gaaf
+dataset/raw\Gaaf\Gaaf_47.npy	Gaaf
+dataset/raw\Gaaf\Gaaf_19.npy	Gaaf
+dataset/raw\Gaaf\Gaaf_42.npy	Gaaf
+dataset/raw\Gaaf\Gaaf_48.npy	Gaaf
+dataset/raw\Gaaf\Gaaf_1.npy	Gaaf
+dataset/raw\Gaaf\Gaaf_44.npy	Gaaf
+dataset/raw\Gaaf\Gaaf_6.npy	Gaaf
+dataset/raw\Genghis Khan\Genghis Khan_23.npy	Genghis Khan
+dataset/raw\Genghis Khan\Genghis Khan_41.npy	Genghis Khan
+dataset/raw\Genghis Khan\Genghis Khan_42.npy	Genghis Khan
+dataset/raw\Genghis Khan\Genghis Khan_36.npy	Genghis Khan
+dataset/raw\Genghis Khan\Genghis Khan_35.npy	Genghis Khan
+dataset/raw\Genghis Khan\Genghis Khan_48.npy	Genghis Khan
+dataset/raw\Genghis Khan\Genghis Khan_46.npy	Genghis Khan
+dataset/raw\Genghis Khan\Genghis Khan_13.npy	Genghis Khan
+dataset/raw\Genghis Khan\Genghis Khan_27.npy	Genghis Khan
+dataset/raw\Genghis Khan\Genghis Khan_19.npy	Genghis Khan
+dataset/raw\Genghis Khan\Genghis Khan_4.npy	Genghis Khan
+dataset/raw\Genghis Khan\Genghis Khan_28.npy	Genghis Khan
+dataset/raw\Genghis Khan\Genghis Khan_3.npy	Genghis Khan
+dataset/raw\Genghis Khan\Genghis Khan_21.npy	Genghis Khan
+dataset/raw\Genghis Khan\Genghis Khan_39.npy	Genghis Khan
+dataset/raw\Genghis Khan\Genghis Khan_45.npy	Genghis Khan
+dataset/raw\Genghis Khan\Genghis Khan_22.npy	Genghis Khan
+dataset/raw\Genghis Khan\Genghis Khan_7.npy	Genghis Khan
+dataset/raw\Genghis Khan\Genghis Khan_11.npy	Genghis Khan
+dataset/raw\Genghis Khan\Genghis Khan_18.npy	Genghis Khan
+dataset/raw\Genghis Khan\Genghis Khan_30.npy	Genghis Khan
+dataset/raw\Genghis Khan\Genghis Khan_16.npy	Genghis Khan
+dataset/raw\Genghis Khan\Genghis Khan_12.npy	Genghis Khan
+dataset/raw\Genghis Khan\Genghis Khan_31.npy	Genghis Khan
+dataset/raw\Genghis Khan\Genghis Khan_17.npy	Genghis Khan
+dataset/raw\Genghis Khan\Genghis Khan_14.npy	Genghis Khan
+dataset/raw\Genghis Khan\Genghis Khan_0.npy	Genghis Khan
+dataset/raw\Genghis Khan\Genghis Khan_1.npy	Genghis Khan
+dataset/raw\Genghis Khan\Genghis Khan_44.npy	Genghis Khan
+dataset/raw\Genghis Khan\Genghis Khan_2.npy	Genghis Khan
+dataset/raw\Genghis Khan\Genghis Khan_40.npy	Genghis Khan
+dataset/raw\Genghis Khan\Genghis Khan_10.npy	Genghis Khan
+dataset/raw\Genghis Khan\Genghis Khan_26.npy	Genghis Khan
+dataset/raw\Genghis Khan\Genghis Khan_5.npy	Genghis Khan
+dataset/raw\Genghis Khan\Genghis Khan_25.npy	Genghis Khan
+dataset/raw\Genghis Khan\Genghis Khan_49.npy	Genghis Khan
+dataset/raw\Genghis Khan\Genghis Khan_6.npy	Genghis Khan
+dataset/raw\Genghis Khan\Genghis Khan_29.npy	Genghis Khan
+dataset/raw\Genghis Khan\Genghis Khan_15.npy	Genghis Khan
+dataset/raw\Genghis Khan\Genghis Khan_38.npy	Genghis Khan
+dataset/raw\Ghain\Ghain_16.npy	Ghain
+dataset/raw\Ghain\Ghain_0.npy	Ghain
+dataset/raw\Ghain\Ghain_19.npy	Ghain
+dataset/raw\Ghain\Ghain_9.npy	Ghain
+dataset/raw\Ghain\Ghain_22.npy	Ghain
+dataset/raw\Ghain\Ghain_4.npy	Ghain
+dataset/raw\Ghain\Ghain_28.npy	Ghain
+dataset/raw\Ghain\Ghain_43.npy	Ghain
+dataset/raw\Ghain\Ghain_24.npy	Ghain
+dataset/raw\Ghain\Ghain_34.npy	Ghain
+dataset/raw\Ghain\Ghain_42.npy	Ghain
+dataset/raw\Ghain\Ghain_40.npy	Ghain
+dataset/raw\Ghain\Ghain_26.npy	Ghain
+dataset/raw\Ghain\Ghain_30.npy	Ghain
+dataset/raw\Ghain\Ghain_21.npy	Ghain
+dataset/raw\Ghain\Ghain_37.npy	Ghain
+dataset/raw\Ghain\Ghain_11.npy	Ghain
+dataset/raw\Ghain\Ghain_47.npy	Ghain
+dataset/raw\Ghain\Ghain_44.npy	Ghain
+dataset/raw\Ghain\Ghain_39.npy	Ghain
+dataset/raw\Ghain\Ghain_29.npy	Ghain
+dataset/raw\Ghain\Ghain_36.npy	Ghain
+dataset/raw\Ghain\Ghain_5.npy	Ghain
+dataset/raw\Ghain\Ghain_17.npy	Ghain
+dataset/raw\Ghain\Ghain_38.npy	Ghain
+dataset/raw\Ghain\Ghain_10.npy	Ghain
+dataset/raw\Ghain\Ghain_23.npy	Ghain
+dataset/raw\Ghain\Ghain_2.npy	Ghain
+dataset/raw\Ghain\Ghain_46.npy	Ghain
+dataset/raw\Ghain\Ghain_20.npy	Ghain
+dataset/raw\Ghain\Ghain_48.npy	Ghain
+dataset/raw\Ghain\Ghain_14.npy	Ghain
+dataset/raw\Ghain\Ghain_6.npy	Ghain
+dataset/raw\Ghain\Ghain_13.npy	Ghain
+dataset/raw\Ghain\Ghain_3.npy	Ghain
+dataset/raw\Ghain\Ghain_35.npy	Ghain
+dataset/raw\Ghain\Ghain_18.npy	Ghain
+dataset/raw\Ghain\Ghain_8.npy	Ghain
+dataset/raw\Ghain\Ghain_1.npy	Ghain
+dataset/raw\Ghain\Ghain_49.npy	Ghain
+dataset/raw\Guava\Guava_2.npy	Guava
+dataset/raw\Guava\Guava_13.npy	Guava
+dataset/raw\Guava\Guava_29.npy	Guava
+dataset/raw\Guava\Guava_11.npy	Guava
+dataset/raw\Guava\Guava_0.npy	Guava
+dataset/raw\Guava\Guava_20.npy	Guava
+dataset/raw\Guava\Guava_39.npy	Guava
+dataset/raw\Guava\Guava_15.npy	Guava
+dataset/raw\Guava\Guava_14.npy	Guava
+dataset/raw\Guava\Guava_33.npy	Guava
+dataset/raw\Guava\Guava_3.npy	Guava
+dataset/raw\Guava\Guava_22.npy	Guava
+dataset/raw\Guava\Guava_26.npy	Guava
+dataset/raw\Guava\Guava_18.npy	Guava
+dataset/raw\Guava\Guava_24.npy	Guava
+dataset/raw\Guava\Guava_28.npy	Guava
+dataset/raw\Guava\Guava_30.npy	Guava
+dataset/raw\Guava\Guava_32.npy	Guava
+dataset/raw\Guava\Guava_48.npy	Guava
+dataset/raw\Guava\Guava_38.npy	Guava
+dataset/raw\Guava\Guava_21.npy	Guava
+dataset/raw\Guava\Guava_47.npy	Guava
+dataset/raw\Guava\Guava_10.npy	Guava
+dataset/raw\Guava\Guava_23.npy	Guava
+dataset/raw\Guava\Guava_5.npy	Guava
+dataset/raw\Guava\Guava_1.npy	Guava
+dataset/raw\Guava\Guava_25.npy	Guava
+dataset/raw\Guava\Guava_16.npy	Guava
+dataset/raw\Guava\Guava_31.npy	Guava
+dataset/raw\Guava\Guava_40.npy	Guava
+dataset/raw\Guava\Guava_43.npy	Guava
+dataset/raw\Guava\Guava_4.npy	Guava
+dataset/raw\Guava\Guava_36.npy	Guava
+dataset/raw\Guava\Guava_6.npy	Guava
+dataset/raw\Guava\Guava_44.npy	Guava
+dataset/raw\Guava\Guava_17.npy	Guava
+dataset/raw\Guava\Guava_49.npy	Guava
+dataset/raw\Guava\Guava_27.npy	Guava
+dataset/raw\Guava\Guava_7.npy	Guava
+dataset/raw\Guava\Guava_34.npy	Guava
+dataset/raw\Hain\Hain_0.npy	Hain
+dataset/raw\Hain\Hain_23.npy	Hain
+dataset/raw\Hain\Hain_47.npy	Hain
+dataset/raw\Hain\Hain_41.npy	Hain
+dataset/raw\Hain\Hain_15.npy	Hain
+dataset/raw\Hain\Hain_16.npy	Hain
+dataset/raw\Hain\Hain_32.npy	Hain
+dataset/raw\Hain\Hain_37.npy	Hain
+dataset/raw\Hain\Hain_45.npy	Hain
+dataset/raw\Hain\Hain_25.npy	Hain
+dataset/raw\Hain\Hain_4.npy	Hain
+dataset/raw\Hain\Hain_24.npy	Hain
+dataset/raw\Hain\Hain_7.npy	Hain
+dataset/raw\Hain\Hain_21.npy	Hain
+dataset/raw\Hain\Hain_12.npy	Hain
+dataset/raw\Hain\Hain_33.npy	Hain
+dataset/raw\Hain\Hain_49.npy	Hain
+dataset/raw\Hain\Hain_29.npy	Hain
+dataset/raw\Hain\Hain_42.npy	Hain
+dataset/raw\Hain\Hain_31.npy	Hain
+dataset/raw\Hain\Hain_9.npy	Hain
+dataset/raw\Hain\Hain_1.npy	Hain
+dataset/raw\Hain\Hain_26.npy	Hain
+dataset/raw\Hain\Hain_46.npy	Hain
+dataset/raw\Hain\Hain_44.npy	Hain
+dataset/raw\Hain\Hain_30.npy	Hain
+dataset/raw\Hain\Hain_20.npy	Hain
+dataset/raw\Hain\Hain_2.npy	Hain
+dataset/raw\Hain\Hain_5.npy	Hain
+dataset/raw\Hain\Hain_35.npy	Hain
+dataset/raw\Hain\Hain_8.npy	Hain
+dataset/raw\Hain\Hain_3.npy	Hain
+dataset/raw\Hain\Hain_18.npy	Hain
+dataset/raw\Hain\Hain_39.npy	Hain
+dataset/raw\Hain\Hain_40.npy	Hain
+dataset/raw\Hain\Hain_48.npy	Hain
+dataset/raw\Hain\Hain_22.npy	Hain
+dataset/raw\Hain\Hain_10.npy	Hain
+dataset/raw\Hain\Hain_19.npy	Hain
+dataset/raw\Hain\Hain_6.npy	Hain
+dataset/raw\Hamza\Hamza_0.npy	Hamza
+dataset/raw\Hamza\Hamza_41.npy	Hamza
+dataset/raw\Hamza\Hamza_42.npy	Hamza
+dataset/raw\Hamza\Hamza_20.npy	Hamza
+dataset/raw\Hamza\Hamza_29.npy	Hamza
+dataset/raw\Hamza\Hamza_45.npy	Hamza
+dataset/raw\Hamza\Hamza_32.npy	Hamza
+dataset/raw\Hamza\Hamza_21.npy	Hamza
+dataset/raw\Hamza\Hamza_31.npy	Hamza
+dataset/raw\Hamza\Hamza_37.npy	Hamza
+dataset/raw\Hamza\Hamza_47.npy	Hamza
+dataset/raw\Hamza\Hamza_27.npy	Hamza
+dataset/raw\Hamza\Hamza_2.npy	Hamza
+dataset/raw\Hamza\Hamza_8.npy	Hamza
+dataset/raw\Hamza\Hamza_34.npy	Hamza
+dataset/raw\Hamza\Hamza_4.npy	Hamza
+dataset/raw\Hamza\Hamza_25.npy	Hamza
+dataset/raw\Hamza\Hamza_24.npy	Hamza
+dataset/raw\Hamza\Hamza_23.npy	Hamza
+dataset/raw\Hamza\Hamza_11.npy	Hamza
+dataset/raw\Hamza\Hamza_17.npy	Hamza
+dataset/raw\Hamza\Hamza_10.npy	Hamza
+dataset/raw\Hamza\Hamza_44.npy	Hamza
+dataset/raw\Hamza\Hamza_12.npy	Hamza
+dataset/raw\Hamza\Hamza_15.npy	Hamza
+dataset/raw\Hamza\Hamza_35.npy	Hamza
+dataset/raw\Hamza\Hamza_22.npy	Hamza
+dataset/raw\Hamza\Hamza_48.npy	Hamza
+dataset/raw\Hamza\Hamza_18.npy	Hamza
+dataset/raw\Hamza\Hamza_14.npy	Hamza
+dataset/raw\Hamza\Hamza_36.npy	Hamza
+dataset/raw\Hamza\Hamza_19.npy	Hamza
+dataset/raw\Hamza\Hamza_7.npy	Hamza
+dataset/raw\Hamza\Hamza_49.npy	Hamza
+dataset/raw\Hamza\Hamza_1.npy	Hamza
+dataset/raw\Hamza\Hamza_3.npy	Hamza
+dataset/raw\Hamza\Hamza_38.npy	Hamza
+dataset/raw\Hamza\Hamza_33.npy	Hamza
+dataset/raw\Hamza\Hamza_6.npy	Hamza
+dataset/raw\Hamza\Hamza_39.npy	Hamza
+dataset/raw\Hay\Hay_18.npy	Hay
+dataset/raw\Hay\Hay_17.npy	Hay
+dataset/raw\Hay\Hay_31.npy	Hay
+dataset/raw\Hay\Hay_8.npy	Hay
+dataset/raw\Hay\Hay_0.npy	Hay
+dataset/raw\Hay\Hay_6.npy	Hay
+dataset/raw\Hay\Hay_41.npy	Hay
+dataset/raw\Hay\Hay_37.npy	Hay
+dataset/raw\Hay\Hay_28.npy	Hay
+dataset/raw\Hay\Hay_15.npy	Hay
+dataset/raw\Hay\Hay_45.npy	Hay
+dataset/raw\Hay\Hay_9.npy	Hay
+dataset/raw\Hay\Hay_38.npy	Hay
+dataset/raw\Hay\Hay_27.npy	Hay
+dataset/raw\Hay\Hay_29.npy	Hay
+dataset/raw\Hay\Hay_33.npy	Hay
+dataset/raw\Hay\Hay_11.npy	Hay
+dataset/raw\Hay\Hay_24.npy	Hay
+dataset/raw\Hay\Hay_19.npy	Hay
+dataset/raw\Hay\Hay_43.npy	Hay
+dataset/raw\Hay\Hay_1.npy	Hay
+dataset/raw\Hay\Hay_16.npy	Hay
+dataset/raw\Hay\Hay_12.npy	Hay
+dataset/raw\Hay\Hay_42.npy	Hay
+dataset/raw\Hay\Hay_14.npy	Hay
+dataset/raw\Hay\Hay_13.npy	Hay
+dataset/raw\Hay\Hay_20.npy	Hay
+dataset/raw\Hay\Hay_39.npy	Hay
+dataset/raw\Hay\Hay_23.npy	Hay
+dataset/raw\Hay\Hay_40.npy	Hay
+dataset/raw\Hay\Hay_30.npy	Hay
+dataset/raw\Hay\Hay_47.npy	Hay
+dataset/raw\Hay\Hay_35.npy	Hay
+dataset/raw\Hay\Hay_46.npy	Hay
+dataset/raw\Hay\Hay_7.npy	Hay
+dataset/raw\Hay\Hay_2.npy	Hay
+dataset/raw\Hay\Hay_36.npy	Hay
+dataset/raw\Hay\Hay_26.npy	Hay
+dataset/raw\Hay\Hay_5.npy	Hay
+dataset/raw\Hay\Hay_4.npy	Hay
+dataset/raw\He\He_6.npy	He
+dataset/raw\He\He_7.npy	He
+dataset/raw\He\He_24.npy	He
+dataset/raw\He\He_46.npy	He
+dataset/raw\He\He_15.npy	He
+dataset/raw\He\He_40.npy	He
+dataset/raw\He\He_18.npy	He
+dataset/raw\He\He_43.npy	He
+dataset/raw\He\He_45.npy	He
+dataset/raw\He\He_2.npy	He
+dataset/raw\He\He_4.npy	He
+dataset/raw\He\He_19.npy	He
+dataset/raw\He\He_23.npy	He
+dataset/raw\He\He_37.npy	He
+dataset/raw\He\He_20.npy	He
+dataset/raw\He\He_41.npy	He
+dataset/raw\He\He_39.npy	He
+dataset/raw\He\He_42.npy	He
+dataset/raw\He\He_5.npy	He
+dataset/raw\He\He_0.npy	He
+dataset/raw\He\He_26.npy	He
+dataset/raw\He\He_44.npy	He
+dataset/raw\He\He_34.npy	He
+dataset/raw\He\He_33.npy	He
+dataset/raw\He\He_47.npy	He
+dataset/raw\He\He_12.npy	He
+dataset/raw\He\He_36.npy	He
+dataset/raw\He\He_29.npy	He
+dataset/raw\He\He_48.npy	He
+dataset/raw\He\He_8.npy	He
+dataset/raw\He\He_35.npy	He
+dataset/raw\He\He_25.npy	He
+dataset/raw\He\He_10.npy	He
+dataset/raw\He\He_16.npy	He
+dataset/raw\He\He_17.npy	He
+dataset/raw\He\He_28.npy	He
+dataset/raw\He\He_14.npy	He
+dataset/raw\He\He_27.npy	He
+dataset/raw\He\He_9.npy	He
+dataset/raw\He\He_21.npy	He
+dataset/raw\Iski\Iski_11.npy	Iski
+dataset/raw\Iski\Iski_40.npy	Iski
+dataset/raw\Iski\Iski_16.npy	Iski
+dataset/raw\Iski\Iski_6.npy	Iski
+dataset/raw\Iski\Iski_47.npy	Iski
+dataset/raw\Iski\Iski_21.npy	Iski
+dataset/raw\Iski\Iski_31.npy	Iski
+dataset/raw\Iski\Iski_42.npy	Iski
+dataset/raw\Iski\Iski_49.npy	Iski
+dataset/raw\Iski\Iski_39.npy	Iski
+dataset/raw\Iski\Iski_14.npy	Iski
+dataset/raw\Iski\Iski_18.npy	Iski
+dataset/raw\Iski\Iski_26.npy	Iski
+dataset/raw\Iski\Iski_36.npy	Iski
+dataset/raw\Iski\Iski_34.npy	Iski
+dataset/raw\Iski\Iski_2.npy	Iski
+dataset/raw\Iski\Iski_46.npy	Iski
+dataset/raw\Iski\Iski_5.npy	Iski
+dataset/raw\Iski\Iski_27.npy	Iski
+dataset/raw\Iski\Iski_24.npy	Iski
+dataset/raw\Iski\Iski_3.npy	Iski
+dataset/raw\Iski\Iski_30.npy	Iski
+dataset/raw\Iski\Iski_19.npy	Iski
+dataset/raw\Iski\Iski_23.npy	Iski
+dataset/raw\Iski\Iski_10.npy	Iski
+dataset/raw\Iski\Iski_8.npy	Iski
+dataset/raw\Iski\Iski_28.npy	Iski
+dataset/raw\Iski\Iski_13.npy	Iski
+dataset/raw\Iski\Iski_20.npy	Iski
+dataset/raw\Iski\Iski_7.npy	Iski
+dataset/raw\Iski\Iski_48.npy	Iski
+dataset/raw\Iski\Iski_29.npy	Iski
+dataset/raw\Iski\Iski_0.npy	Iski
+dataset/raw\Iski\Iski_33.npy	Iski
+dataset/raw\Iski\Iski_25.npy	Iski
+dataset/raw\Iski\Iski_17.npy	Iski
+dataset/raw\Iski\Iski_9.npy	Iski
+dataset/raw\Iski\Iski_41.npy	Iski
+dataset/raw\Iski\Iski_38.npy	Iski
+dataset/raw\Iski\Iski_1.npy	Iski
+dataset/raw\Jao\Jao_30.npy	Jao
+dataset/raw\Jao\Jao_21.npy	Jao
+dataset/raw\Jao\Jao_0.npy	Jao
+dataset/raw\Jao\Jao_39.npy	Jao
+dataset/raw\Jao\Jao_15.npy	Jao
+dataset/raw\Jao\Jao_11.npy	Jao
+dataset/raw\Jao\Jao_48.npy	Jao
+dataset/raw\Jao\Jao_27.npy	Jao
+dataset/raw\Jao\Jao_38.npy	Jao
+dataset/raw\Jao\Jao_3.npy	Jao
+dataset/raw\Jao\Jao_46.npy	Jao
+dataset/raw\Jao\Jao_40.npy	Jao
+dataset/raw\Jao\Jao_13.npy	Jao
+dataset/raw\Jao\Jao_32.npy	Jao
+dataset/raw\Jao\Jao_20.npy	Jao
+dataset/raw\Jao\Jao_26.npy	Jao
+dataset/raw\Jao\Jao_8.npy	Jao
+dataset/raw\Jao\Jao_47.npy	Jao
+dataset/raw\Jao\Jao_34.npy	Jao
+dataset/raw\Jao\Jao_33.npy	Jao
+dataset/raw\Jao\Jao_41.npy	Jao
+dataset/raw\Jao\Jao_22.npy	Jao
+dataset/raw\Jao\Jao_24.npy	Jao
+dataset/raw\Jao\Jao_37.npy	Jao
+dataset/raw\Jao\Jao_23.npy	Jao
+dataset/raw\Jao\Jao_17.npy	Jao
+dataset/raw\Jao\Jao_18.npy	Jao
+dataset/raw\Jao\Jao_43.npy	Jao
+dataset/raw\Jao\Jao_14.npy	Jao
+dataset/raw\Jao\Jao_31.npy	Jao
+dataset/raw\Jao\Jao_1.npy	Jao
+dataset/raw\Jao\Jao_2.npy	Jao
+dataset/raw\Jao\Jao_25.npy	Jao
+dataset/raw\Jao\Jao_49.npy	Jao
+dataset/raw\Jao\Jao_44.npy	Jao
+dataset/raw\Jao\Jao_12.npy	Jao
+dataset/raw\Jao\Jao_5.npy	Jao
+dataset/raw\Jao\Jao_45.npy	Jao
+dataset/raw\Jao\Jao_36.npy	Jao
+dataset/raw\Jao\Jao_35.npy	Jao
+dataset/raw\Jeem\Jeem_23.npy	Jeem
+dataset/raw\Jeem\Jeem_15.npy	Jeem
+dataset/raw\Jeem\Jeem_6.npy	Jeem
+dataset/raw\Jeem\Jeem_38.npy	Jeem
+dataset/raw\Jeem\Jeem_11.npy	Jeem
+dataset/raw\Jeem\Jeem_12.npy	Jeem
+dataset/raw\Jeem\Jeem_2.npy	Jeem
+dataset/raw\Jeem\Jeem_17.npy	Jeem
+dataset/raw\Jeem\Jeem_0.npy	Jeem
+dataset/raw\Jeem\Jeem_22.npy	Jeem
+dataset/raw\Jeem\Jeem_5.npy	Jeem
+dataset/raw\Jeem\Jeem_32.npy	Jeem
+dataset/raw\Jeem\Jeem_40.npy	Jeem
+dataset/raw\Jeem\Jeem_31.npy	Jeem
+dataset/raw\Jeem\Jeem_18.npy	Jeem
+dataset/raw\Jeem\Jeem_10.npy	Jeem
+dataset/raw\Jeem\Jeem_28.npy	Jeem
+dataset/raw\Jeem\Jeem_16.npy	Jeem
+dataset/raw\Jeem\Jeem_46.npy	Jeem
+dataset/raw\Jeem\Jeem_35.npy	Jeem
+dataset/raw\Jeem\Jeem_7.npy	Jeem
+dataset/raw\Jeem\Jeem_1.npy	Jeem
+dataset/raw\Jeem\Jeem_30.npy	Jeem
+dataset/raw\Jeem\Jeem_44.npy	Jeem
+dataset/raw\Jeem\Jeem_36.npy	Jeem
+dataset/raw\Jeem\Jeem_34.npy	Jeem
+dataset/raw\Jeem\Jeem_45.npy	Jeem
+dataset/raw\Jeem\Jeem_20.npy	Jeem
+dataset/raw\Jeem\Jeem_29.npy	Jeem
+dataset/raw\Jeem\Jeem_8.npy	Jeem
+dataset/raw\Jeem\Jeem_21.npy	Jeem
+dataset/raw\Jeem\Jeem_26.npy	Jeem
+dataset/raw\Jeem\Jeem_42.npy	Jeem
+dataset/raw\Jeem\Jeem_41.npy	Jeem
+dataset/raw\Jeem\Jeem_47.npy	Jeem
+dataset/raw\Jeem\Jeem_14.npy	Jeem
+dataset/raw\Jeem\Jeem_27.npy	Jeem
+dataset/raw\Jeem\Jeem_25.npy	Jeem
+dataset/raw\Jeem\Jeem_4.npy	Jeem
+dataset/raw\Jeem\Jeem_19.npy	Jeem
+dataset/raw\Kaaf\Kaaf_20.npy	Kaaf
+dataset/raw\Kaaf\Kaaf_5.npy	Kaaf
+dataset/raw\Kaaf\Kaaf_36.npy	Kaaf
+dataset/raw\Kaaf\Kaaf_32.npy	Kaaf
+dataset/raw\Kaaf\Kaaf_38.npy	Kaaf
+dataset/raw\Kaaf\Kaaf_28.npy	Kaaf
+dataset/raw\Kaaf\Kaaf_18.npy	Kaaf
+dataset/raw\Kaaf\Kaaf_29.npy	Kaaf
+dataset/raw\Kaaf\Kaaf_48.npy	Kaaf
+dataset/raw\Kaaf\Kaaf_1.npy	Kaaf
+dataset/raw\Kaaf\Kaaf_26.npy	Kaaf
+dataset/raw\Kaaf\Kaaf_42.npy	Kaaf
+dataset/raw\Kaaf\Kaaf_19.npy	Kaaf
+dataset/raw\Kaaf\Kaaf_49.npy	Kaaf
+dataset/raw\Kaaf\Kaaf_8.npy	Kaaf
+dataset/raw\Kaaf\Kaaf_14.npy	Kaaf
+dataset/raw\Kaaf\Kaaf_21.npy	Kaaf
+dataset/raw\Kaaf\Kaaf_25.npy	Kaaf
+dataset/raw\Kaaf\Kaaf_35.npy	Kaaf
+dataset/raw\Kaaf\Kaaf_33.npy	Kaaf
+dataset/raw\Kaaf\Kaaf_24.npy	Kaaf
+dataset/raw\Kaaf\Kaaf_2.npy	Kaaf
+dataset/raw\Kaaf\Kaaf_23.npy	Kaaf
+dataset/raw\Kaaf\Kaaf_9.npy	Kaaf
+dataset/raw\Kaaf\Kaaf_13.npy	Kaaf
+dataset/raw\Kaaf\Kaaf_4.npy	Kaaf
+dataset/raw\Kaaf\Kaaf_0.npy	Kaaf
+dataset/raw\Kaaf\Kaaf_11.npy	Kaaf
+dataset/raw\Kaaf\Kaaf_15.npy	Kaaf
+dataset/raw\Kaaf\Kaaf_40.npy	Kaaf
+dataset/raw\Kaaf\Kaaf_37.npy	Kaaf
+dataset/raw\Kaaf\Kaaf_27.npy	Kaaf
+dataset/raw\Kaaf\Kaaf_31.npy	Kaaf
+dataset/raw\Kaaf\Kaaf_47.npy	Kaaf
+dataset/raw\Kaaf\Kaaf_39.npy	Kaaf
+dataset/raw\Kaaf\Kaaf_16.npy	Kaaf
+dataset/raw\Kaaf\Kaaf_12.npy	Kaaf
+dataset/raw\Kaaf\Kaaf_45.npy	Kaaf
+dataset/raw\Kaaf\Kaaf_44.npy	Kaaf
+dataset/raw\Kaaf\Kaaf_6.npy	Kaaf
+dataset/raw\Kab\Kab_39.npy	Kab
+dataset/raw\Kab\Kab_30.npy	Kab
+dataset/raw\Kab\Kab_36.npy	Kab
+dataset/raw\Kab\Kab_46.npy	Kab
+dataset/raw\Kab\Kab_43.npy	Kab
+dataset/raw\Kab\Kab_31.npy	Kab
+dataset/raw\Kab\Kab_11.npy	Kab
+dataset/raw\Kab\Kab_7.npy	Kab
+dataset/raw\Kab\Kab_32.npy	Kab
+dataset/raw\Kab\Kab_13.npy	Kab
+dataset/raw\Kab\Kab_27.npy	Kab
+dataset/raw\Kab\Kab_1.npy	Kab
+dataset/raw\Kab\Kab_8.npy	Kab
+dataset/raw\Kab\Kab_14.npy	Kab
+dataset/raw\Kab\Kab_33.npy	Kab
+dataset/raw\Kab\Kab_20.npy	Kab
+dataset/raw\Kab\Kab_23.npy	Kab
+dataset/raw\Kab\Kab_42.npy	Kab
+dataset/raw\Kab\Kab_49.npy	Kab
+dataset/raw\Kab\Kab_17.npy	Kab
+dataset/raw\Kab\Kab_28.npy	Kab
+dataset/raw\Kab\Kab_10.npy	Kab
+dataset/raw\Kab\Kab_9.npy	Kab
+dataset/raw\Kab\Kab_6.npy	Kab
+dataset/raw\Kab\Kab_34.npy	Kab
+dataset/raw\Kab\Kab_41.npy	Kab
+dataset/raw\Kab\Kab_35.npy	Kab
+dataset/raw\Kab\Kab_48.npy	Kab
+dataset/raw\Kab\Kab_24.npy	Kab
+dataset/raw\Kab\Kab_44.npy	Kab
+dataset/raw\Kab\Kab_0.npy	Kab
+dataset/raw\Kab\Kab_37.npy	Kab
+dataset/raw\Kab\Kab_22.npy	Kab
+dataset/raw\Kab\Kab_16.npy	Kab
+dataset/raw\Kab\Kab_2.npy	Kab
+dataset/raw\Kab\Kab_15.npy	Kab
+dataset/raw\Kab\Kab_21.npy	Kab
+dataset/raw\Kab\Kab_38.npy	Kab
+dataset/raw\Kab\Kab_3.npy	Kab
+dataset/raw\Kab\Kab_19.npy	Kab
+dataset/raw\Kesay\Kesay_28.npy	Kesay
+dataset/raw\Kesay\Kesay_41.npy	Kesay
+dataset/raw\Kesay\Kesay_22.npy	Kesay
+dataset/raw\Kesay\Kesay_42.npy	Kesay
+dataset/raw\Kesay\Kesay_49.npy	Kesay
+dataset/raw\Kesay\Kesay_34.npy	Kesay
+dataset/raw\Kesay\Kesay_14.npy	Kesay
+dataset/raw\Kesay\Kesay_5.npy	Kesay
+dataset/raw\Kesay\Kesay_3.npy	Kesay
+dataset/raw\Kesay\Kesay_19.npy	Kesay
+dataset/raw\Kesay\Kesay_1.npy	Kesay
+dataset/raw\Kesay\Kesay_37.npy	Kesay
+dataset/raw\Kesay\Kesay_0.npy	Kesay
+dataset/raw\Kesay\Kesay_31.npy	Kesay
+dataset/raw\Kesay\Kesay_20.npy	Kesay
+dataset/raw\Kesay\Kesay_44.npy	Kesay
+dataset/raw\Kesay\Kesay_30.npy	Kesay
+dataset/raw\Kesay\Kesay_7.npy	Kesay
+dataset/raw\Kesay\Kesay_4.npy	Kesay
+dataset/raw\Kesay\Kesay_40.npy	Kesay
+dataset/raw\Kesay\Kesay_32.npy	Kesay
+dataset/raw\Kesay\Kesay_6.npy	Kesay
+dataset/raw\Kesay\Kesay_10.npy	Kesay
+dataset/raw\Kesay\Kesay_35.npy	Kesay
+dataset/raw\Kesay\Kesay_46.npy	Kesay
+dataset/raw\Kesay\Kesay_47.npy	Kesay
+dataset/raw\Kesay\Kesay_36.npy	Kesay
+dataset/raw\Kesay\Kesay_12.npy	Kesay
+dataset/raw\Kesay\Kesay_8.npy	Kesay
+dataset/raw\Kesay\Kesay_24.npy	Kesay
+dataset/raw\Kesay\Kesay_43.npy	Kesay
+dataset/raw\Kesay\Kesay_2.npy	Kesay
+dataset/raw\Kesay\Kesay_23.npy	Kesay
+dataset/raw\Kesay\Kesay_13.npy	Kesay
+dataset/raw\Kesay\Kesay_25.npy	Kesay
+dataset/raw\Kesay\Kesay_48.npy	Kesay
+dataset/raw\Kesay\Kesay_29.npy	Kesay
+dataset/raw\Kesay\Kesay_21.npy	Kesay
+dataset/raw\Kesay\Kesay_27.npy	Kesay
+dataset/raw\Kesay\Kesay_45.npy	Kesay
+dataset/raw\Khay\Khay_13.npy	Khay
+dataset/raw\Khay\Khay_4.npy	Khay
+dataset/raw\Khay\Khay_5.npy	Khay
+dataset/raw\Khay\Khay_38.npy	Khay
+dataset/raw\Khay\Khay_49.npy	Khay
+dataset/raw\Khay\Khay_39.npy	Khay
+dataset/raw\Khay\Khay_41.npy	Khay
+dataset/raw\Khay\Khay_6.npy	Khay
+dataset/raw\Khay\Khay_14.npy	Khay
+dataset/raw\Khay\Khay_30.npy	Khay
+dataset/raw\Khay\Khay_0.npy	Khay
+dataset/raw\Khay\Khay_1.npy	Khay
+dataset/raw\Khay\Khay_10.npy	Khay
+dataset/raw\Khay\Khay_40.npy	Khay
+dataset/raw\Khay\Khay_25.npy	Khay
+dataset/raw\Khay\Khay_16.npy	Khay
+dataset/raw\Khay\Khay_37.npy	Khay
+dataset/raw\Khay\Khay_21.npy	Khay
+dataset/raw\Khay\Khay_15.npy	Khay
+dataset/raw\Khay\Khay_43.npy	Khay
+dataset/raw\Khay\Khay_45.npy	Khay
+dataset/raw\Khay\Khay_24.npy	Khay
+dataset/raw\Khay\Khay_23.npy	Khay
+dataset/raw\Khay\Khay_42.npy	Khay
+dataset/raw\Khay\Khay_9.npy	Khay
+dataset/raw\Khay\Khay_2.npy	Khay
+dataset/raw\Khay\Khay_19.npy	Khay
+dataset/raw\Khay\Khay_3.npy	Khay
+dataset/raw\Khay\Khay_44.npy	Khay
+dataset/raw\Khay\Khay_29.npy	Khay
+dataset/raw\Khay\Khay_33.npy	Khay
+dataset/raw\Khay\Khay_27.npy	Khay
+dataset/raw\Khay\Khay_17.npy	Khay
+dataset/raw\Khay\Khay_28.npy	Khay
+dataset/raw\Khay\Khay_20.npy	Khay
+dataset/raw\Khay\Khay_47.npy	Khay
+dataset/raw\Khay\Khay_7.npy	Khay
+dataset/raw\Khay\Khay_32.npy	Khay
+dataset/raw\Khay\Khay_34.npy	Khay
+dataset/raw\Khay\Khay_18.npy	Khay
+dataset/raw\Kya qeemat hai\Kya qeemat hai_39.npy	Kya qeemat hai
+dataset/raw\Kya qeemat hai\Kya qeemat hai_10.npy	Kya qeemat hai
+dataset/raw\Kya qeemat hai\Kya qeemat hai_32.npy	Kya qeemat hai
+dataset/raw\Kya qeemat hai\Kya qeemat hai_34.npy	Kya qeemat hai
+dataset/raw\Kya qeemat hai\Kya qeemat hai_47.npy	Kya qeemat hai
+dataset/raw\Kya qeemat hai\Kya qeemat hai_45.npy	Kya qeemat hai
+dataset/raw\Kya qeemat hai\Kya qeemat hai_43.npy	Kya qeemat hai
+dataset/raw\Kya qeemat hai\Kya qeemat hai_46.npy	Kya qeemat hai
+dataset/raw\Kya qeemat hai\Kya qeemat hai_18.npy	Kya qeemat hai
+dataset/raw\Kya qeemat hai\Kya qeemat hai_15.npy	Kya qeemat hai
+dataset/raw\Kya qeemat hai\Kya qeemat hai_21.npy	Kya qeemat hai
+dataset/raw\Kya qeemat hai\Kya qeemat hai_23.npy	Kya qeemat hai
+dataset/raw\Kya qeemat hai\Kya qeemat hai_44.npy	Kya qeemat hai
+dataset/raw\Kya qeemat hai\Kya qeemat hai_30.npy	Kya qeemat hai
+dataset/raw\Kya qeemat hai\Kya qeemat hai_3.npy	Kya qeemat hai
+dataset/raw\Kya qeemat hai\Kya qeemat hai_27.npy	Kya qeemat hai
+dataset/raw\Kya qeemat hai\Kya qeemat hai_14.npy	Kya qeemat hai
+dataset/raw\Kya qeemat hai\Kya qeemat hai_5.npy	Kya qeemat hai
+dataset/raw\Kya qeemat hai\Kya qeemat hai_28.npy	Kya qeemat hai
+dataset/raw\Kya qeemat hai\Kya qeemat hai_48.npy	Kya qeemat hai
+dataset/raw\Kya qeemat hai\Kya qeemat hai_41.npy	Kya qeemat hai
+dataset/raw\Kya qeemat hai\Kya qeemat hai_2.npy	Kya qeemat hai
+dataset/raw\Kya qeemat hai\Kya qeemat hai_19.npy	Kya qeemat hai
+dataset/raw\Kya qeemat hai\Kya qeemat hai_16.npy	Kya qeemat hai
+dataset/raw\Kya qeemat hai\Kya qeemat hai_12.npy	Kya qeemat hai
+dataset/raw\Kya qeemat hai\Kya qeemat hai_42.npy	Kya qeemat hai
+dataset/raw\Kya qeemat hai\Kya qeemat hai_4.npy	Kya qeemat hai
+dataset/raw\Kya qeemat hai\Kya qeemat hai_33.npy	Kya qeemat hai
+dataset/raw\Kya qeemat hai\Kya qeemat hai_0.npy	Kya qeemat hai
+dataset/raw\Kya qeemat hai\Kya qeemat hai_24.npy	Kya qeemat hai
+dataset/raw\Kya qeemat hai\Kya qeemat hai_17.npy	Kya qeemat hai
+dataset/raw\Kya qeemat hai\Kya qeemat hai_36.npy	Kya qeemat hai
+dataset/raw\Kya qeemat hai\Kya qeemat hai_49.npy	Kya qeemat hai
+dataset/raw\Kya qeemat hai\Kya qeemat hai_25.npy	Kya qeemat hai
+dataset/raw\Kya qeemat hai\Kya qeemat hai_40.npy	Kya qeemat hai
+dataset/raw\Kya qeemat hai\Kya qeemat hai_11.npy	Kya qeemat hai
+dataset/raw\Kya qeemat hai\Kya qeemat hai_29.npy	Kya qeemat hai
+dataset/raw\Kya qeemat hai\Kya qeemat hai_20.npy	Kya qeemat hai
+dataset/raw\Kya qeemat hai\Kya qeemat hai_22.npy	Kya qeemat hai
+dataset/raw\Kya qeemat hai\Kya qeemat hai_7.npy	Kya qeemat hai
+dataset/raw\Laam\Laam_14.npy	Laam
+dataset/raw\Laam\Laam_21.npy	Laam
+dataset/raw\Laam\Laam_6.npy	Laam
+dataset/raw\Laam\Laam_4.npy	Laam
+dataset/raw\Laam\Laam_41.npy	Laam
+dataset/raw\Laam\Laam_29.npy	Laam
+dataset/raw\Laam\Laam_11.npy	Laam
+dataset/raw\Laam\Laam_1.npy	Laam
+dataset/raw\Laam\Laam_20.npy	Laam
+dataset/raw\Laam\Laam_5.npy	Laam
+dataset/raw\Laam\Laam_0.npy	Laam
+dataset/raw\Laam\Laam_15.npy	Laam
+dataset/raw\Laam\Laam_33.npy	Laam
+dataset/raw\Laam\Laam_27.npy	Laam
+dataset/raw\Laam\Laam_19.npy	Laam
+dataset/raw\Laam\Laam_22.npy	Laam
+dataset/raw\Laam\Laam_24.npy	Laam
+dataset/raw\Laam\Laam_44.npy	Laam
+dataset/raw\Laam\Laam_30.npy	Laam
+dataset/raw\Laam\Laam_25.npy	Laam
+dataset/raw\Laam\Laam_37.npy	Laam
+dataset/raw\Laam\Laam_45.npy	Laam
+dataset/raw\Laam\Laam_48.npy	Laam
+dataset/raw\Laam\Laam_13.npy	Laam
+dataset/raw\Laam\Laam_32.npy	Laam
+dataset/raw\Laam\Laam_39.npy	Laam
+dataset/raw\Laam\Laam_18.npy	Laam
+dataset/raw\Laam\Laam_12.npy	Laam
+dataset/raw\Laam\Laam_23.npy	Laam
+dataset/raw\Laam\Laam_34.npy	Laam
+dataset/raw\Laam\Laam_26.npy	Laam
+dataset/raw\Laam\Laam_49.npy	Laam
+dataset/raw\Laam\Laam_35.npy	Laam
+dataset/raw\Laam\Laam_36.npy	Laam
+dataset/raw\Laam\Laam_7.npy	Laam
+dataset/raw\Laam\Laam_16.npy	Laam
+dataset/raw\Laam\Laam_42.npy	Laam
+dataset/raw\Laam\Laam_47.npy	Laam
+dataset/raw\Laam\Laam_10.npy	Laam
+dataset/raw\Laam\Laam_46.npy	Laam
+dataset/raw\Lord Mountbatten\Lord Mountbatten_27.npy	Lord Mountbatten
+dataset/raw\Lord Mountbatten\Lord Mountbatten_32.npy	Lord Mountbatten
+dataset/raw\Lord Mountbatten\Lord Mountbatten_0.npy	Lord Mountbatten
+dataset/raw\Lord Mountbatten\Lord Mountbatten_49.npy	Lord Mountbatten
+dataset/raw\Lord Mountbatten\Lord Mountbatten_19.npy	Lord Mountbatten
+dataset/raw\Lord Mountbatten\Lord Mountbatten_43.npy	Lord Mountbatten
+dataset/raw\Lord Mountbatten\Lord Mountbatten_25.npy	Lord Mountbatten
+dataset/raw\Lord Mountbatten\Lord Mountbatten_48.npy	Lord Mountbatten
+dataset/raw\Lord Mountbatten\Lord Mountbatten_45.npy	Lord Mountbatten
+dataset/raw\Lord Mountbatten\Lord Mountbatten_5.npy	Lord Mountbatten
+dataset/raw\Lord Mountbatten\Lord Mountbatten_4.npy	Lord Mountbatten
+dataset/raw\Lord Mountbatten\Lord Mountbatten_40.npy	Lord Mountbatten
+dataset/raw\Lord Mountbatten\Lord Mountbatten_13.npy	Lord Mountbatten
+dataset/raw\Lord Mountbatten\Lord Mountbatten_24.npy	Lord Mountbatten
+dataset/raw\Lord Mountbatten\Lord Mountbatten_16.npy	Lord Mountbatten
+dataset/raw\Lord Mountbatten\Lord Mountbatten_28.npy	Lord Mountbatten
+dataset/raw\Lord Mountbatten\Lord Mountbatten_47.npy	Lord Mountbatten
+dataset/raw\Lord Mountbatten\Lord Mountbatten_31.npy	Lord Mountbatten
+dataset/raw\Lord Mountbatten\Lord Mountbatten_3.npy	Lord Mountbatten
+dataset/raw\Lord Mountbatten\Lord Mountbatten_37.npy	Lord Mountbatten
+dataset/raw\Lord Mountbatten\Lord Mountbatten_38.npy	Lord Mountbatten
+dataset/raw\Lord Mountbatten\Lord Mountbatten_6.npy	Lord Mountbatten
+dataset/raw\Lord Mountbatten\Lord Mountbatten_26.npy	Lord Mountbatten
+dataset/raw\Lord Mountbatten\Lord Mountbatten_9.npy	Lord Mountbatten
+dataset/raw\Lord Mountbatten\Lord Mountbatten_33.npy	Lord Mountbatten
+dataset/raw\Lord Mountbatten\Lord Mountbatten_14.npy	Lord Mountbatten
+dataset/raw\Lord Mountbatten\Lord Mountbatten_29.npy	Lord Mountbatten
+dataset/raw\Lord Mountbatten\Lord Mountbatten_35.npy	Lord Mountbatten
+dataset/raw\Lord Mountbatten\Lord Mountbatten_12.npy	Lord Mountbatten
+dataset/raw\Lord Mountbatten\Lord Mountbatten_20.npy	Lord Mountbatten
+dataset/raw\Lord Mountbatten\Lord Mountbatten_8.npy	Lord Mountbatten
+dataset/raw\Lord Mountbatten\Lord Mountbatten_34.npy	Lord Mountbatten
+dataset/raw\Lord Mountbatten\Lord Mountbatten_1.npy	Lord Mountbatten
+dataset/raw\Lord Mountbatten\Lord Mountbatten_2.npy	Lord Mountbatten
+dataset/raw\Lord Mountbatten\Lord Mountbatten_15.npy	Lord Mountbatten
+dataset/raw\Lord Mountbatten\Lord Mountbatten_10.npy	Lord Mountbatten
+dataset/raw\Lord Mountbatten\Lord Mountbatten_22.npy	Lord Mountbatten
+dataset/raw\Lord Mountbatten\Lord Mountbatten_17.npy	Lord Mountbatten
+dataset/raw\Lord Mountbatten\Lord Mountbatten_30.npy	Lord Mountbatten
+dataset/raw\Lord Mountbatten\Lord Mountbatten_44.npy	Lord Mountbatten
+dataset/raw\Mahatma Gandhi\Mahatma Gandhi_43.npy	Mahatma Gandhi
+dataset/raw\Mahatma Gandhi\Mahatma Gandhi_23.npy	Mahatma Gandhi
+dataset/raw\Mahatma Gandhi\Mahatma Gandhi_18.npy	Mahatma Gandhi
+dataset/raw\Mahatma Gandhi\Mahatma Gandhi_35.npy	Mahatma Gandhi
+dataset/raw\Mahatma Gandhi\Mahatma Gandhi_2.npy	Mahatma Gandhi
+dataset/raw\Mahatma Gandhi\Mahatma Gandhi_13.npy	Mahatma Gandhi
+dataset/raw\Mahatma Gandhi\Mahatma Gandhi_0.npy	Mahatma Gandhi
+dataset/raw\Mahatma Gandhi\Mahatma Gandhi_48.npy	Mahatma Gandhi
+dataset/raw\Mahatma Gandhi\Mahatma Gandhi_11.npy	Mahatma Gandhi
+dataset/raw\Mahatma Gandhi\Mahatma Gandhi_34.npy	Mahatma Gandhi
+dataset/raw\Mahatma Gandhi\Mahatma Gandhi_3.npy	Mahatma Gandhi
+dataset/raw\Mahatma Gandhi\Mahatma Gandhi_33.npy	Mahatma Gandhi
+dataset/raw\Mahatma Gandhi\Mahatma Gandhi_28.npy	Mahatma Gandhi
+dataset/raw\Mahatma Gandhi\Mahatma Gandhi_41.npy	Mahatma Gandhi
+dataset/raw\Mahatma Gandhi\Mahatma Gandhi_46.npy	Mahatma Gandhi
+dataset/raw\Mahatma Gandhi\Mahatma Gandhi_5.npy	Mahatma Gandhi
+dataset/raw\Mahatma Gandhi\Mahatma Gandhi_42.npy	Mahatma Gandhi
+dataset/raw\Mahatma Gandhi\Mahatma Gandhi_14.npy	Mahatma Gandhi
+dataset/raw\Mahatma Gandhi\Mahatma Gandhi_22.npy	Mahatma Gandhi
+dataset/raw\Mahatma Gandhi\Mahatma Gandhi_16.npy	Mahatma Gandhi
+dataset/raw\Mahatma Gandhi\Mahatma Gandhi_6.npy	Mahatma Gandhi
+dataset/raw\Mahatma Gandhi\Mahatma Gandhi_19.npy	Mahatma Gandhi
+dataset/raw\Mahatma Gandhi\Mahatma Gandhi_10.npy	Mahatma Gandhi
+dataset/raw\Mahatma Gandhi\Mahatma Gandhi_47.npy	Mahatma Gandhi
+dataset/raw\Mahatma Gandhi\Mahatma Gandhi_32.npy	Mahatma Gandhi
+dataset/raw\Mahatma Gandhi\Mahatma Gandhi_1.npy	Mahatma Gandhi
+dataset/raw\Mahatma Gandhi\Mahatma Gandhi_17.npy	Mahatma Gandhi
+dataset/raw\Mahatma Gandhi\Mahatma Gandhi_12.npy	Mahatma Gandhi
+dataset/raw\Mahatma Gandhi\Mahatma Gandhi_38.npy	Mahatma Gandhi
+dataset/raw\Mahatma Gandhi\Mahatma Gandhi_39.npy	Mahatma Gandhi
+dataset/raw\Mahatma Gandhi\Mahatma Gandhi_45.npy	Mahatma Gandhi
+dataset/raw\Mahatma Gandhi\Mahatma Gandhi_44.npy	Mahatma Gandhi
+dataset/raw\Mahatma Gandhi\Mahatma Gandhi_31.npy	Mahatma Gandhi
+dataset/raw\Mahatma Gandhi\Mahatma Gandhi_30.npy	Mahatma Gandhi
+dataset/raw\Mahatma Gandhi\Mahatma Gandhi_4.npy	Mahatma Gandhi
+dataset/raw\Mahatma Gandhi\Mahatma Gandhi_15.npy	Mahatma Gandhi
+dataset/raw\Mahatma Gandhi\Mahatma Gandhi_49.npy	Mahatma Gandhi
+dataset/raw\Mahatma Gandhi\Mahatma Gandhi_9.npy	Mahatma Gandhi
+dataset/raw\Mahatma Gandhi\Mahatma Gandhi_8.npy	Mahatma Gandhi
+dataset/raw\Mahatma Gandhi\Mahatma Gandhi_29.npy	Mahatma Gandhi
+dataset/raw\Mahsoos kar rahay\Mahsoos kar rahay_48.npy	Mahsoos kar rahay
+dataset/raw\Mahsoos kar rahay\Mahsoos kar rahay_47.npy	Mahsoos kar rahay
+dataset/raw\Mahsoos kar rahay\Mahsoos kar rahay_44.npy	Mahsoos kar rahay
+dataset/raw\Mahsoos kar rahay\Mahsoos kar rahay_31.npy	Mahsoos kar rahay
+dataset/raw\Mahsoos kar rahay\Mahsoos kar rahay_17.npy	Mahsoos kar rahay
+dataset/raw\Mahsoos kar rahay\Mahsoos kar rahay_37.npy	Mahsoos kar rahay
+dataset/raw\Mahsoos kar rahay\Mahsoos kar rahay_34.npy	Mahsoos kar rahay
+dataset/raw\Mahsoos kar rahay\Mahsoos kar rahay_23.npy	Mahsoos kar rahay
+dataset/raw\Mahsoos kar rahay\Mahsoos kar rahay_43.npy	Mahsoos kar rahay
+dataset/raw\Mahsoos kar rahay\Mahsoos kar rahay_41.npy	Mahsoos kar rahay
+dataset/raw\Mahsoos kar rahay\Mahsoos kar rahay_33.npy	Mahsoos kar rahay
+dataset/raw\Mahsoos kar rahay\Mahsoos kar rahay_46.npy	Mahsoos kar rahay
+dataset/raw\Mahsoos kar rahay\Mahsoos kar rahay_12.npy	Mahsoos kar rahay
+dataset/raw\Mahsoos kar rahay\Mahsoos kar rahay_19.npy	Mahsoos kar rahay
+dataset/raw\Mahsoos kar rahay\Mahsoos kar rahay_21.npy	Mahsoos kar rahay
+dataset/raw\Mahsoos kar rahay\Mahsoos kar rahay_26.npy	Mahsoos kar rahay
+dataset/raw\Mahsoos kar rahay\Mahsoos kar rahay_22.npy	Mahsoos kar rahay
+dataset/raw\Mahsoos kar rahay\Mahsoos kar rahay_45.npy	Mahsoos kar rahay
+dataset/raw\Mahsoos kar rahay\Mahsoos kar rahay_29.npy	Mahsoos kar rahay
+dataset/raw\Mahsoos kar rahay\Mahsoos kar rahay_6.npy	Mahsoos kar rahay
+dataset/raw\Mahsoos kar rahay\Mahsoos kar rahay_20.npy	Mahsoos kar rahay
+dataset/raw\Mahsoos kar rahay\Mahsoos kar rahay_13.npy	Mahsoos kar rahay
+dataset/raw\Mahsoos kar rahay\Mahsoos kar rahay_1.npy	Mahsoos kar rahay
+dataset/raw\Mahsoos kar rahay\Mahsoos kar rahay_3.npy	Mahsoos kar rahay
+dataset/raw\Mahsoos kar rahay\Mahsoos kar rahay_24.npy	Mahsoos kar rahay
+dataset/raw\Mahsoos kar rahay\Mahsoos kar rahay_15.npy	Mahsoos kar rahay
+dataset/raw\Mahsoos kar rahay\Mahsoos kar rahay_38.npy	Mahsoos kar rahay
+dataset/raw\Mahsoos kar rahay\Mahsoos kar rahay_39.npy	Mahsoos kar rahay
+dataset/raw\Mahsoos kar rahay\Mahsoos kar rahay_10.npy	Mahsoos kar rahay
+dataset/raw\Mahsoos kar rahay\Mahsoos kar rahay_30.npy	Mahsoos kar rahay
+dataset/raw\Mahsoos kar rahay\Mahsoos kar rahay_35.npy	Mahsoos kar rahay
+dataset/raw\Mahsoos kar rahay\Mahsoos kar rahay_9.npy	Mahsoos kar rahay
+dataset/raw\Mahsoos kar rahay\Mahsoos kar rahay_4.npy	Mahsoos kar rahay
+dataset/raw\Mahsoos kar rahay\Mahsoos kar rahay_27.npy	Mahsoos kar rahay
+dataset/raw\Mahsoos kar rahay\Mahsoos kar rahay_25.npy	Mahsoos kar rahay
+dataset/raw\Mahsoos kar rahay\Mahsoos kar rahay_2.npy	Mahsoos kar rahay
+dataset/raw\Mahsoos kar rahay\Mahsoos kar rahay_42.npy	Mahsoos kar rahay
+dataset/raw\Mahsoos kar rahay\Mahsoos kar rahay_49.npy	Mahsoos kar rahay
+dataset/raw\Mahsoos kar rahay\Mahsoos kar rahay_7.npy	Mahsoos kar rahay
+dataset/raw\Mahsoos kar rahay\Mahsoos kar rahay_18.npy	Mahsoos kar rahay
+dataset/raw\Meem\Meem_36.npy	Meem
+dataset/raw\Meem\Meem_26.npy	Meem
+dataset/raw\Meem\Meem_1.npy	Meem
+dataset/raw\Meem\Meem_43.npy	Meem
+dataset/raw\Meem\Meem_14.npy	Meem
+dataset/raw\Meem\Meem_47.npy	Meem
+dataset/raw\Meem\Meem_30.npy	Meem
+dataset/raw\Meem\Meem_39.npy	Meem
+dataset/raw\Meem\Meem_32.npy	Meem
+dataset/raw\Meem\Meem_9.npy	Meem
+dataset/raw\Meem\Meem_34.npy	Meem
+dataset/raw\Meem\Meem_20.npy	Meem
+dataset/raw\Meem\Meem_40.npy	Meem
+dataset/raw\Meem\Meem_17.npy	Meem
+dataset/raw\Meem\Meem_4.npy	Meem
+dataset/raw\Meem\Meem_3.npy	Meem
+dataset/raw\Meem\Meem_37.npy	Meem
+dataset/raw\Meem\Meem_21.npy	Meem
+dataset/raw\Meem\Meem_29.npy	Meem
+dataset/raw\Meem\Meem_49.npy	Meem
+dataset/raw\Meem\Meem_16.npy	Meem
+dataset/raw\Meem\Meem_45.npy	Meem
+dataset/raw\Meem\Meem_7.npy	Meem
+dataset/raw\Meem\Meem_5.npy	Meem
+dataset/raw\Meem\Meem_22.npy	Meem
+dataset/raw\Meem\Meem_12.npy	Meem
+dataset/raw\Meem\Meem_13.npy	Meem
+dataset/raw\Meem\Meem_11.npy	Meem
+dataset/raw\Meem\Meem_44.npy	Meem
+dataset/raw\Meem\Meem_42.npy	Meem
+dataset/raw\Meem\Meem_10.npy	Meem
+dataset/raw\Meem\Meem_27.npy	Meem
+dataset/raw\Meem\Meem_38.npy	Meem
+dataset/raw\Meem\Meem_33.npy	Meem
+dataset/raw\Meem\Meem_31.npy	Meem
+dataset/raw\Meem\Meem_48.npy	Meem
+dataset/raw\Meem\Meem_8.npy	Meem
+dataset/raw\Meem\Meem_41.npy	Meem
+dataset/raw\Meem\Meem_25.npy	Meem
+dataset/raw\Meem\Meem_6.npy	Meem
+dataset/raw\Muhammad Ali Jinnah\Muhammad Ali Jinnah_7.npy	Muhammad Ali Jinnah
+dataset/raw\Muhammad Ali Jinnah\Muhammad Ali Jinnah_13.npy	Muhammad Ali Jinnah
+dataset/raw\Muhammad Ali Jinnah\Muhammad Ali Jinnah_34.npy	Muhammad Ali Jinnah
+dataset/raw\Muhammad Ali Jinnah\Muhammad Ali Jinnah_20.npy	Muhammad Ali Jinnah
+dataset/raw\Muhammad Ali Jinnah\Muhammad Ali Jinnah_12.npy	Muhammad Ali Jinnah
+dataset/raw\Muhammad Ali Jinnah\Muhammad Ali Jinnah_40.npy	Muhammad Ali Jinnah
+dataset/raw\Muhammad Ali Jinnah\Muhammad Ali Jinnah_2.npy	Muhammad Ali Jinnah
+dataset/raw\Muhammad Ali Jinnah\Muhammad Ali Jinnah_27.npy	Muhammad Ali Jinnah
+dataset/raw\Muhammad Ali Jinnah\Muhammad Ali Jinnah_11.npy	Muhammad Ali Jinnah
+dataset/raw\Muhammad Ali Jinnah\Muhammad Ali Jinnah_18.npy	Muhammad Ali Jinnah
+dataset/raw\Muhammad Ali Jinnah\Muhammad Ali Jinnah_41.npy	Muhammad Ali Jinnah
+dataset/raw\Muhammad Ali Jinnah\Muhammad Ali Jinnah_0.npy	Muhammad Ali Jinnah
+dataset/raw\Muhammad Ali Jinnah\Muhammad Ali Jinnah_37.npy	Muhammad Ali Jinnah
+dataset/raw\Muhammad Ali Jinnah\Muhammad Ali Jinnah_4.npy	Muhammad Ali Jinnah
+dataset/raw\Muhammad Ali Jinnah\Muhammad Ali Jinnah_1.npy	Muhammad Ali Jinnah
+dataset/raw\Muhammad Ali Jinnah\Muhammad Ali Jinnah_19.npy	Muhammad Ali Jinnah
+dataset/raw\Muhammad Ali Jinnah\Muhammad Ali Jinnah_46.npy	Muhammad Ali Jinnah
+dataset/raw\Muhammad Ali Jinnah\Muhammad Ali Jinnah_42.npy	Muhammad Ali Jinnah
+dataset/raw\Muhammad Ali Jinnah\Muhammad Ali Jinnah_23.npy	Muhammad Ali Jinnah
+dataset/raw\Muhammad Ali Jinnah\Muhammad Ali Jinnah_10.npy	Muhammad Ali Jinnah
+dataset/raw\Muhammad Ali Jinnah\Muhammad Ali Jinnah_6.npy	Muhammad Ali Jinnah
+dataset/raw\Muhammad Ali Jinnah\Muhammad Ali Jinnah_33.npy	Muhammad Ali Jinnah
+dataset/raw\Muhammad Ali Jinnah\Muhammad Ali Jinnah_8.npy	Muhammad Ali Jinnah
+dataset/raw\Muhammad Ali Jinnah\Muhammad Ali Jinnah_14.npy	Muhammad Ali Jinnah
+dataset/raw\Muhammad Ali Jinnah\Muhammad Ali Jinnah_28.npy	Muhammad Ali Jinnah
+dataset/raw\Muhammad Ali Jinnah\Muhammad Ali Jinnah_9.npy	Muhammad Ali Jinnah
+dataset/raw\Muhammad Ali Jinnah\Muhammad Ali Jinnah_39.npy	Muhammad Ali Jinnah
+dataset/raw\Muhammad Ali Jinnah\Muhammad Ali Jinnah_30.npy	Muhammad Ali Jinnah
+dataset/raw\Muhammad Ali Jinnah\Muhammad Ali Jinnah_22.npy	Muhammad Ali Jinnah
+dataset/raw\Muhammad Ali Jinnah\Muhammad Ali Jinnah_24.npy	Muhammad Ali Jinnah
+dataset/raw\Muhammad Ali Jinnah\Muhammad Ali Jinnah_29.npy	Muhammad Ali Jinnah
+dataset/raw\Muhammad Ali Jinnah\Muhammad Ali Jinnah_32.npy	Muhammad Ali Jinnah
+dataset/raw\Muhammad Ali Jinnah\Muhammad Ali Jinnah_47.npy	Muhammad Ali Jinnah
+dataset/raw\Muhammad Ali Jinnah\Muhammad Ali Jinnah_35.npy	Muhammad Ali Jinnah
+dataset/raw\Muhammad Ali Jinnah\Muhammad Ali Jinnah_17.npy	Muhammad Ali Jinnah
+dataset/raw\Muhammad Ali Jinnah\Muhammad Ali Jinnah_36.npy	Muhammad Ali Jinnah
+dataset/raw\Muhammad Ali Jinnah\Muhammad Ali Jinnah_16.npy	Muhammad Ali Jinnah
+dataset/raw\Muhammad Ali Jinnah\Muhammad Ali Jinnah_43.npy	Muhammad Ali Jinnah
+dataset/raw\Muhammad Ali Jinnah\Muhammad Ali Jinnah_21.npy	Muhammad Ali Jinnah
+dataset/raw\Muhammad Ali Jinnah\Muhammad Ali Jinnah_44.npy	Muhammad Ali Jinnah
+dataset/raw\Muhammad Bin Qasim\Muhammad Bin Qasim_23.npy	Muhammad Bin Qasim
+dataset/raw\Muhammad Bin Qasim\Muhammad Bin Qasim_21.npy	Muhammad Bin Qasim
+dataset/raw\Muhammad Bin Qasim\Muhammad Bin Qasim_28.npy	Muhammad Bin Qasim
+dataset/raw\Muhammad Bin Qasim\Muhammad Bin Qasim_49.npy	Muhammad Bin Qasim
+dataset/raw\Muhammad Bin Qasim\Muhammad Bin Qasim_36.npy	Muhammad Bin Qasim
+dataset/raw\Muhammad Bin Qasim\Muhammad Bin Qasim_15.npy	Muhammad Bin Qasim
+dataset/raw\Muhammad Bin Qasim\Muhammad Bin Qasim_8.npy	Muhammad Bin Qasim
+dataset/raw\Muhammad Bin Qasim\Muhammad Bin Qasim_17.npy	Muhammad Bin Qasim
+dataset/raw\Muhammad Bin Qasim\Muhammad Bin Qasim_6.npy	Muhammad Bin Qasim
+dataset/raw\Muhammad Bin Qasim\Muhammad Bin Qasim_29.npy	Muhammad Bin Qasim
+dataset/raw\Muhammad Bin Qasim\Muhammad Bin Qasim_18.npy	Muhammad Bin Qasim
+dataset/raw\Muhammad Bin Qasim\Muhammad Bin Qasim_2.npy	Muhammad Bin Qasim
+dataset/raw\Muhammad Bin Qasim\Muhammad Bin Qasim_39.npy	Muhammad Bin Qasim
+dataset/raw\Muhammad Bin Qasim\Muhammad Bin Qasim_4.npy	Muhammad Bin Qasim
+dataset/raw\Muhammad Bin Qasim\Muhammad Bin Qasim_12.npy	Muhammad Bin Qasim
+dataset/raw\Muhammad Bin Qasim\Muhammad Bin Qasim_7.npy	Muhammad Bin Qasim
+dataset/raw\Muhammad Bin Qasim\Muhammad Bin Qasim_22.npy	Muhammad Bin Qasim
+dataset/raw\Muhammad Bin Qasim\Muhammad Bin Qasim_27.npy	Muhammad Bin Qasim
+dataset/raw\Muhammad Bin Qasim\Muhammad Bin Qasim_33.npy	Muhammad Bin Qasim
+dataset/raw\Muhammad Bin Qasim\Muhammad Bin Qasim_24.npy	Muhammad Bin Qasim
+dataset/raw\Muhammad Bin Qasim\Muhammad Bin Qasim_30.npy	Muhammad Bin Qasim
+dataset/raw\Muhammad Bin Qasim\Muhammad Bin Qasim_19.npy	Muhammad Bin Qasim
+dataset/raw\Muhammad Bin Qasim\Muhammad Bin Qasim_20.npy	Muhammad Bin Qasim
+dataset/raw\Muhammad Bin Qasim\Muhammad Bin Qasim_45.npy	Muhammad Bin Qasim
+dataset/raw\Muhammad Bin Qasim\Muhammad Bin Qasim_10.npy	Muhammad Bin Qasim
+dataset/raw\Muhammad Bin Qasim\Muhammad Bin Qasim_25.npy	Muhammad Bin Qasim
+dataset/raw\Muhammad Bin Qasim\Muhammad Bin Qasim_14.npy	Muhammad Bin Qasim
+dataset/raw\Muhammad Bin Qasim\Muhammad Bin Qasim_3.npy	Muhammad Bin Qasim
+dataset/raw\Muhammad Bin Qasim\Muhammad Bin Qasim_0.npy	Muhammad Bin Qasim
+dataset/raw\Muhammad Bin Qasim\Muhammad Bin Qasim_44.npy	Muhammad Bin Qasim
+dataset/raw\Muhammad Bin Qasim\Muhammad Bin Qasim_46.npy	Muhammad Bin Qasim
+dataset/raw\Muhammad Bin Qasim\Muhammad Bin Qasim_31.npy	Muhammad Bin Qasim
+dataset/raw\Muhammad Bin Qasim\Muhammad Bin Qasim_1.npy	Muhammad Bin Qasim
+dataset/raw\Muhammad Bin Qasim\Muhammad Bin Qasim_26.npy	Muhammad Bin Qasim
+dataset/raw\Muhammad Bin Qasim\Muhammad Bin Qasim_43.npy	Muhammad Bin Qasim
+dataset/raw\Muhammad Bin Qasim\Muhammad Bin Qasim_40.npy	Muhammad Bin Qasim
+dataset/raw\Muhammad Bin Qasim\Muhammad Bin Qasim_48.npy	Muhammad Bin Qasim
+dataset/raw\Muhammad Bin Qasim\Muhammad Bin Qasim_41.npy	Muhammad Bin Qasim
+dataset/raw\Muhammad Bin Qasim\Muhammad Bin Qasim_47.npy	Muhammad Bin Qasim
+dataset/raw\Muhammad Bin Qasim\Muhammad Bin Qasim_32.npy	Muhammad Bin Qasim
+dataset/raw\Mujhay\Mujhay_13.npy	Mujhay
+dataset/raw\Mujhay\Mujhay_37.npy	Mujhay
+dataset/raw\Mujhay\Mujhay_42.npy	Mujhay
+dataset/raw\Mujhay\Mujhay_34.npy	Mujhay
+dataset/raw\Mujhay\Mujhay_36.npy	Mujhay
+dataset/raw\Mujhay\Mujhay_23.npy	Mujhay
+dataset/raw\Mujhay\Mujhay_40.npy	Mujhay
+dataset/raw\Mujhay\Mujhay_18.npy	Mujhay
+dataset/raw\Mujhay\Mujhay_49.npy	Mujhay
+dataset/raw\Mujhay\Mujhay_2.npy	Mujhay
+dataset/raw\Mujhay\Mujhay_27.npy	Mujhay
+dataset/raw\Mujhay\Mujhay_24.npy	Mujhay
+dataset/raw\Mujhay\Mujhay_25.npy	Mujhay
+dataset/raw\Mujhay\Mujhay_17.npy	Mujhay
+dataset/raw\Mujhay\Mujhay_8.npy	Mujhay
+dataset/raw\Mujhay\Mujhay_10.npy	Mujhay
+dataset/raw\Mujhay\Mujhay_32.npy	Mujhay
+dataset/raw\Mujhay\Mujhay_7.npy	Mujhay
+dataset/raw\Mujhay\Mujhay_45.npy	Mujhay
+dataset/raw\Mujhay\Mujhay_43.npy	Mujhay
+dataset/raw\Mujhay\Mujhay_20.npy	Mujhay
+dataset/raw\Mujhay\Mujhay_28.npy	Mujhay
+dataset/raw\Mujhay\Mujhay_44.npy	Mujhay
+dataset/raw\Mujhay\Mujhay_11.npy	Mujhay
+dataset/raw\Mujhay\Mujhay_48.npy	Mujhay
+dataset/raw\Mujhay\Mujhay_3.npy	Mujhay
+dataset/raw\Mujhay\Mujhay_14.npy	Mujhay
+dataset/raw\Mujhay\Mujhay_47.npy	Mujhay
+dataset/raw\Mujhay\Mujhay_12.npy	Mujhay
+dataset/raw\Mujhay\Mujhay_6.npy	Mujhay
+dataset/raw\Mujhay\Mujhay_38.npy	Mujhay
+dataset/raw\Mujhay\Mujhay_22.npy	Mujhay
+dataset/raw\Mujhay\Mujhay_9.npy	Mujhay
+dataset/raw\Mujhay\Mujhay_30.npy	Mujhay
+dataset/raw\Mujhay\Mujhay_41.npy	Mujhay
+dataset/raw\Mujhay\Mujhay_33.npy	Mujhay
+dataset/raw\Mujhay\Mujhay_5.npy	Mujhay
+dataset/raw\Mujhay\Mujhay_35.npy	Mujhay
+dataset/raw\Mujhay\Mujhay_26.npy	Mujhay
+dataset/raw\Mujhay\Mujhay_1.npy	Mujhay
+dataset/raw\Nahi hai\Nahi hai_33.npy	Nahi hai
+dataset/raw\Nahi hai\Nahi hai_4.npy	Nahi hai
+dataset/raw\Nahi hai\Nahi hai_0.npy	Nahi hai
+dataset/raw\Nahi hai\Nahi hai_30.npy	Nahi hai
+dataset/raw\Nahi hai\Nahi hai_31.npy	Nahi hai
+dataset/raw\Nahi hai\Nahi hai_13.npy	Nahi hai
+dataset/raw\Nahi hai\Nahi hai_48.npy	Nahi hai
+dataset/raw\Nahi hai\Nahi hai_3.npy	Nahi hai
+dataset/raw\Nahi hai\Nahi hai_40.npy	Nahi hai
+dataset/raw\Nahi hai\Nahi hai_9.npy	Nahi hai
+dataset/raw\Nahi hai\Nahi hai_15.npy	Nahi hai
+dataset/raw\Nahi hai\Nahi hai_16.npy	Nahi hai
+dataset/raw\Nahi hai\Nahi hai_29.npy	Nahi hai
+dataset/raw\Nahi hai\Nahi hai_10.npy	Nahi hai
+dataset/raw\Nahi hai\Nahi hai_14.npy	Nahi hai
+dataset/raw\Nahi hai\Nahi hai_47.npy	Nahi hai
+dataset/raw\Nahi hai\Nahi hai_12.npy	Nahi hai
+dataset/raw\Nahi hai\Nahi hai_8.npy	Nahi hai
+dataset/raw\Nahi hai\Nahi hai_34.npy	Nahi hai
+dataset/raw\Nahi hai\Nahi hai_18.npy	Nahi hai
+dataset/raw\Nahi hai\Nahi hai_23.npy	Nahi hai
+dataset/raw\Nahi hai\Nahi hai_2.npy	Nahi hai
+dataset/raw\Nahi hai\Nahi hai_35.npy	Nahi hai
+dataset/raw\Nahi hai\Nahi hai_36.npy	Nahi hai
+dataset/raw\Nahi hai\Nahi hai_37.npy	Nahi hai
+dataset/raw\Nahi hai\Nahi hai_1.npy	Nahi hai
+dataset/raw\Nahi hai\Nahi hai_45.npy	Nahi hai
+dataset/raw\Nahi hai\Nahi hai_42.npy	Nahi hai
+dataset/raw\Nahi hai\Nahi hai_20.npy	Nahi hai
+dataset/raw\Nahi hai\Nahi hai_28.npy	Nahi hai
+dataset/raw\Nahi hai\Nahi hai_46.npy	Nahi hai
+dataset/raw\Nahi hai\Nahi hai_19.npy	Nahi hai
+dataset/raw\Nahi hai\Nahi hai_11.npy	Nahi hai
+dataset/raw\Nahi hai\Nahi hai_24.npy	Nahi hai
+dataset/raw\Nahi hai\Nahi hai_44.npy	Nahi hai
+dataset/raw\Nahi hai\Nahi hai_32.npy	Nahi hai
+dataset/raw\Nahi hai\Nahi hai_7.npy	Nahi hai
+dataset/raw\Nahi hai\Nahi hai_39.npy	Nahi hai
+dataset/raw\Nahi hai\Nahi hai_17.npy	Nahi hai
+dataset/raw\Nahi hai\Nahi hai_26.npy	Nahi hai
+dataset/raw\Noon\Noon_48.npy	Noon
+dataset/raw\Noon\Noon_6.npy	Noon
+dataset/raw\Noon\Noon_36.npy	Noon
+dataset/raw\Noon\Noon_42.npy	Noon
+dataset/raw\Noon\Noon_35.npy	Noon
+dataset/raw\Noon\Noon_12.npy	Noon
+dataset/raw\Noon\Noon_8.npy	Noon
+dataset/raw\Noon\Noon_27.npy	Noon
+dataset/raw\Noon\Noon_29.npy	Noon
+dataset/raw\Noon\Noon_47.npy	Noon
+dataset/raw\Noon\Noon_15.npy	Noon
+dataset/raw\Noon\Noon_1.npy	Noon
+dataset/raw\Noon\Noon_19.npy	Noon
+dataset/raw\Noon\Noon_41.npy	Noon
+dataset/raw\Noon\Noon_21.npy	Noon
+dataset/raw\Noon\Noon_26.npy	Noon
+dataset/raw\Noon\Noon_0.npy	Noon
+dataset/raw\Noon\Noon_17.npy	Noon
+dataset/raw\Noon\Noon_18.npy	Noon
+dataset/raw\Noon\Noon_9.npy	Noon
+dataset/raw\Noon\Noon_49.npy	Noon
+dataset/raw\Noon\Noon_44.npy	Noon
+dataset/raw\Noon\Noon_7.npy	Noon
+dataset/raw\Noon\Noon_46.npy	Noon
+dataset/raw\Noon\Noon_43.npy	Noon
+dataset/raw\Noon\Noon_25.npy	Noon
+dataset/raw\Noon\Noon_38.npy	Noon
+dataset/raw\Noon\Noon_31.npy	Noon
+dataset/raw\Noon\Noon_14.npy	Noon
+dataset/raw\Noon\Noon_37.npy	Noon
+dataset/raw\Noon\Noon_33.npy	Noon
+dataset/raw\Noon\Noon_10.npy	Noon
+dataset/raw\Noon\Noon_5.npy	Noon
+dataset/raw\Noon\Noon_24.npy	Noon
+dataset/raw\Noon\Noon_11.npy	Noon
+dataset/raw\Noon\Noon_2.npy	Noon
+dataset/raw\Noon\Noon_4.npy	Noon
+dataset/raw\Noon\Noon_45.npy	Noon
+dataset/raw\Noon\Noon_3.npy	Noon
+dataset/raw\Noon\Noon_34.npy	Noon
+dataset/raw\Pay\Pay_44.npy	Pay
+dataset/raw\Pay\Pay_11.npy	Pay
+dataset/raw\Pay\Pay_28.npy	Pay
+dataset/raw\Pay\Pay_48.npy	Pay
+dataset/raw\Pay\Pay_1.npy	Pay
+dataset/raw\Pay\Pay_8.npy	Pay
+dataset/raw\Pay\Pay_13.npy	Pay
+dataset/raw\Pay\Pay_39.npy	Pay
+dataset/raw\Pay\Pay_31.npy	Pay
+dataset/raw\Pay\Pay_30.npy	Pay
+dataset/raw\Pay\Pay_5.npy	Pay
+dataset/raw\Pay\Pay_19.npy	Pay
+dataset/raw\Pay\Pay_34.npy	Pay
+dataset/raw\Pay\Pay_9.npy	Pay
+dataset/raw\Pay\Pay_7.npy	Pay
+dataset/raw\Pay\Pay_40.npy	Pay
+dataset/raw\Pay\Pay_22.npy	Pay
+dataset/raw\Pay\Pay_6.npy	Pay
+dataset/raw\Pay\Pay_2.npy	Pay
+dataset/raw\Pay\Pay_15.npy	Pay
+dataset/raw\Pay\Pay_18.npy	Pay
+dataset/raw\Pay\Pay_45.npy	Pay
+dataset/raw\Pay\Pay_12.npy	Pay
+dataset/raw\Pay\Pay_47.npy	Pay
+dataset/raw\Pay\Pay_42.npy	Pay
+dataset/raw\Pay\Pay_41.npy	Pay
+dataset/raw\Pay\Pay_33.npy	Pay
+dataset/raw\Pay\Pay_25.npy	Pay
+dataset/raw\Pay\Pay_24.npy	Pay
+dataset/raw\Pay\Pay_16.npy	Pay
+dataset/raw\Pay\Pay_0.npy	Pay
+dataset/raw\Pay\Pay_17.npy	Pay
+dataset/raw\Pay\Pay_21.npy	Pay
+dataset/raw\Pay\Pay_10.npy	Pay
+dataset/raw\Pay\Pay_32.npy	Pay
+dataset/raw\Pay\Pay_43.npy	Pay
+dataset/raw\Pay\Pay_49.npy	Pay
+dataset/raw\Pay\Pay_20.npy	Pay
+dataset/raw\Pay\Pay_27.npy	Pay
+dataset/raw\Pay\Pay_36.npy	Pay
+dataset/raw\Peach\Peach_13.npy	Peach
+dataset/raw\Peach\Peach_7.npy	Peach
+dataset/raw\Peach\Peach_49.npy	Peach
+dataset/raw\Peach\Peach_18.npy	Peach
+dataset/raw\Peach\Peach_40.npy	Peach
+dataset/raw\Peach\Peach_37.npy	Peach
+dataset/raw\Peach\Peach_15.npy	Peach
+dataset/raw\Peach\Peach_14.npy	Peach
+dataset/raw\Peach\Peach_25.npy	Peach
+dataset/raw\Peach\Peach_29.npy	Peach
+dataset/raw\Peach\Peach_2.npy	Peach
+dataset/raw\Peach\Peach_42.npy	Peach
+dataset/raw\Peach\Peach_41.npy	Peach
+dataset/raw\Peach\Peach_36.npy	Peach
+dataset/raw\Peach\Peach_43.npy	Peach
+dataset/raw\Peach\Peach_23.npy	Peach
+dataset/raw\Peach\Peach_33.npy	Peach
+dataset/raw\Peach\Peach_5.npy	Peach
+dataset/raw\Peach\Peach_31.npy	Peach
+dataset/raw\Peach\Peach_24.npy	Peach
+dataset/raw\Peach\Peach_3.npy	Peach
+dataset/raw\Peach\Peach_8.npy	Peach
+dataset/raw\Peach\Peach_30.npy	Peach
+dataset/raw\Peach\Peach_44.npy	Peach
+dataset/raw\Peach\Peach_22.npy	Peach
+dataset/raw\Peach\Peach_34.npy	Peach
+dataset/raw\Peach\Peach_28.npy	Peach
+dataset/raw\Peach\Peach_27.npy	Peach
+dataset/raw\Peach\Peach_26.npy	Peach
+dataset/raw\Peach\Peach_1.npy	Peach
+dataset/raw\Peach\Peach_9.npy	Peach
+dataset/raw\Peach\Peach_35.npy	Peach
+dataset/raw\Peach\Peach_38.npy	Peach
+dataset/raw\Peach\Peach_20.npy	Peach
+dataset/raw\Peach\Peach_45.npy	Peach
+dataset/raw\Peach\Peach_17.npy	Peach
+dataset/raw\Peach\Peach_48.npy	Peach
+dataset/raw\Peach\Peach_21.npy	Peach
+dataset/raw\Peach\Peach_16.npy	Peach
+dataset/raw\Peach\Peach_32.npy	Peach
+dataset/raw\Penguin\Penguin_45.npy	Penguin
+dataset/raw\Penguin\Penguin_14.npy	Penguin
+dataset/raw\Penguin\Penguin_29.npy	Penguin
+dataset/raw\Penguin\Penguin_8.npy	Penguin
+dataset/raw\Penguin\Penguin_12.npy	Penguin
+dataset/raw\Penguin\Penguin_48.npy	Penguin
+dataset/raw\Penguin\Penguin_7.npy	Penguin
+dataset/raw\Penguin\Penguin_28.npy	Penguin
+dataset/raw\Penguin\Penguin_6.npy	Penguin
+dataset/raw\Penguin\Penguin_12(1).npy	Penguin
+dataset/raw\Penguin\Penguin_40.npy	Penguin
+dataset/raw\Penguin\Penguin_3.npy	Penguin
+dataset/raw\Penguin\Penguin_23.npy	Penguin
+dataset/raw\Penguin\Penguin_43.npy	Penguin
+dataset/raw\Penguin\Penguin_10(1).npy	Penguin
+dataset/raw\Penguin\Penguin_36.npy	Penguin
+dataset/raw\Penguin\Penguin_11(1).npy	Penguin
+dataset/raw\Penguin\Penguin_11.npy	Penguin
+dataset/raw\Penguin\Penguin_0.npy	Penguin
+dataset/raw\Penguin\Penguin_5.npy	Penguin
+dataset/raw\Penguin\Penguin_32.npy	Penguin
+dataset/raw\Penguin\Penguin_20.npy	Penguin
+dataset/raw\Penguin\Penguin_13.npy	Penguin
+dataset/raw\Penguin\Penguin_33.npy	Penguin
+dataset/raw\Penguin\Penguin_16.npy	Penguin
+dataset/raw\Penguin\Penguin_41.npy	Penguin
+dataset/raw\Penguin\Penguin_38.npy	Penguin
+dataset/raw\Penguin\Penguin_42.npy	Penguin
+dataset/raw\Penguin\Penguin_49.npy	Penguin
+dataset/raw\Penguin\Penguin_0(1).npy	Penguin
+dataset/raw\Penguin\Penguin_22.npy	Penguin
+dataset/raw\Penguin\Penguin_1.npy	Penguin
+dataset/raw\Penguin\Penguin_31.npy	Penguin
+dataset/raw\Penguin\Penguin_35.npy	Penguin
+dataset/raw\Penguin\Penguin_26.npy	Penguin
+dataset/raw\Penguin\Penguin_44.npy	Penguin
+dataset/raw\Penguin\Penguin_39.npy	Penguin
+dataset/raw\Penguin\Penguin_1(1).npy	Penguin
+dataset/raw\Penguin\Penguin_46.npy	Penguin
+dataset/raw\Penguin\Penguin_21.npy	Penguin
+dataset/raw\Penguin\Penguin_17.npy	Penguin
+dataset/raw\Penguin\Penguin_9.npy	Penguin
+dataset/raw\Penguin\Penguin_37.npy	Penguin
+dataset/raw\Penguin\Penguin_30.npy	Penguin
+dataset/raw\Pigeon\Pigeon_36.npy	Pigeon
+dataset/raw\Pigeon\Pigeon_34.npy	Pigeon
+dataset/raw\Pigeon\Pigeon_9.npy	Pigeon
+dataset/raw\Pigeon\Pigeon_35.npy	Pigeon
+dataset/raw\Pigeon\Pigeon_6(1).npy	Pigeon
+dataset/raw\Pigeon\Pigeon_48.npy	Pigeon
+dataset/raw\Pigeon\Pigeon_8(1).npy	Pigeon
+dataset/raw\Pigeon\Pigeon_41.npy	Pigeon
+dataset/raw\Pigeon\Pigeon_23.npy	Pigeon
+dataset/raw\Pigeon\Pigeon_8.npy	Pigeon
+dataset/raw\Pigeon\Pigeon_32.npy	Pigeon
+dataset/raw\Pigeon\Pigeon_1.npy	Pigeon
+dataset/raw\Pigeon\Pigeon_3.npy	Pigeon
+dataset/raw\Pigeon\Pigeon_42.npy	Pigeon
+dataset/raw\Pigeon\Pigeon_43.npy	Pigeon
+dataset/raw\Pigeon\Pigeon_17.npy	Pigeon
+dataset/raw\Pigeon\Pigeon_10.npy	Pigeon
+dataset/raw\Pigeon\Pigeon_39.npy	Pigeon
+dataset/raw\Pigeon\Pigeon_25.npy	Pigeon
+dataset/raw\Pigeon\Pigeon_45.npy	Pigeon
+dataset/raw\Pigeon\Pigeon_20.npy	Pigeon
+dataset/raw\Pigeon\Pigeon_2.npy	Pigeon
+dataset/raw\Pigeon\Pigeon_24.npy	Pigeon
+dataset/raw\Pigeon\Pigeon_19.npy	Pigeon
+dataset/raw\Pigeon\Pigeon_15.npy	Pigeon
+dataset/raw\Pigeon\Pigeon_5(1).npy	Pigeon
+dataset/raw\Pigeon\Pigeon_40.npy	Pigeon
+dataset/raw\Pigeon\Pigeon_44.npy	Pigeon
+dataset/raw\Pigeon\Pigeon_46.npy	Pigeon
+dataset/raw\Pigeon\Pigeon_37.npy	Pigeon
+dataset/raw\Pigeon\Pigeon_0.npy	Pigeon
+dataset/raw\Pigeon\Pigeon_27.npy	Pigeon
+dataset/raw\Pigeon\Pigeon_7.npy	Pigeon
+dataset/raw\Pigeon\Pigeon_47.npy	Pigeon
+dataset/raw\Pigeon\Pigeon_7(1).npy	Pigeon
+dataset/raw\Pigeon\Pigeon_21.npy	Pigeon
+dataset/raw\Pigeon\Pigeon_33.npy	Pigeon
+dataset/raw\Pigeon\Pigeon_14.npy	Pigeon
+dataset/raw\Pigeon\Pigeon_11.npy	Pigeon
+dataset/raw\Pigeon\Pigeon_29.npy	Pigeon
+dataset/raw\Pigeon\Pigeon_38.npy	Pigeon
+dataset/raw\Pigeon\Pigeon_13.npy	Pigeon
+dataset/raw\Pigeon\Pigeon_16.npy	Pigeon
+dataset/raw\Pigeon\Pigeon_49(1).npy	Pigeon
+dataset/raw\Pigeon\Pigeon_28.npy	Pigeon
+dataset/raw\Pigeon\Pigeon_4.npy	Pigeon
+dataset/raw\Pigeon\Pigeon_47(1).npy	Pigeon
+dataset/raw\Pineapple\Pineapple_22.npy	Pineapple
+dataset/raw\Pineapple\Pineapple_35.npy	Pineapple
+dataset/raw\Pineapple\Pineapple_46.npy	Pineapple
+dataset/raw\Pineapple\Pineapple_11.npy	Pineapple
+dataset/raw\Pineapple\Pineapple_27.npy	Pineapple
+dataset/raw\Pineapple\Pineapple_29.npy	Pineapple
+dataset/raw\Pineapple\Pineapple_37.npy	Pineapple
+dataset/raw\Pineapple\Pineapple_23.npy	Pineapple
+dataset/raw\Pineapple\Pineapple_28.npy	Pineapple
+dataset/raw\Pineapple\Pineapple_21.npy	Pineapple
+dataset/raw\Pineapple\Pineapple_12.npy	Pineapple
+dataset/raw\Pineapple\Pineapple_31.npy	Pineapple
+dataset/raw\Pineapple\Pineapple_25.npy	Pineapple
+dataset/raw\Pineapple\Pineapple_4.npy	Pineapple
+dataset/raw\Pineapple\Pineapple_30.npy	Pineapple
+dataset/raw\Pineapple\Pineapple_45.npy	Pineapple
+dataset/raw\Pineapple\Pineapple_15.npy	Pineapple
+dataset/raw\Pineapple\Pineapple_42.npy	Pineapple
+dataset/raw\Pineapple\Pineapple_43.npy	Pineapple
+dataset/raw\Pineapple\Pineapple_49.npy	Pineapple
+dataset/raw\Pineapple\Pineapple_20.npy	Pineapple
+dataset/raw\Pineapple\Pineapple_17.npy	Pineapple
+dataset/raw\Pineapple\Pineapple_7.npy	Pineapple
+dataset/raw\Pineapple\Pineapple_2.npy	Pineapple
+dataset/raw\Pineapple\Pineapple_18.npy	Pineapple
+dataset/raw\Pineapple\Pineapple_39.npy	Pineapple
+dataset/raw\Pineapple\Pineapple_6.npy	Pineapple
+dataset/raw\Pineapple\Pineapple_36.npy	Pineapple
+dataset/raw\Pineapple\Pineapple_48.npy	Pineapple
+dataset/raw\Pineapple\Pineapple_44.npy	Pineapple
+dataset/raw\Pineapple\Pineapple_10.npy	Pineapple
+dataset/raw\Pineapple\Pineapple_1.npy	Pineapple
+dataset/raw\Pineapple\Pineapple_47.npy	Pineapple
+dataset/raw\Pineapple\Pineapple_32.npy	Pineapple
+dataset/raw\Pineapple\Pineapple_38.npy	Pineapple
+dataset/raw\Pineapple\Pineapple_41.npy	Pineapple
+dataset/raw\Pineapple\Pineapple_40.npy	Pineapple
+dataset/raw\Pineapple\Pineapple_5.npy	Pineapple
+dataset/raw\Pineapple\Pineapple_33.npy	Pineapple
+dataset/raw\Pineapple\Pineapple_19.npy	Pineapple
+dataset/raw\Qaaf\Qaaf_1.npy	Qaaf
+dataset/raw\Qaaf\Qaaf_48.npy	Qaaf
+dataset/raw\Qaaf\Qaaf_4.npy	Qaaf
+dataset/raw\Qaaf\Qaaf_38.npy	Qaaf
+dataset/raw\Qaaf\Qaaf_46.npy	Qaaf
+dataset/raw\Qaaf\Qaaf_10.npy	Qaaf
+dataset/raw\Qaaf\Qaaf_41.npy	Qaaf
+dataset/raw\Qaaf\Qaaf_8.npy	Qaaf
+dataset/raw\Qaaf\Qaaf_11.npy	Qaaf
+dataset/raw\Qaaf\Qaaf_15.npy	Qaaf
+dataset/raw\Qaaf\Qaaf_5.npy	Qaaf
+dataset/raw\Qaaf\Qaaf_19.npy	Qaaf
+dataset/raw\Qaaf\Qaaf_29.npy	Qaaf
+dataset/raw\Qaaf\Qaaf_24.npy	Qaaf
+dataset/raw\Qaaf\Qaaf_25.npy	Qaaf
+dataset/raw\Qaaf\Qaaf_13.npy	Qaaf
+dataset/raw\Qaaf\Qaaf_47.npy	Qaaf
+dataset/raw\Qaaf\Qaaf_49.npy	Qaaf
+dataset/raw\Qaaf\Qaaf_42.npy	Qaaf
+dataset/raw\Qaaf\Qaaf_6.npy	Qaaf
+dataset/raw\Qaaf\Qaaf_32.npy	Qaaf
+dataset/raw\Qaaf\Qaaf_17.npy	Qaaf
+dataset/raw\Qaaf\Qaaf_7.npy	Qaaf
+dataset/raw\Qaaf\Qaaf_40.npy	Qaaf
+dataset/raw\Qaaf\Qaaf_27.npy	Qaaf
+dataset/raw\Qaaf\Qaaf_20.npy	Qaaf
+dataset/raw\Qaaf\Qaaf_34.npy	Qaaf
+dataset/raw\Qaaf\Qaaf_21.npy	Qaaf
+dataset/raw\Qaaf\Qaaf_18.npy	Qaaf
+dataset/raw\Qaaf\Qaaf_33.npy	Qaaf
+dataset/raw\Qaaf\Qaaf_39.npy	Qaaf
+dataset/raw\Qaaf\Qaaf_30.npy	Qaaf
+dataset/raw\Qaaf\Qaaf_28.npy	Qaaf
+dataset/raw\Qaaf\Qaaf_31.npy	Qaaf
+dataset/raw\Qaaf\Qaaf_0.npy	Qaaf
+dataset/raw\Qaaf\Qaaf_9.npy	Qaaf
+dataset/raw\Qaaf\Qaaf_16.npy	Qaaf
+dataset/raw\Qaaf\Qaaf_14.npy	Qaaf
+dataset/raw\Qaaf\Qaaf_35.npy	Qaaf
+dataset/raw\Qaaf\Qaaf_2.npy	Qaaf
+dataset/raw\Ray\Ray_30.npy	Ray
+dataset/raw\Ray\Ray_43.npy	Ray
+dataset/raw\Ray\Ray_44.npy	Ray
+dataset/raw\Ray\Ray_41.npy	Ray
+dataset/raw\Ray\Ray_27.npy	Ray
+dataset/raw\Ray\Ray_38.npy	Ray
+dataset/raw\Ray\Ray_15.npy	Ray
+dataset/raw\Ray\Ray_14.npy	Ray
+dataset/raw\Ray\Ray_0.npy	Ray
+dataset/raw\Ray\Ray_28.npy	Ray
+dataset/raw\Ray\Ray_13.npy	Ray
+dataset/raw\Ray\Ray_9.npy	Ray
+dataset/raw\Ray\Ray_18.npy	Ray
+dataset/raw\Ray\Ray_36.npy	Ray
+dataset/raw\Ray\Ray_3.npy	Ray
+dataset/raw\Ray\Ray_11.npy	Ray
+dataset/raw\Ray\Ray_46.npy	Ray
+dataset/raw\Ray\Ray_7.npy	Ray
+dataset/raw\Ray\Ray_49.npy	Ray
+dataset/raw\Ray\Ray_29.npy	Ray
+dataset/raw\Ray\Ray_47.npy	Ray
+dataset/raw\Ray\Ray_39.npy	Ray
+dataset/raw\Ray\Ray_24.npy	Ray
+dataset/raw\Ray\Ray_6.npy	Ray
+dataset/raw\Ray\Ray_45.npy	Ray
+dataset/raw\Ray\Ray_8.npy	Ray
+dataset/raw\Ray\Ray_5.npy	Ray
+dataset/raw\Ray\Ray_21.npy	Ray
+dataset/raw\Ray\Ray_10.npy	Ray
+dataset/raw\Ray\Ray_2.npy	Ray
+dataset/raw\Ray\Ray_31.npy	Ray
+dataset/raw\Ray\Ray_33.npy	Ray
+dataset/raw\Ray\Ray_17.npy	Ray
+dataset/raw\Ray\Ray_23.npy	Ray
+dataset/raw\Ray\Ray_22.npy	Ray
+dataset/raw\Ray\Ray_26.npy	Ray
+dataset/raw\Ray\Ray_16.npy	Ray
+dataset/raw\Ray\Ray_37.npy	Ray
+dataset/raw\Ray\Ray_32.npy	Ray
+dataset/raw\Ray\Ray_12.npy	Ray
+dataset/raw\Samjhna\Samjhna_46.npy	Samjhna
+dataset/raw\Samjhna\Samjhna_33.npy	Samjhna
+dataset/raw\Samjhna\Samjhna_16.npy	Samjhna
+dataset/raw\Samjhna\Samjhna_28.npy	Samjhna
+dataset/raw\Samjhna\Samjhna_26.npy	Samjhna
+dataset/raw\Samjhna\Samjhna_4.npy	Samjhna
+dataset/raw\Samjhna\Samjhna_0.npy	Samjhna
+dataset/raw\Samjhna\Samjhna_30.npy	Samjhna
+dataset/raw\Samjhna\Samjhna_27.npy	Samjhna
+dataset/raw\Samjhna\Samjhna_13.npy	Samjhna
+dataset/raw\Samjhna\Samjhna_43.npy	Samjhna
+dataset/raw\Samjhna\Samjhna_2.npy	Samjhna
+dataset/raw\Samjhna\Samjhna_25.npy	Samjhna
+dataset/raw\Samjhna\Samjhna_15.npy	Samjhna
+dataset/raw\Samjhna\Samjhna_6.npy	Samjhna
+dataset/raw\Samjhna\Samjhna_24.npy	Samjhna
+dataset/raw\Samjhna\Samjhna_44.npy	Samjhna
+dataset/raw\Samjhna\Samjhna_22.npy	Samjhna
+dataset/raw\Samjhna\Samjhna_9.npy	Samjhna
+dataset/raw\Samjhna\Samjhna_37.npy	Samjhna
+dataset/raw\Samjhna\Samjhna_47.npy	Samjhna
+dataset/raw\Samjhna\Samjhna_18.npy	Samjhna
+dataset/raw\Samjhna\Samjhna_48.npy	Samjhna
+dataset/raw\Samjhna\Samjhna_19.npy	Samjhna
+dataset/raw\Samjhna\Samjhna_12.npy	Samjhna
+dataset/raw\Samjhna\Samjhna_45.npy	Samjhna
+dataset/raw\Samjhna\Samjhna_32.npy	Samjhna
+dataset/raw\Samjhna\Samjhna_11.npy	Samjhna
+dataset/raw\Samjhna\Samjhna_10.npy	Samjhna
+dataset/raw\Samjhna\Samjhna_20.npy	Samjhna
+dataset/raw\Samjhna\Samjhna_5.npy	Samjhna
+dataset/raw\Samjhna\Samjhna_14.npy	Samjhna
+dataset/raw\Samjhna\Samjhna_36.npy	Samjhna
+dataset/raw\Samjhna\Samjhna_1.npy	Samjhna
+dataset/raw\Samjhna\Samjhna_29.npy	Samjhna
+dataset/raw\Samjhna\Samjhna_17.npy	Samjhna
+dataset/raw\Samjhna\Samjhna_7.npy	Samjhna
+dataset/raw\Samjhna\Samjhna_49.npy	Samjhna
+dataset/raw\Samjhna\Samjhna_35.npy	Samjhna
+dataset/raw\Samjhna\Samjhna_31.npy	Samjhna
+dataset/raw\Say\Say_6.npy	Say
+dataset/raw\Say\Say_29.npy	Say
+dataset/raw\Say\Say_38.npy	Say
+dataset/raw\Say\Say_17.npy	Say
+dataset/raw\Say\Say_27.npy	Say
+dataset/raw\Say\Say_30.npy	Say
+dataset/raw\Say\Say_47.npy	Say
+dataset/raw\Say\Say_32.npy	Say
+dataset/raw\Say\Say_43.npy	Say
+dataset/raw\Say\Say_36.npy	Say
+dataset/raw\Say\Say_12.npy	Say
+dataset/raw\Say\Say_37.npy	Say
+dataset/raw\Say\Say_15.npy	Say
+dataset/raw\Say\Say_24.npy	Say
+dataset/raw\Say\Say_23.npy	Say
+dataset/raw\Say\Say_4.npy	Say
+dataset/raw\Say\Say_13.npy	Say
+dataset/raw\Say\Say_11.npy	Say
+dataset/raw\Say\Say_10.npy	Say
+dataset/raw\Say\Say_16.npy	Say
+dataset/raw\Say\Say_46.npy	Say
+dataset/raw\Say\Say_5.npy	Say
+dataset/raw\Say\Say_0.npy	Say
+dataset/raw\Say\Say_2.npy	Say
+dataset/raw\Say\Say_20.npy	Say
+dataset/raw\Say\Say_25.npy	Say
+dataset/raw\Say\Say_42.npy	Say
+dataset/raw\Say\Say_14.npy	Say
+dataset/raw\Say\Say_34.npy	Say
+dataset/raw\Say\Say_26.npy	Say
+dataset/raw\Say\Say_3.npy	Say
+dataset/raw\Say\Say_1.npy	Say
+dataset/raw\Say\Say_41.npy	Say
+dataset/raw\Say\Say_44.npy	Say
+dataset/raw\Say\Say_45.npy	Say
+dataset/raw\Say\Say_49.npy	Say
+dataset/raw\Say\Say_31.npy	Say
+dataset/raw\Say\Say_21.npy	Say
+dataset/raw\Say\Say_35.npy	Say
+dataset/raw\Say\Say_33.npy	Say
+dataset/raw\Seekh raha hun\Seekh raha hun_14.npy	Seekh raha hun
+dataset/raw\Seekh raha hun\Seekh raha hun_30.npy	Seekh raha hun
+dataset/raw\Seekh raha hun\Seekh raha hun_18.npy	Seekh raha hun
+dataset/raw\Seekh raha hun\Seekh raha hun_21.npy	Seekh raha hun
+dataset/raw\Seekh raha hun\Seekh raha hun_1.npy	Seekh raha hun
+dataset/raw\Seekh raha hun\Seekh raha hun_11.npy	Seekh raha hun
+dataset/raw\Seekh raha hun\Seekh raha hun_47.npy	Seekh raha hun
+dataset/raw\Seekh raha hun\Seekh raha hun_39.npy	Seekh raha hun
+dataset/raw\Seekh raha hun\Seekh raha hun_0.npy	Seekh raha hun
+dataset/raw\Seekh raha hun\Seekh raha hun_37.npy	Seekh raha hun
+dataset/raw\Seekh raha hun\Seekh raha hun_4.npy	Seekh raha hun
+dataset/raw\Seekh raha hun\Seekh raha hun_36.npy	Seekh raha hun
+dataset/raw\Seekh raha hun\Seekh raha hun_38.npy	Seekh raha hun
+dataset/raw\Seekh raha hun\Seekh raha hun_10.npy	Seekh raha hun
+dataset/raw\Seekh raha hun\Seekh raha hun_32.npy	Seekh raha hun
+dataset/raw\Seekh raha hun\Seekh raha hun_28.npy	Seekh raha hun
+dataset/raw\Seekh raha hun\Seekh raha hun_31.npy	Seekh raha hun
+dataset/raw\Seekh raha hun\Seekh raha hun_33.npy	Seekh raha hun
+dataset/raw\Seekh raha hun\Seekh raha hun_8.npy	Seekh raha hun
+dataset/raw\Seekh raha hun\Seekh raha hun_24.npy	Seekh raha hun
+dataset/raw\Seekh raha hun\Seekh raha hun_43.npy	Seekh raha hun
+dataset/raw\Seekh raha hun\Seekh raha hun_41.npy	Seekh raha hun
+dataset/raw\Seekh raha hun\Seekh raha hun_45.npy	Seekh raha hun
+dataset/raw\Seekh raha hun\Seekh raha hun_34.npy	Seekh raha hun
+dataset/raw\Seekh raha hun\Seekh raha hun_7.npy	Seekh raha hun
+dataset/raw\Seekh raha hun\Seekh raha hun_25.npy	Seekh raha hun
+dataset/raw\Seekh raha hun\Seekh raha hun_12.npy	Seekh raha hun
+dataset/raw\Seekh raha hun\Seekh raha hun_40.npy	Seekh raha hun
+dataset/raw\Seekh raha hun\Seekh raha hun_20.npy	Seekh raha hun
+dataset/raw\Seekh raha hun\Seekh raha hun_2.npy	Seekh raha hun
+dataset/raw\Seekh raha hun\Seekh raha hun_23.npy	Seekh raha hun
+dataset/raw\Seekh raha hun\Seekh raha hun_17.npy	Seekh raha hun
+dataset/raw\Seekh raha hun\Seekh raha hun_3.npy	Seekh raha hun
+dataset/raw\Seekh raha hun\Seekh raha hun_5.npy	Seekh raha hun
+dataset/raw\Seekh raha hun\Seekh raha hun_46.npy	Seekh raha hun
+dataset/raw\Seekh raha hun\Seekh raha hun_49.npy	Seekh raha hun
+dataset/raw\Seekh raha hun\Seekh raha hun_22.npy	Seekh raha hun
+dataset/raw\Seekh raha hun\Seekh raha hun_15.npy	Seekh raha hun
+dataset/raw\Seekh raha hun\Seekh raha hun_27.npy	Seekh raha hun
+dataset/raw\Seekh raha hun\Seekh raha hun_16.npy	Seekh raha hun
+dataset/raw\Sheen\Sheen_6.npy	Sheen
+dataset/raw\Sheen\Sheen_2.npy	Sheen
+dataset/raw\Sheen\Sheen_29.npy	Sheen
+dataset/raw\Sheen\Sheen_15.npy	Sheen
+dataset/raw\Sheen\Sheen_46.npy	Sheen
+dataset/raw\Sheen\Sheen_45.npy	Sheen
+dataset/raw\Sheen\Sheen_17.npy	Sheen
+dataset/raw\Sheen\Sheen_0.npy	Sheen
+dataset/raw\Sheen\Sheen_12.npy	Sheen
+dataset/raw\Sheen\Sheen_20.npy	Sheen
+dataset/raw\Sheen\Sheen_38.npy	Sheen
+dataset/raw\Sheen\Sheen_33.npy	Sheen
+dataset/raw\Sheen\Sheen_14.npy	Sheen
+dataset/raw\Sheen\Sheen_28.npy	Sheen
+dataset/raw\Sheen\Sheen_27.npy	Sheen
+dataset/raw\Sheen\Sheen_4.npy	Sheen
+dataset/raw\Sheen\Sheen_44.npy	Sheen
+dataset/raw\Sheen\Sheen_26.npy	Sheen
+dataset/raw\Sheen\Sheen_19.npy	Sheen
+dataset/raw\Sheen\Sheen_31.npy	Sheen
+dataset/raw\Sheen\Sheen_16.npy	Sheen
+dataset/raw\Sheen\Sheen_8.npy	Sheen
+dataset/raw\Sheen\Sheen_36.npy	Sheen
+dataset/raw\Sheen\Sheen_11.npy	Sheen
+dataset/raw\Sheen\Sheen_23.npy	Sheen
+dataset/raw\Sheen\Sheen_40.npy	Sheen
+dataset/raw\Sheen\Sheen_22.npy	Sheen
+dataset/raw\Sheen\Sheen_49.npy	Sheen
+dataset/raw\Sheen\Sheen_30.npy	Sheen
+dataset/raw\Sheen\Sheen_3.npy	Sheen
+dataset/raw\Sheen\Sheen_39.npy	Sheen
+dataset/raw\Sheen\Sheen_35.npy	Sheen
+dataset/raw\Sheen\Sheen_47.npy	Sheen
+dataset/raw\Sheen\Sheen_42.npy	Sheen
+dataset/raw\Sheen\Sheen_43.npy	Sheen
+dataset/raw\Sheen\Sheen_24.npy	Sheen
+dataset/raw\Sheen\Sheen_10.npy	Sheen
+dataset/raw\Sheen\Sheen_25.npy	Sheen
+dataset/raw\Sheen\Sheen_21.npy	Sheen
+dataset/raw\Sheen\Sheen_1.npy	Sheen
+dataset/raw\Shirt dhona hai\Shirt dhona hai_37.npy	Shirt dhona hai
+dataset/raw\Shirt dhona hai\Shirt dhona hai_26.npy	Shirt dhona hai
+dataset/raw\Shirt dhona hai\Shirt dhona hai_0.npy	Shirt dhona hai
+dataset/raw\Shirt dhona hai\Shirt dhona hai_34.npy	Shirt dhona hai
+dataset/raw\Shirt dhona hai\Shirt dhona hai_21.npy	Shirt dhona hai
+dataset/raw\Shirt dhona hai\Shirt dhona hai_2.npy	Shirt dhona hai
+dataset/raw\Shirt dhona hai\Shirt dhona hai_30.npy	Shirt dhona hai
+dataset/raw\Shirt dhona hai\Shirt dhona hai_8.npy	Shirt dhona hai
+dataset/raw\Shirt dhona hai\Shirt dhona hai_10.npy	Shirt dhona hai
+dataset/raw\Shirt dhona hai\Shirt dhona hai_31.npy	Shirt dhona hai
+dataset/raw\Shirt dhona hai\Shirt dhona hai_14.npy	Shirt dhona hai
+dataset/raw\Shirt dhona hai\Shirt dhona hai_38.npy	Shirt dhona hai
+dataset/raw\Shirt dhona hai\Shirt dhona hai_3.npy	Shirt dhona hai
+dataset/raw\Shirt dhona hai\Shirt dhona hai_13.npy	Shirt dhona hai
+dataset/raw\Shirt dhona hai\Shirt dhona hai_19.npy	Shirt dhona hai
+dataset/raw\Shirt dhona hai\Shirt dhona hai_39.npy	Shirt dhona hai
+dataset/raw\Shirt dhona hai\Shirt dhona hai_15.npy	Shirt dhona hai
+dataset/raw\Shirt dhona hai\Shirt dhona hai_46.npy	Shirt dhona hai
+dataset/raw\Shirt dhona hai\Shirt dhona hai_36.npy	Shirt dhona hai
+dataset/raw\Shirt dhona hai\Shirt dhona hai_32.npy	Shirt dhona hai
+dataset/raw\Shirt dhona hai\Shirt dhona hai_1.npy	Shirt dhona hai
+dataset/raw\Shirt dhona hai\Shirt dhona hai_41.npy	Shirt dhona hai
+dataset/raw\Shirt dhona hai\Shirt dhona hai_12.npy	Shirt dhona hai
+dataset/raw\Shirt dhona hai\Shirt dhona hai_40.npy	Shirt dhona hai
+dataset/raw\Shirt dhona hai\Shirt dhona hai_28.npy	Shirt dhona hai
+dataset/raw\Shirt dhona hai\Shirt dhona hai_23.npy	Shirt dhona hai
+dataset/raw\Shirt dhona hai\Shirt dhona hai_43.npy	Shirt dhona hai
+dataset/raw\Shirt dhona hai\Shirt dhona hai_25.npy	Shirt dhona hai
+dataset/raw\Shirt dhona hai\Shirt dhona hai_35.npy	Shirt dhona hai
+dataset/raw\Shirt dhona hai\Shirt dhona hai_17.npy	Shirt dhona hai
+dataset/raw\Shirt dhona hai\Shirt dhona hai_4.npy	Shirt dhona hai
+dataset/raw\Shirt dhona hai\Shirt dhona hai_27.npy	Shirt dhona hai
+dataset/raw\Shirt dhona hai\Shirt dhona hai_47.npy	Shirt dhona hai
+dataset/raw\Shirt dhona hai\Shirt dhona hai_24.npy	Shirt dhona hai
+dataset/raw\Shirt dhona hai\Shirt dhona hai_5.npy	Shirt dhona hai
+dataset/raw\Shirt dhona hai\Shirt dhona hai_11.npy	Shirt dhona hai
+dataset/raw\Shirt dhona hai\Shirt dhona hai_6.npy	Shirt dhona hai
+dataset/raw\Shirt dhona hai\Shirt dhona hai_7.npy	Shirt dhona hai
+dataset/raw\Shirt dhona hai\Shirt dhona hai_16.npy	Shirt dhona hai
+dataset/raw\Shirt dhona hai\Shirt dhona hai_48.npy	Shirt dhona hai
+dataset/raw\Sikander-e-Azam\Sikander-e-Azam_45.npy	Sikander-e-Azam
+dataset/raw\Sikander-e-Azam\Sikander-e-Azam_43.npy	Sikander-e-Azam
+dataset/raw\Sikander-e-Azam\Sikander-e-Azam_39.npy	Sikander-e-Azam
+dataset/raw\Sikander-e-Azam\Sikander-e-Azam_28.npy	Sikander-e-Azam
+dataset/raw\Sikander-e-Azam\Sikander-e-Azam_21.npy	Sikander-e-Azam
+dataset/raw\Sikander-e-Azam\Sikander-e-Azam_26.npy	Sikander-e-Azam
+dataset/raw\Sikander-e-Azam\Sikander-e-Azam_19.npy	Sikander-e-Azam
+dataset/raw\Sikander-e-Azam\Sikander-e-Azam_47.npy	Sikander-e-Azam
+dataset/raw\Sikander-e-Azam\Sikander-e-Azam_8.npy	Sikander-e-Azam
+dataset/raw\Sikander-e-Azam\Sikander-e-Azam_10.npy	Sikander-e-Azam
+dataset/raw\Sikander-e-Azam\Sikander-e-Azam_23.npy	Sikander-e-Azam
+dataset/raw\Sikander-e-Azam\Sikander-e-Azam_44.npy	Sikander-e-Azam
+dataset/raw\Sikander-e-Azam\Sikander-e-Azam_15.npy	Sikander-e-Azam
+dataset/raw\Sikander-e-Azam\Sikander-e-Azam_2.npy	Sikander-e-Azam
+dataset/raw\Sikander-e-Azam\Sikander-e-Azam_46.npy	Sikander-e-Azam
+dataset/raw\Sikander-e-Azam\Sikander-e-Azam_11.npy	Sikander-e-Azam
+dataset/raw\Sikander-e-Azam\Sikander-e-Azam_5.npy	Sikander-e-Azam
+dataset/raw\Sikander-e-Azam\Sikander-e-Azam_1.npy	Sikander-e-Azam
+dataset/raw\Sikander-e-Azam\Sikander-e-Azam_30.npy	Sikander-e-Azam
+dataset/raw\Sikander-e-Azam\Sikander-e-Azam_34.npy	Sikander-e-Azam
+dataset/raw\Sikander-e-Azam\Sikander-e-Azam_41.npy	Sikander-e-Azam
+dataset/raw\Sikander-e-Azam\Sikander-e-Azam_40.npy	Sikander-e-Azam
+dataset/raw\Sikander-e-Azam\Sikander-e-Azam_25.npy	Sikander-e-Azam
+dataset/raw\Sikander-e-Azam\Sikander-e-Azam_6.npy	Sikander-e-Azam
+dataset/raw\Sikander-e-Azam\Sikander-e-Azam_36.npy	Sikander-e-Azam
+dataset/raw\Sikander-e-Azam\Sikander-e-Azam_17.npy	Sikander-e-Azam
+dataset/raw\Sikander-e-Azam\Sikander-e-Azam_18.npy	Sikander-e-Azam
+dataset/raw\Sikander-e-Azam\Sikander-e-Azam_16.npy	Sikander-e-Azam
+dataset/raw\Sikander-e-Azam\Sikander-e-Azam_22.npy	Sikander-e-Azam
+dataset/raw\Sikander-e-Azam\Sikander-e-Azam_14.npy	Sikander-e-Azam
+dataset/raw\Sikander-e-Azam\Sikander-e-Azam_32.npy	Sikander-e-Azam
+dataset/raw\Sikander-e-Azam\Sikander-e-Azam_33.npy	Sikander-e-Azam
+dataset/raw\Sikander-e-Azam\Sikander-e-Azam_20.npy	Sikander-e-Azam
+dataset/raw\Sikander-e-Azam\Sikander-e-Azam_9.npy	Sikander-e-Azam
+dataset/raw\Sikander-e-Azam\Sikander-e-Azam_4.npy	Sikander-e-Azam
+dataset/raw\Sikander-e-Azam\Sikander-e-Azam_12.npy	Sikander-e-Azam
+dataset/raw\Sikander-e-Azam\Sikander-e-Azam_29.npy	Sikander-e-Azam
+dataset/raw\Sikander-e-Azam\Sikander-e-Azam_48.npy	Sikander-e-Azam
+dataset/raw\Sikander-e-Azam\Sikander-e-Azam_13.npy	Sikander-e-Azam
+dataset/raw\Sikander-e-Azam\Sikander-e-Azam_0.npy	Sikander-e-Azam
+dataset/raw\Tay\Tay_8.npy	Tay
+dataset/raw\Tay\Tay_30.npy	Tay
+dataset/raw\Tay\Tay_40.npy	Tay
+dataset/raw\Tay\Tay_32.npy	Tay
+dataset/raw\Tay\Tay_47.npy	Tay
+dataset/raw\Tay\Tay_17.npy	Tay
+dataset/raw\Tay\Tay_43.npy	Tay
+dataset/raw\Tay\Tay_16.npy	Tay
+dataset/raw\Tay\Tay_4.npy	Tay
+dataset/raw\Tay\Tay_27.npy	Tay
+dataset/raw\Tay\Tay_2.npy	Tay
+dataset/raw\Tay\Tay_19.npy	Tay
+dataset/raw\Tay\Tay_1.npy	Tay
+dataset/raw\Tay\Tay_39.npy	Tay
+dataset/raw\Tay\Tay_42.npy	Tay
+dataset/raw\Tay\Tay_35.npy	Tay
+dataset/raw\Tay\Tay_36.npy	Tay
+dataset/raw\Tay\Tay_34.npy	Tay
+dataset/raw\Tay\Tay_37.npy	Tay
+dataset/raw\Tay\Tay_44.npy	Tay
+dataset/raw\Tay\Tay_45.npy	Tay
+dataset/raw\Tay\Tay_29.npy	Tay
+dataset/raw\Tay\Tay_38.npy	Tay
+dataset/raw\Tay\Tay_41.npy	Tay
+dataset/raw\Tay\Tay_28.npy	Tay
+dataset/raw\Tay\Tay_49.npy	Tay
+dataset/raw\Tay\Tay_15.npy	Tay
+dataset/raw\Tay\Tay_25.npy	Tay
+dataset/raw\Tay\Tay_12.npy	Tay
+dataset/raw\Tay\Tay_10.npy	Tay
+dataset/raw\Tay\Tay_22.npy	Tay
+dataset/raw\Tay\Tay_20.npy	Tay
+dataset/raw\Tay\Tay_0.npy	Tay
+dataset/raw\Tay\Tay_14.npy	Tay
+dataset/raw\Tay\Tay_48.npy	Tay
+dataset/raw\Tay\Tay_33.npy	Tay
+dataset/raw\Tay\Tay_21.npy	Tay
+dataset/raw\Tay\Tay_26.npy	Tay
+dataset/raw\Tay\Tay_31.npy	Tay
+dataset/raw\Tay\Tay_11.npy	Tay
+dataset/raw\Toain\Toain_49.npy	Toain
+dataset/raw\Toain\Toain_35.npy	Toain
+dataset/raw\Toain\Toain_40.npy	Toain
+dataset/raw\Toain\Toain_1.npy	Toain
+dataset/raw\Toain\Toain_2.npy	Toain
+dataset/raw\Toain\Toain_42.npy	Toain
+dataset/raw\Toain\Toain_28.npy	Toain
+dataset/raw\Toain\Toain_36.npy	Toain
+dataset/raw\Toain\Toain_3.npy	Toain
+dataset/raw\Toain\Toain_43.npy	Toain
+dataset/raw\Toain\Toain_22.npy	Toain
+dataset/raw\Toain\Toain_11.npy	Toain
+dataset/raw\Toain\Toain_21.npy	Toain
+dataset/raw\Toain\Toain_23.npy	Toain
+dataset/raw\Toain\Toain_37.npy	Toain
+dataset/raw\Toain\Toain_4.npy	Toain
+dataset/raw\Toain\Toain_25.npy	Toain
+dataset/raw\Toain\Toain_6.npy	Toain
+dataset/raw\Toain\Toain_5.npy	Toain
+dataset/raw\Toain\Toain_26.npy	Toain
+dataset/raw\Toain\Toain_24.npy	Toain
+dataset/raw\Toain\Toain_33.npy	Toain
+dataset/raw\Toain\Toain_10.npy	Toain
+dataset/raw\Toain\Toain_27.npy	Toain
+dataset/raw\Toain\Toain_8.npy	Toain
+dataset/raw\Toain\Toain_38.npy	Toain
+dataset/raw\Toain\Toain_9.npy	Toain
+dataset/raw\Toain\Toain_31.npy	Toain
+dataset/raw\Toain\Toain_48.npy	Toain
+dataset/raw\Toain\Toain_7.npy	Toain
+dataset/raw\Toain\Toain_19.npy	Toain
+dataset/raw\Toain\Toain_30.npy	Toain
+dataset/raw\Toain\Toain_15.npy	Toain
+dataset/raw\Toain\Toain_16.npy	Toain
+dataset/raw\Toain\Toain_14.npy	Toain
+dataset/raw\Toain\Toain_13.npy	Toain
+dataset/raw\Toain\Toain_45.npy	Toain
+dataset/raw\Toain\Toain_47.npy	Toain
+dataset/raw\Toain\Toain_32.npy	Toain
+dataset/raw\Toain\Toain_17.npy	Toain
+dataset/raw\Ttay\Ttay_15.npy	Ttay
+dataset/raw\Ttay\Ttay_26.npy	Ttay
+dataset/raw\Ttay\Ttay_14.npy	Ttay
+dataset/raw\Ttay\Ttay_34.npy	Ttay
+dataset/raw\Ttay\Ttay_45.npy	Ttay
+dataset/raw\Ttay\Ttay_49.npy	Ttay
+dataset/raw\Ttay\Ttay_18.npy	Ttay
+dataset/raw\Ttay\Ttay_13.npy	Ttay
+dataset/raw\Ttay\Ttay_44.npy	Ttay
+dataset/raw\Ttay\Ttay_25.npy	Ttay
+dataset/raw\Ttay\Ttay_11.npy	Ttay
+dataset/raw\Ttay\Ttay_22.npy	Ttay
+dataset/raw\Ttay\Ttay_21.npy	Ttay
+dataset/raw\Ttay\Ttay_46.npy	Ttay
+dataset/raw\Ttay\Ttay_43.npy	Ttay
+dataset/raw\Ttay\Ttay_5.npy	Ttay
+dataset/raw\Ttay\Ttay_40.npy	Ttay
+dataset/raw\Ttay\Ttay_24.npy	Ttay
+dataset/raw\Ttay\Ttay_37.npy	Ttay
+dataset/raw\Ttay\Ttay_33.npy	Ttay
+dataset/raw\Ttay\Ttay_28.npy	Ttay
+dataset/raw\Ttay\Ttay_38.npy	Ttay
+dataset/raw\Ttay\Ttay_47.npy	Ttay
+dataset/raw\Ttay\Ttay_29.npy	Ttay
+dataset/raw\Ttay\Ttay_6.npy	Ttay
+dataset/raw\Ttay\Ttay_17.npy	Ttay
+dataset/raw\Ttay\Ttay_9.npy	Ttay
+dataset/raw\Ttay\Ttay_2.npy	Ttay
+dataset/raw\Ttay\Ttay_31.npy	Ttay
+dataset/raw\Ttay\Ttay_48.npy	Ttay
+dataset/raw\Ttay\Ttay_35.npy	Ttay
+dataset/raw\Ttay\Ttay_10.npy	Ttay
+dataset/raw\Ttay\Ttay_20.npy	Ttay
+dataset/raw\Ttay\Ttay_23.npy	Ttay
+dataset/raw\Ttay\Ttay_8.npy	Ttay
+dataset/raw\Ttay\Ttay_42.npy	Ttay
+dataset/raw\Ttay\Ttay_1.npy	Ttay
+dataset/raw\Ttay\Ttay_12.npy	Ttay
+dataset/raw\Ttay\Ttay_36.npy	Ttay
+dataset/raw\Ttay\Ttay_19.npy	Ttay
+dataset/raw\Walaikumasalam\Walaikumasalam_24.npy	Walaikumasalam
+dataset/raw\Walaikumasalam\Walaikumasalam_14.npy	Walaikumasalam
+dataset/raw\Walaikumasalam\Walaikumasalam_32.npy	Walaikumasalam
+dataset/raw\Walaikumasalam\Walaikumasalam_45.npy	Walaikumasalam
+dataset/raw\Walaikumasalam\Walaikumasalam_25.npy	Walaikumasalam
+dataset/raw\Walaikumasalam\Walaikumasalam_10.npy	Walaikumasalam
+dataset/raw\Walaikumasalam\Walaikumasalam_2.npy	Walaikumasalam
+dataset/raw\Walaikumasalam\Walaikumasalam_21.npy	Walaikumasalam
+dataset/raw\Walaikumasalam\Walaikumasalam_41.npy	Walaikumasalam
+dataset/raw\Walaikumasalam\Walaikumasalam_49.npy	Walaikumasalam
+dataset/raw\Walaikumasalam\Walaikumasalam_17.npy	Walaikumasalam
+dataset/raw\Walaikumasalam\Walaikumasalam_29.npy	Walaikumasalam
+dataset/raw\Walaikumasalam\Walaikumasalam_28.npy	Walaikumasalam
+dataset/raw\Walaikumasalam\Walaikumasalam_1.npy	Walaikumasalam
+dataset/raw\Walaikumasalam\Walaikumasalam_9.npy	Walaikumasalam
+dataset/raw\Walaikumasalam\Walaikumasalam_27.npy	Walaikumasalam
+dataset/raw\Walaikumasalam\Walaikumasalam_20.npy	Walaikumasalam
+dataset/raw\Walaikumasalam\Walaikumasalam_38.npy	Walaikumasalam
+dataset/raw\Walaikumasalam\Walaikumasalam_39.npy	Walaikumasalam
+dataset/raw\Walaikumasalam\Walaikumasalam_46.npy	Walaikumasalam
+dataset/raw\Walaikumasalam\Walaikumasalam_30.npy	Walaikumasalam
+dataset/raw\Walaikumasalam\Walaikumasalam_12.npy	Walaikumasalam
+dataset/raw\Walaikumasalam\Walaikumasalam_47.npy	Walaikumasalam
+dataset/raw\Walaikumasalam\Walaikumasalam_5.npy	Walaikumasalam
+dataset/raw\Walaikumasalam\Walaikumasalam_4.npy	Walaikumasalam
+dataset/raw\Walaikumasalam\Walaikumasalam_3.npy	Walaikumasalam
+dataset/raw\Walaikumasalam\Walaikumasalam_31.npy	Walaikumasalam
+dataset/raw\Walaikumasalam\Walaikumasalam_34.npy	Walaikumasalam
+dataset/raw\Walaikumasalam\Walaikumasalam_23.npy	Walaikumasalam
+dataset/raw\Walaikumasalam\Walaikumasalam_42.npy	Walaikumasalam
+dataset/raw\Walaikumasalam\Walaikumasalam_36.npy	Walaikumasalam
+dataset/raw\Walaikumasalam\Walaikumasalam_37.npy	Walaikumasalam
+dataset/raw\Walaikumasalam\Walaikumasalam_18.npy	Walaikumasalam
+dataset/raw\Walaikumasalam\Walaikumasalam_40.npy	Walaikumasalam
+dataset/raw\Walaikumasalam\Walaikumasalam_16.npy	Walaikumasalam
+dataset/raw\Walaikumasalam\Walaikumasalam_0.npy	Walaikumasalam
+dataset/raw\Walaikumasalam\Walaikumasalam_48.npy	Walaikumasalam
+dataset/raw\Walaikumasalam\Walaikumasalam_19.npy	Walaikumasalam
+dataset/raw\Walaikumasalam\Walaikumasalam_26.npy	Walaikumasalam
+dataset/raw\Walaikumasalam\Walaikumasalam_7.npy	Walaikumasalam
+dataset/raw\Wao\Wao_37.npy	Wao
+dataset/raw\Wao\Wao_2.npy	Wao
+dataset/raw\Wao\Wao_25.npy	Wao
+dataset/raw\Wao\Wao_26.npy	Wao
+dataset/raw\Wao\Wao_47.npy	Wao
+dataset/raw\Wao\Wao_12.npy	Wao
+dataset/raw\Wao\Wao_6.npy	Wao
+dataset/raw\Wao\Wao_11.npy	Wao
+dataset/raw\Wao\Wao_42.npy	Wao
+dataset/raw\Wao\Wao_43.npy	Wao
+dataset/raw\Wao\Wao_40.npy	Wao
+dataset/raw\Wao\Wao_7.npy	Wao
+dataset/raw\Wao\Wao_34.npy	Wao
+dataset/raw\Wao\Wao_13.npy	Wao
+dataset/raw\Wao\Wao_46.npy	Wao
+dataset/raw\Wao\Wao_5.npy	Wao
+dataset/raw\Wao\Wao_16.npy	Wao
+dataset/raw\Wao\Wao_39.npy	Wao
+dataset/raw\Wao\Wao_32.npy	Wao
+dataset/raw\Wao\Wao_28.npy	Wao
+dataset/raw\Wao\Wao_8.npy	Wao
+dataset/raw\Wao\Wao_49.npy	Wao
+dataset/raw\Wao\Wao_20.npy	Wao
+dataset/raw\Wao\Wao_27.npy	Wao
+dataset/raw\Wao\Wao_4.npy	Wao
+dataset/raw\Wao\Wao_29.npy	Wao
+dataset/raw\Wao\Wao_31.npy	Wao
+dataset/raw\Wao\Wao_24.npy	Wao
+dataset/raw\Wao\Wao_1.npy	Wao
+dataset/raw\Wao\Wao_33.npy	Wao
+dataset/raw\Wao\Wao_35.npy	Wao
+dataset/raw\Wao\Wao_19.npy	Wao
+dataset/raw\Wao\Wao_17.npy	Wao
+dataset/raw\Wao\Wao_30.npy	Wao
+dataset/raw\Wao\Wao_9.npy	Wao
+dataset/raw\Wao\Wao_36.npy	Wao
+dataset/raw\Wao\Wao_44.npy	Wao
+dataset/raw\Wao\Wao_22.npy	Wao
+dataset/raw\Wao\Wao_45.npy	Wao
+dataset/raw\Wao\Wao_10.npy	Wao
+dataset/raw\Watermelon\Watermelon_45.npy	Watermelon
+dataset/raw\Watermelon\Watermelon_6.npy	Watermelon
+dataset/raw\Watermelon\Watermelon_31.npy	Watermelon
+dataset/raw\Watermelon\Watermelon_34.npy	Watermelon
+dataset/raw\Watermelon\Watermelon_21.npy	Watermelon
+dataset/raw\Watermelon\Watermelon_30.npy	Watermelon
+dataset/raw\Watermelon\Watermelon_5.npy	Watermelon
+dataset/raw\Watermelon\Watermelon_1.npy	Watermelon
+dataset/raw\Watermelon\Watermelon_12.npy	Watermelon
+dataset/raw\Watermelon\Watermelon_10.npy	Watermelon
+dataset/raw\Watermelon\Watermelon_43.npy	Watermelon
+dataset/raw\Watermelon\Watermelon_32.npy	Watermelon
+dataset/raw\Watermelon\Watermelon_38.npy	Watermelon
+dataset/raw\Watermelon\Watermelon_23.npy	Watermelon
+dataset/raw\Watermelon\Watermelon_16.npy	Watermelon
+dataset/raw\Watermelon\Watermelon_14.npy	Watermelon
+dataset/raw\Watermelon\Watermelon_11.npy	Watermelon
+dataset/raw\Watermelon\Watermelon_4.npy	Watermelon
+dataset/raw\Watermelon\Watermelon_39.npy	Watermelon
+dataset/raw\Watermelon\Watermelon_28.npy	Watermelon
+dataset/raw\Watermelon\Watermelon_18.npy	Watermelon
+dataset/raw\Watermelon\Watermelon_33.npy	Watermelon
+dataset/raw\Watermelon\Watermelon_29.npy	Watermelon
+dataset/raw\Watermelon\Watermelon_7.npy	Watermelon
+dataset/raw\Watermelon\Watermelon_19.npy	Watermelon
+dataset/raw\Watermelon\Watermelon_24.npy	Watermelon
+dataset/raw\Watermelon\Watermelon_15.npy	Watermelon
+dataset/raw\Watermelon\Watermelon_36.npy	Watermelon
+dataset/raw\Watermelon\Watermelon_20.npy	Watermelon
+dataset/raw\Watermelon\Watermelon_44.npy	Watermelon
+dataset/raw\Watermelon\Watermelon_48.npy	Watermelon
+dataset/raw\Watermelon\Watermelon_17.npy	Watermelon
+dataset/raw\Watermelon\Watermelon_42.npy	Watermelon
+dataset/raw\Watermelon\Watermelon_46.npy	Watermelon
+dataset/raw\Watermelon\Watermelon_37.npy	Watermelon
+dataset/raw\Watermelon\Watermelon_47.npy	Watermelon
+dataset/raw\Watermelon\Watermelon_49.npy	Watermelon
+dataset/raw\Watermelon\Watermelon_22.npy	Watermelon
+dataset/raw\Watermelon\Watermelon_8.npy	Watermelon
+dataset/raw\Watermelon\Watermelon_41.npy	Watermelon
+dataset/raw\Woodpecker\Woodpecker_0.npy	Woodpecker
+dataset/raw\Woodpecker\Woodpecker_4.npy	Woodpecker
+dataset/raw\Woodpecker\Woodpecker_19.npy	Woodpecker
+dataset/raw\Woodpecker\Woodpecker_20.npy	Woodpecker
+dataset/raw\Woodpecker\Woodpecker_49.npy	Woodpecker
+dataset/raw\Woodpecker\Woodpecker_28.npy	Woodpecker
+dataset/raw\Woodpecker\Woodpecker_17.npy	Woodpecker
+dataset/raw\Woodpecker\Woodpecker_36.npy	Woodpecker
+dataset/raw\Woodpecker\Woodpecker_43.npy	Woodpecker
+dataset/raw\Woodpecker\Woodpecker_39.npy	Woodpecker
+dataset/raw\Woodpecker\Woodpecker_8.npy	Woodpecker
+dataset/raw\Woodpecker\Woodpecker_34.npy	Woodpecker
+dataset/raw\Woodpecker\Woodpecker_37.npy	Woodpecker
+dataset/raw\Woodpecker\Woodpecker_26.npy	Woodpecker
+dataset/raw\Woodpecker\Woodpecker_1.npy	Woodpecker
+dataset/raw\Woodpecker\Woodpecker_24.npy	Woodpecker
+dataset/raw\Woodpecker\Woodpecker_44.npy	Woodpecker
+dataset/raw\Woodpecker\Woodpecker_47.npy	Woodpecker
+dataset/raw\Woodpecker\Woodpecker_5.npy	Woodpecker
+dataset/raw\Woodpecker\Woodpecker_10.npy	Woodpecker
+dataset/raw\Woodpecker\Woodpecker_15.npy	Woodpecker
+dataset/raw\Woodpecker\Woodpecker_40.npy	Woodpecker
+dataset/raw\Woodpecker\Woodpecker_21.npy	Woodpecker
+dataset/raw\Woodpecker\Woodpecker_30.npy	Woodpecker
+dataset/raw\Woodpecker\Woodpecker_18.npy	Woodpecker
+dataset/raw\Woodpecker\Woodpecker_3.npy	Woodpecker
+dataset/raw\Woodpecker\Woodpecker_32.npy	Woodpecker
+dataset/raw\Woodpecker\Woodpecker_29.npy	Woodpecker
+dataset/raw\Woodpecker\Woodpecker_2.npy	Woodpecker
+dataset/raw\Woodpecker\Woodpecker_46.npy	Woodpecker
+dataset/raw\Woodpecker\Woodpecker_9.npy	Woodpecker
+dataset/raw\Woodpecker\Woodpecker_27.npy	Woodpecker
+dataset/raw\Woodpecker\Woodpecker_23.npy	Woodpecker
+dataset/raw\Woodpecker\Woodpecker_25.npy	Woodpecker
+dataset/raw\Woodpecker\Woodpecker_22.npy	Woodpecker
+dataset/raw\Woodpecker\Woodpecker_48.npy	Woodpecker
+dataset/raw\Woodpecker\Woodpecker_33.npy	Woodpecker
+dataset/raw\Woodpecker\Woodpecker_11.npy	Woodpecker
+dataset/raw\Woodpecker\Woodpecker_41.npy	Woodpecker
+dataset/raw\Woodpecker\Woodpecker_6.npy	Woodpecker
+dataset/raw\Yaqeen\Yaqeen_41.npy	Yaqeen
+dataset/raw\Yaqeen\Yaqeen_16.npy	Yaqeen
+dataset/raw\Yaqeen\Yaqeen_7.npy	Yaqeen
+dataset/raw\Yaqeen\Yaqeen_37.npy	Yaqeen
+dataset/raw\Yaqeen\Yaqeen_19.npy	Yaqeen
+dataset/raw\Yaqeen\Yaqeen_44.npy	Yaqeen
+dataset/raw\Yaqeen\Yaqeen_25.npy	Yaqeen
+dataset/raw\Yaqeen\Yaqeen_42.npy	Yaqeen
+dataset/raw\Yaqeen\Yaqeen_35.npy	Yaqeen
+dataset/raw\Yaqeen\Yaqeen_14.npy	Yaqeen
+dataset/raw\Yaqeen\Yaqeen_45.npy	Yaqeen
+dataset/raw\Yaqeen\Yaqeen_47.npy	Yaqeen
+dataset/raw\Yaqeen\Yaqeen_30.npy	Yaqeen
+dataset/raw\Yaqeen\Yaqeen_33.npy	Yaqeen
+dataset/raw\Yaqeen\Yaqeen_46.npy	Yaqeen
+dataset/raw\Yaqeen\Yaqeen_1.npy	Yaqeen
+dataset/raw\Yaqeen\Yaqeen_34.npy	Yaqeen
+dataset/raw\Yaqeen\Yaqeen_4.npy	Yaqeen
+dataset/raw\Yaqeen\Yaqeen_12.npy	Yaqeen
+dataset/raw\Yaqeen\Yaqeen_28.npy	Yaqeen
+dataset/raw\Yaqeen\Yaqeen_36.npy	Yaqeen
+dataset/raw\Yaqeen\Yaqeen_39.npy	Yaqeen
+dataset/raw\Yaqeen\Yaqeen_9.npy	Yaqeen
+dataset/raw\Yaqeen\Yaqeen_40.npy	Yaqeen
+dataset/raw\Yaqeen\Yaqeen_3.npy	Yaqeen
+dataset/raw\Yaqeen\Yaqeen_24.npy	Yaqeen
+dataset/raw\Yaqeen\Yaqeen_21.npy	Yaqeen
+dataset/raw\Yaqeen\Yaqeen_2.npy	Yaqeen
+dataset/raw\Yaqeen\Yaqeen_0.npy	Yaqeen
+dataset/raw\Yaqeen\Yaqeen_6.npy	Yaqeen
+dataset/raw\Yaqeen\Yaqeen_32.npy	Yaqeen
+dataset/raw\Yaqeen\Yaqeen_23.npy	Yaqeen
+dataset/raw\Yaqeen\Yaqeen_5.npy	Yaqeen
+dataset/raw\Yaqeen\Yaqeen_11.npy	Yaqeen
+dataset/raw\Yaqeen\Yaqeen_38.npy	Yaqeen
+dataset/raw\Yaqeen\Yaqeen_31.npy	Yaqeen
+dataset/raw\Yaqeen\Yaqeen_29.npy	Yaqeen
+dataset/raw\Yaqeen\Yaqeen_22.npy	Yaqeen
+dataset/raw\Yaqeen\Yaqeen_8.npy	Yaqeen
+dataset/raw\Yaqeen\Yaqeen_17.npy	Yaqeen
+dataset/raw\Ye\Ye_25.npy	Ye
+dataset/raw\Ye\Ye_23.npy	Ye
+dataset/raw\Ye\Ye_44.npy	Ye
+dataset/raw\Ye\Ye_27.npy	Ye
+dataset/raw\Ye\Ye_43.npy	Ye
+dataset/raw\Ye\Ye_9.npy	Ye
+dataset/raw\Ye\Ye_7.npy	Ye
+dataset/raw\Ye\Ye_32.npy	Ye
+dataset/raw\Ye\Ye_45.npy	Ye
+dataset/raw\Ye\Ye_36.npy	Ye
+dataset/raw\Ye\Ye_47.npy	Ye
+dataset/raw\Ye\Ye_8.npy	Ye
+dataset/raw\Ye\Ye_39.npy	Ye
+dataset/raw\Ye\Ye_3.npy	Ye
+dataset/raw\Ye\Ye_0.npy	Ye
+dataset/raw\Ye\Ye_24.npy	Ye
+dataset/raw\Ye\Ye_20.npy	Ye
+dataset/raw\Ye\Ye_22.npy	Ye
+dataset/raw\Ye\Ye_17.npy	Ye
+dataset/raw\Ye\Ye_48.npy	Ye
+dataset/raw\Ye\Ye_49.npy	Ye
+dataset/raw\Ye\Ye_29.npy	Ye
+dataset/raw\Ye\Ye_26.npy	Ye
+dataset/raw\Ye\Ye_4.npy	Ye
+dataset/raw\Ye\Ye_12.npy	Ye
+dataset/raw\Ye\Ye_21.npy	Ye
+dataset/raw\Ye\Ye_38.npy	Ye
+dataset/raw\Ye\Ye_6.npy	Ye
+dataset/raw\Ye\Ye_5.npy	Ye
+dataset/raw\Ye\Ye_14.npy	Ye
+dataset/raw\Ye\Ye_40.npy	Ye
+dataset/raw\Ye\Ye_19.npy	Ye
+dataset/raw\Ye\Ye_42.npy	Ye
+dataset/raw\Ye\Ye_30.npy	Ye
+dataset/raw\Ye\Ye_1.npy	Ye
+dataset/raw\Ye\Ye_37.npy	Ye
+dataset/raw\Ye\Ye_31.npy	Ye
+dataset/raw\Ye\Ye_33.npy	Ye
+dataset/raw\Ye\Ye_41.npy	Ye
+dataset/raw\Ye\Ye_18.npy	Ye
+dataset/raw\Zal\Zal_31.npy	Zal
+dataset/raw\Zal\Zal_10.npy	Zal
+dataset/raw\Zal\Zal_35.npy	Zal
+dataset/raw\Zal\Zal_22.npy	Zal
+dataset/raw\Zal\Zal_49.npy	Zal
+dataset/raw\Zal\Zal_14.npy	Zal
+dataset/raw\Zal\Zal_12.npy	Zal
+dataset/raw\Zal\Zal_18.npy	Zal
+dataset/raw\Zal\Zal_0.npy	Zal
+dataset/raw\Zal\Zal_7.npy	Zal
+dataset/raw\Zal\Zal_20.npy	Zal
+dataset/raw\Zal\Zal_43.npy	Zal
+dataset/raw\Zal\Zal_26.npy	Zal
+dataset/raw\Zal\Zal_23.npy	Zal
+dataset/raw\Zal\Zal_17.npy	Zal
+dataset/raw\Zal\Zal_33.npy	Zal
+dataset/raw\Zal\Zal_47.npy	Zal
+dataset/raw\Zal\Zal_39.npy	Zal
+dataset/raw\Zal\Zal_45.npy	Zal
+dataset/raw\Zal\Zal_2.npy	Zal
+dataset/raw\Zal\Zal_25.npy	Zal
+dataset/raw\Zal\Zal_32.npy	Zal
+dataset/raw\Zal\Zal_5.npy	Zal
+dataset/raw\Zal\Zal_3.npy	Zal
+dataset/raw\Zal\Zal_40.npy	Zal
+dataset/raw\Zal\Zal_16.npy	Zal
+dataset/raw\Zal\Zal_34.npy	Zal
+dataset/raw\Zal\Zal_28.npy	Zal
+dataset/raw\Zal\Zal_15.npy	Zal
+dataset/raw\Zal\Zal_8.npy	Zal
+dataset/raw\Zal\Zal_13.npy	Zal
+dataset/raw\Zal\Zal_42.npy	Zal
+dataset/raw\Zal\Zal_6.npy	Zal
+dataset/raw\Zal\Zal_9.npy	Zal
+dataset/raw\Zal\Zal_11.npy	Zal
+dataset/raw\Zal\Zal_46.npy	Zal
+dataset/raw\Zal\Zal_44.npy	Zal
+dataset/raw\Zal\Zal_21.npy	Zal
+dataset/raw\Zal\Zal_48.npy	Zal
+dataset/raw\Zal\Zal_1.npy	Zal
+dataset/raw\Zoain\Zoain_46.npy	Zoain
+dataset/raw\Zoain\Zoain_24.npy	Zoain
+dataset/raw\Zoain\Zoain_44.npy	Zoain
+dataset/raw\Zoain\Zoain_22.npy	Zoain
+dataset/raw\Zoain\Zoain_3.npy	Zoain
+dataset/raw\Zoain\Zoain_32.npy	Zoain
+dataset/raw\Zoain\Zoain_40.npy	Zoain
+dataset/raw\Zoain\Zoain_26.npy	Zoain
+dataset/raw\Zoain\Zoain_47.npy	Zoain
+dataset/raw\Zoain\Zoain_15.npy	Zoain
+dataset/raw\Zoain\Zoain_14.npy	Zoain
+dataset/raw\Zoain\Zoain_38.npy	Zoain
+dataset/raw\Zoain\Zoain_20.npy	Zoain
+dataset/raw\Zoain\Zoain_4.npy	Zoain
+dataset/raw\Zoain\Zoain_6.npy	Zoain
+dataset/raw\Zoain\Zoain_17.npy	Zoain
+dataset/raw\Zoain\Zoain_18.npy	Zoain
+dataset/raw\Zoain\Zoain_31.npy	Zoain
+dataset/raw\Zoain\Zoain_34.npy	Zoain
+dataset/raw\Zoain\Zoain_41.npy	Zoain
+dataset/raw\Zoain\Zoain_33.npy	Zoain
+dataset/raw\Zoain\Zoain_7.npy	Zoain
+dataset/raw\Zoain\Zoain_45.npy	Zoain
+dataset/raw\Zoain\Zoain_23.npy	Zoain
+dataset/raw\Zoain\Zoain_8.npy	Zoain
+dataset/raw\Zoain\Zoain_30.npy	Zoain
+dataset/raw\Zoain\Zoain_35.npy	Zoain
+dataset/raw\Zoain\Zoain_29.npy	Zoain
+dataset/raw\Zoain\Zoain_25.npy	Zoain
+dataset/raw\Zoain\Zoain_12.npy	Zoain
+dataset/raw\Zoain\Zoain_48.npy	Zoain
+dataset/raw\Zoain\Zoain_5.npy	Zoain
+dataset/raw\Zoain\Zoain_27.npy	Zoain
+dataset/raw\Zoain\Zoain_9.npy	Zoain
+dataset/raw\Zoain\Zoain_42.npy	Zoain
+dataset/raw\Zoain\Zoain_16.npy	Zoain
+dataset/raw\Zoain\Zoain_2.npy	Zoain
+dataset/raw\Zoain\Zoain_28.npy	Zoain
+dataset/raw\Zoain\Zoain_0.npy	Zoain
+dataset/raw\Zoain\Zoain_36.npy	Zoain
+dataset/raw\Zuaad\Zuaad_34.npy	Zuaad
+dataset/raw\Zuaad\Zuaad_36.npy	Zuaad
+dataset/raw\Zuaad\Zuaad_8.npy	Zuaad
+dataset/raw\Zuaad\Zuaad_38.npy	Zuaad
+dataset/raw\Zuaad\Zuaad_20.npy	Zuaad
+dataset/raw\Zuaad\Zuaad_22.npy	Zuaad
+dataset/raw\Zuaad\Zuaad_5.npy	Zuaad
+dataset/raw\Zuaad\Zuaad_23.npy	Zuaad
+dataset/raw\Zuaad\Zuaad_24.npy	Zuaad
+dataset/raw\Zuaad\Zuaad_2.npy	Zuaad
+dataset/raw\Zuaad\Zuaad_12.npy	Zuaad
+dataset/raw\Zuaad\Zuaad_45.npy	Zuaad
+dataset/raw\Zuaad\Zuaad_1.npy	Zuaad
+dataset/raw\Zuaad\Zuaad_33.npy	Zuaad
+dataset/raw\Zuaad\Zuaad_11.npy	Zuaad
+dataset/raw\Zuaad\Zuaad_4.npy	Zuaad
+dataset/raw\Zuaad\Zuaad_7.npy	Zuaad
+dataset/raw\Zuaad\Zuaad_47.npy	Zuaad
+dataset/raw\Zuaad\Zuaad_40.npy	Zuaad
+dataset/raw\Zuaad\Zuaad_32.npy	Zuaad
+dataset/raw\Zuaad\Zuaad_9.npy	Zuaad
+dataset/raw\Zuaad\Zuaad_39.npy	Zuaad
+dataset/raw\Zuaad\Zuaad_29.npy	Zuaad
+dataset/raw\Zuaad\Zuaad_35.npy	Zuaad
+dataset/raw\Zuaad\Zuaad_44.npy	Zuaad
+dataset/raw\Zuaad\Zuaad_13.npy	Zuaad
+dataset/raw\Zuaad\Zuaad_18.npy	Zuaad
+dataset/raw\Zuaad\Zuaad_42.npy	Zuaad
+dataset/raw\Zuaad\Zuaad_15.npy	Zuaad
+dataset/raw\Zuaad\Zuaad_43.npy	Zuaad
+dataset/raw\Zuaad\Zuaad_3.npy	Zuaad
+dataset/raw\Zuaad\Zuaad_28.npy	Zuaad
+dataset/raw\Zuaad\Zuaad_17.npy	Zuaad
+dataset/raw\Zuaad\Zuaad_37.npy	Zuaad
+dataset/raw\Zuaad\Zuaad_14.npy	Zuaad
+dataset/raw\Zuaad\Zuaad_21.npy	Zuaad
+dataset/raw\Zuaad\Zuaad_27.npy	Zuaad
+dataset/raw\Zuaad\Zuaad_48.npy	Zuaad
+dataset/raw\Zuaad\Zuaad_10.npy	Zuaad
+dataset/raw\Zuaad\Zuaad_46.npy	Zuaad
+dataset/raw\Zulfiqar Ali Bhutto\Zulfiqar Ali Bhutto_19.npy	Zulfiqar Ali Bhutto
+dataset/raw\Zulfiqar Ali Bhutto\Zulfiqar Ali Bhutto_28.npy	Zulfiqar Ali Bhutto
+dataset/raw\Zulfiqar Ali Bhutto\Zulfiqar Ali Bhutto_39.npy	Zulfiqar Ali Bhutto
+dataset/raw\Zulfiqar Ali Bhutto\Zulfiqar Ali Bhutto_33.npy	Zulfiqar Ali Bhutto
+dataset/raw\Zulfiqar Ali Bhutto\Zulfiqar Ali Bhutto_37.npy	Zulfiqar Ali Bhutto
+dataset/raw\Zulfiqar Ali Bhutto\Zulfiqar Ali Bhutto_47.npy	Zulfiqar Ali Bhutto
+dataset/raw\Zulfiqar Ali Bhutto\Zulfiqar Ali Bhutto_15.npy	Zulfiqar Ali Bhutto
+dataset/raw\Zulfiqar Ali Bhutto\Zulfiqar Ali Bhutto_16.npy	Zulfiqar Ali Bhutto
+dataset/raw\Zulfiqar Ali Bhutto\Zulfiqar Ali Bhutto_11.npy	Zulfiqar Ali Bhutto
+dataset/raw\Zulfiqar Ali Bhutto\Zulfiqar Ali Bhutto_48.npy	Zulfiqar Ali Bhutto
+dataset/raw\Zulfiqar Ali Bhutto\Zulfiqar Ali Bhutto_40.npy	Zulfiqar Ali Bhutto
+dataset/raw\Zulfiqar Ali Bhutto\Zulfiqar Ali Bhutto_31.npy	Zulfiqar Ali Bhutto
+dataset/raw\Zulfiqar Ali Bhutto\Zulfiqar Ali Bhutto_8.npy	Zulfiqar Ali Bhutto
+dataset/raw\Zulfiqar Ali Bhutto\Zulfiqar Ali Bhutto_38.npy	Zulfiqar Ali Bhutto
+dataset/raw\Zulfiqar Ali Bhutto\Zulfiqar Ali Bhutto_17.npy	Zulfiqar Ali Bhutto
+dataset/raw\Zulfiqar Ali Bhutto\Zulfiqar Ali Bhutto_32.npy	Zulfiqar Ali Bhutto
+dataset/raw\Zulfiqar Ali Bhutto\Zulfiqar Ali Bhutto_20.npy	Zulfiqar Ali Bhutto
+dataset/raw\Zulfiqar Ali Bhutto\Zulfiqar Ali Bhutto_0.npy	Zulfiqar Ali Bhutto
+dataset/raw\Zulfiqar Ali Bhutto\Zulfiqar Ali Bhutto_22.npy	Zulfiqar Ali Bhutto
+dataset/raw\Zulfiqar Ali Bhutto\Zulfiqar Ali Bhutto_7.npy	Zulfiqar Ali Bhutto
+dataset/raw\Zulfiqar Ali Bhutto\Zulfiqar Ali Bhutto_26.npy	Zulfiqar Ali Bhutto
+dataset/raw\Zulfiqar Ali Bhutto\Zulfiqar Ali Bhutto_49.npy	Zulfiqar Ali Bhutto
+dataset/raw\Zulfiqar Ali Bhutto\Zulfiqar Ali Bhutto_6.npy	Zulfiqar Ali Bhutto
+dataset/raw\Zulfiqar Ali Bhutto\Zulfiqar Ali Bhutto_24.npy	Zulfiqar Ali Bhutto
+dataset/raw\Zulfiqar Ali Bhutto\Zulfiqar Ali Bhutto_42.npy	Zulfiqar Ali Bhutto
+dataset/raw\Zulfiqar Ali Bhutto\Zulfiqar Ali Bhutto_3.npy	Zulfiqar Ali Bhutto
+dataset/raw\Zulfiqar Ali Bhutto\Zulfiqar Ali Bhutto_35.npy	Zulfiqar Ali Bhutto
+dataset/raw\Zulfiqar Ali Bhutto\Zulfiqar Ali Bhutto_2.npy	Zulfiqar Ali Bhutto
+dataset/raw\Zulfiqar Ali Bhutto\Zulfiqar Ali Bhutto_44.npy	Zulfiqar Ali Bhutto
+dataset/raw\Zulfiqar Ali Bhutto\Zulfiqar Ali Bhutto_13.npy	Zulfiqar Ali Bhutto
+dataset/raw\Zulfiqar Ali Bhutto\Zulfiqar Ali Bhutto_45.npy	Zulfiqar Ali Bhutto
+dataset/raw\Zulfiqar Ali Bhutto\Zulfiqar Ali Bhutto_43.npy	Zulfiqar Ali Bhutto
+dataset/raw\Zulfiqar Ali Bhutto\Zulfiqar Ali Bhutto_5.npy	Zulfiqar Ali Bhutto
+dataset/raw\Zulfiqar Ali Bhutto\Zulfiqar Ali Bhutto_23.npy	Zulfiqar Ali Bhutto
+dataset/raw\Zulfiqar Ali Bhutto\Zulfiqar Ali Bhutto_27.npy	Zulfiqar Ali Bhutto
+dataset/raw\Zulfiqar Ali Bhutto\Zulfiqar Ali Bhutto_1.npy	Zulfiqar Ali Bhutto
+dataset/raw\Zulfiqar Ali Bhutto\Zulfiqar Ali Bhutto_25.npy	Zulfiqar Ali Bhutto
+dataset/raw\Zulfiqar Ali Bhutto\Zulfiqar Ali Bhutto_10.npy	Zulfiqar Ali Bhutto
+dataset/raw\Zulfiqar Ali Bhutto\Zulfiqar Ali Bhutto_12.npy	Zulfiqar Ali Bhutto
+dataset/raw\Zulfiqar Ali Bhutto\Zulfiqar Ali Bhutto_34.npy	Zulfiqar Ali Bhutto
+dataset/raw\bari-ye\bari-ye_9.npy	bari-ye
+dataset/raw\bari-ye\bari-ye_44.npy	bari-ye
+dataset/raw\bari-ye\bari-ye_20.npy	bari-ye
+dataset/raw\bari-ye\bari-ye_23.npy	bari-ye
+dataset/raw\bari-ye\bari-ye_47.npy	bari-ye
+dataset/raw\bari-ye\bari-ye_19.npy	bari-ye
+dataset/raw\bari-ye\bari-ye_30.npy	bari-ye
+dataset/raw\bari-ye\bari-ye_18.npy	bari-ye
+dataset/raw\bari-ye\bari-ye_12.npy	bari-ye
+dataset/raw\bari-ye\bari-ye_43.npy	bari-ye
+dataset/raw\bari-ye\bari-ye_15.npy	bari-ye
+dataset/raw\bari-ye\bari-ye_48.npy	bari-ye
+dataset/raw\bari-ye\bari-ye_21.npy	bari-ye
+dataset/raw\bari-ye\bari-ye_4.npy	bari-ye
+dataset/raw\bari-ye\bari-ye_34.npy	bari-ye
+dataset/raw\bari-ye\bari-ye_35.npy	bari-ye
+dataset/raw\bari-ye\bari-ye_29.npy	bari-ye
+dataset/raw\bari-ye\bari-ye_24.npy	bari-ye
+dataset/raw\bari-ye\bari-ye_32.npy	bari-ye
+dataset/raw\bari-ye\bari-ye_16.npy	bari-ye
+dataset/raw\bari-ye\bari-ye_28.npy	bari-ye
+dataset/raw\bari-ye\bari-ye_5.npy	bari-ye
+dataset/raw\bari-ye\bari-ye_39.npy	bari-ye
+dataset/raw\bari-ye\bari-ye_42.npy	bari-ye
+dataset/raw\bari-ye\bari-ye_45.npy	bari-ye
+dataset/raw\bari-ye\bari-ye_8.npy	bari-ye
+dataset/raw\bari-ye\bari-ye_10.npy	bari-ye
+dataset/raw\bari-ye\bari-ye_46.npy	bari-ye
+dataset/raw\bari-ye\bari-ye_27.npy	bari-ye
+dataset/raw\bari-ye\bari-ye_49.npy	bari-ye
+dataset/raw\bari-ye\bari-ye_38.npy	bari-ye
+dataset/raw\bari-ye\bari-ye_1.npy	bari-ye
+dataset/raw\bari-ye\bari-ye_7.npy	bari-ye
+dataset/raw\bari-ye\bari-ye_2.npy	bari-ye
+dataset/raw\bari-ye\bari-ye_36.npy	bari-ye
+dataset/raw\bari-ye\bari-ye_25.npy	bari-ye
+dataset/raw\bari-ye\bari-ye_13.npy	bari-ye
+dataset/raw\bari-ye\bari-ye_33.npy	bari-ye
+dataset/raw\bari-ye\bari-ye_0.npy	bari-ye
+dataset/raw\bari-ye\bari-ye_3.npy	bari-ye
+dataset/raw\owl\owl_20.npy	owl
+dataset/raw\owl\owl_18.npy	owl
+dataset/raw\owl\owl_27.npy	owl
+dataset/raw\owl\owl_19.npy	owl
+dataset/raw\owl\owl_15.npy	owl
+dataset/raw\owl\owl_38.npy	owl
+dataset/raw\owl\owl_16.npy	owl
+dataset/raw\owl\owl_35.npy	owl
+dataset/raw\owl\owl_31.npy	owl
+dataset/raw\owl\owl_5.npy	owl
+dataset/raw\owl\owl_0.npy	owl
+dataset/raw\owl\owl_34.npy	owl
+dataset/raw\owl\owl_24.npy	owl
+dataset/raw\owl\owl_33.npy	owl
+dataset/raw\owl\owl_28.npy	owl
+dataset/raw\owl\owl_46.npy	owl
+dataset/raw\owl\owl_7.npy	owl
+dataset/raw\owl\owl_43.npy	owl
+dataset/raw\owl\owl_41.npy	owl
+dataset/raw\owl\owl_12.npy	owl
+dataset/raw\owl\owl_26.npy	owl
+dataset/raw\owl\owl_3.npy	owl
+dataset/raw\owl\owl_44.npy	owl
+dataset/raw\owl\owl_25.npy	owl
+dataset/raw\owl\owl_23.npy	owl
+dataset/raw\owl\owl_1.npy	owl
+dataset/raw\owl\owl_48.npy	owl
+dataset/raw\owl\owl_2.npy	owl
+dataset/raw\owl\owl_10.npy	owl
+dataset/raw\owl\owl_9.npy	owl
+dataset/raw\owl\owl_37.npy	owl
+dataset/raw\owl\owl_22.npy	owl
+dataset/raw\owl\owl_36.npy	owl
+dataset/raw\owl\owl_45.npy	owl
+dataset/raw\owl\owl_39.npy	owl
+dataset/raw\owl\owl_30.npy	owl
+dataset/raw\owl\owl_11.npy	owl
+dataset/raw\owl\owl_40.npy	owl
+dataset/raw\owl\owl_21.npy	owl
+dataset/raw\owl\owl_42.npy	owl
+dataset/raw\parrot\parrot_4.npy	parrot
+dataset/raw\parrot\parrot_21.npy	parrot
+dataset/raw\parrot\parrot_5.npy	parrot
+dataset/raw\parrot\parrot_49.npy	parrot
+dataset/raw\parrot\parrot_23.npy	parrot
+dataset/raw\parrot\parrot_3.npy	parrot
+dataset/raw\parrot\parrot_26.npy	parrot
+dataset/raw\parrot\parrot_18.npy	parrot
+dataset/raw\parrot\parrot_45.npy	parrot
+dataset/raw\parrot\parrot_28.npy	parrot
+dataset/raw\parrot\parrot_29.npy	parrot
+dataset/raw\parrot\parrot_33.npy	parrot
+dataset/raw\parrot\parrot_10.npy	parrot
+dataset/raw\parrot\parrot_37.npy	parrot
+dataset/raw\parrot\parrot_12.npy	parrot
+dataset/raw\parrot\parrot_9.npy	parrot
+dataset/raw\parrot\parrot_1.npy	parrot
+dataset/raw\parrot\parrot_34.npy	parrot
+dataset/raw\parrot\parrot_22.npy	parrot
+dataset/raw\parrot\parrot_2.npy	parrot
+dataset/raw\parrot\parrot_16.npy	parrot
+dataset/raw\parrot\parrot_20.npy	parrot
+dataset/raw\parrot\parrot_19.npy	parrot
+dataset/raw\parrot\parrot_48.npy	parrot
+dataset/raw\parrot\parrot_38.npy	parrot
+dataset/raw\parrot\parrot_6.npy	parrot
+dataset/raw\parrot\parrot_36.npy	parrot
+dataset/raw\parrot\parrot_8.npy	parrot
+dataset/raw\parrot\parrot_25.npy	parrot
+dataset/raw\parrot\parrot_11.npy	parrot
+dataset/raw\parrot\parrot_46.npy	parrot
+dataset/raw\parrot\parrot_14.npy	parrot
+dataset/raw\parrot\parrot_43.npy	parrot
+dataset/raw\parrot\parrot_17.npy	parrot
+dataset/raw\parrot\parrot_41.npy	parrot
+dataset/raw\parrot\parrot_15.npy	parrot
+dataset/raw\parrot\parrot_32.npy	parrot
+dataset/raw\parrot\parrot_47.npy	parrot
+dataset/raw\parrot\parrot_42.npy	parrot
+dataset/raw\parrot\parrot_44.npy	parrot
+dataset/raw\rray\rray_29.npy	rray
+dataset/raw\rray\rray_15.npy	rray
+dataset/raw\rray\rray_12.npy	rray
+dataset/raw\rray\rray_43.npy	rray
+dataset/raw\rray\rray_6.npy	rray
+dataset/raw\rray\rray_18.npy	rray
+dataset/raw\rray\rray_36.npy	rray
+dataset/raw\rray\rray_33.npy	rray
+dataset/raw\rray\rray_11.npy	rray
+dataset/raw\rray\rray_45.npy	rray
+dataset/raw\rray\rray_0.npy	rray
+dataset/raw\rray\rray_40.npy	rray
+dataset/raw\rray\rray_44.npy	rray
+dataset/raw\rray\rray_31.npy	rray
+dataset/raw\rray\rray_25.npy	rray
+dataset/raw\rray\rray_38.npy	rray
+dataset/raw\rray\rray_41.npy	rray
+dataset/raw\rray\rray_17.npy	rray
+dataset/raw\rray\rray_10.npy	rray
+dataset/raw\rray\rray_39.npy	rray
+dataset/raw\rray\rray_47.npy	rray
+dataset/raw\rray\rray_7.npy	rray
+dataset/raw\rray\rray_19.npy	rray
+dataset/raw\rray\rray_23.npy	rray
+dataset/raw\rray\rray_30.npy	rray
+dataset/raw\rray\rray_22.npy	rray
+dataset/raw\rray\rray_8.npy	rray
+dataset/raw\rray\rray_20.npy	rray
+dataset/raw\rray\rray_4.npy	rray
+dataset/raw\rray\rray_35.npy	rray
+dataset/raw\rray\rray_46.npy	rray
+dataset/raw\rray\rray_42.npy	rray
+dataset/raw\rray\rray_2.npy	rray
+dataset/raw\rray\rray_13.npy	rray
+dataset/raw\rray\rray_32.npy	rray
+dataset/raw\rray\rray_48.npy	rray
+dataset/raw\rray\rray_27.npy	rray
+dataset/raw\rray\rray_34.npy	rray
+dataset/raw\rray\rray_49.npy	rray
+dataset/raw\rray\rray_16.npy	rray
+dataset/raw\seen\seen_30.npy	seen
+dataset/raw\seen\seen_28.npy	seen
+dataset/raw\seen\seen_4.npy	seen
+dataset/raw\seen\seen_43.npy	seen
+dataset/raw\seen\seen_26.npy	seen
+dataset/raw\seen\seen_27.npy	seen
+dataset/raw\seen\seen_20.npy	seen
+dataset/raw\seen\seen_49.npy	seen
+dataset/raw\seen\seen_47.npy	seen
+dataset/raw\seen\seen_33.npy	seen
+dataset/raw\seen\seen_6.npy	seen
+dataset/raw\seen\seen_21.npy	seen
+dataset/raw\seen\seen_12.npy	seen
+dataset/raw\seen\seen_11.npy	seen
+dataset/raw\seen\seen_18.npy	seen
+dataset/raw\seen\seen_23.npy	seen
+dataset/raw\seen\seen_46.npy	seen
+dataset/raw\seen\seen_14.npy	seen
+dataset/raw\seen\seen_25.npy	seen
+dataset/raw\seen\seen_39.npy	seen
+dataset/raw\seen\seen_44.npy	seen
+dataset/raw\seen\seen_7.npy	seen
+dataset/raw\seen\seen_0.npy	seen
+dataset/raw\seen\seen_17.npy	seen
+dataset/raw\seen\seen_10.npy	seen
+dataset/raw\seen\seen_41.npy	seen
+dataset/raw\seen\seen_42.npy	seen
+dataset/raw\seen\seen_16.npy	seen
+dataset/raw\seen\seen_40.npy	seen
+dataset/raw\seen\seen_32.npy	seen
+dataset/raw\seen\seen_13.npy	seen
+dataset/raw\seen\seen_48.npy	seen
+dataset/raw\seen\seen_29.npy	seen
+dataset/raw\seen\seen_36.npy	seen
+dataset/raw\seen\seen_19.npy	seen
+dataset/raw\seen\seen_34.npy	seen
+dataset/raw\seen\seen_37.npy	seen
+dataset/raw\seen\seen_8.npy	seen
+dataset/raw\seen\seen_22.npy	seen
+dataset/raw\seen\seen_1.npy	seen
+dataset/raw\suaad\suaad_12.npy	suaad
+dataset/raw\suaad\suaad_9.npy	suaad
+dataset/raw\suaad\suaad_2.npy	suaad
+dataset/raw\suaad\suaad_19.npy	suaad
+dataset/raw\suaad\suaad_25.npy	suaad
+dataset/raw\suaad\suaad_1.npy	suaad
+dataset/raw\suaad\suaad_15.npy	suaad
+dataset/raw\suaad\suaad_13.npy	suaad
+dataset/raw\suaad\suaad_40.npy	suaad
+dataset/raw\suaad\suaad_6.npy	suaad
+dataset/raw\suaad\suaad_38.npy	suaad
+dataset/raw\suaad\suaad_21.npy	suaad
+dataset/raw\suaad\suaad_44.npy	suaad
+dataset/raw\suaad\suaad_47.npy	suaad
+dataset/raw\suaad\suaad_37.npy	suaad
+dataset/raw\suaad\suaad_4.npy	suaad
+dataset/raw\suaad\suaad_36.npy	suaad
+dataset/raw\suaad\suaad_48.npy	suaad
+dataset/raw\suaad\suaad_42.npy	suaad
+dataset/raw\suaad\suaad_16.npy	suaad
+dataset/raw\suaad\suaad_18.npy	suaad
+dataset/raw\suaad\suaad_10.npy	suaad
+dataset/raw\suaad\suaad_22.npy	suaad
+dataset/raw\suaad\suaad_11.npy	suaad
+dataset/raw\suaad\suaad_28.npy	suaad
+dataset/raw\suaad\suaad_32.npy	suaad
+dataset/raw\suaad\suaad_17.npy	suaad
+dataset/raw\suaad\suaad_34.npy	suaad
+dataset/raw\suaad\suaad_41.npy	suaad
+dataset/raw\suaad\suaad_27.npy	suaad
+dataset/raw\suaad\suaad_49.npy	suaad
+dataset/raw\suaad\suaad_3.npy	suaad
+dataset/raw\suaad\suaad_0.npy	suaad
+dataset/raw\suaad\suaad_14.npy	suaad
+dataset/raw\suaad\suaad_31.npy	suaad
+dataset/raw\suaad\suaad_39.npy	suaad
+dataset/raw\suaad\suaad_8.npy	suaad
+dataset/raw\suaad\suaad_45.npy	suaad
+dataset/raw\suaad\suaad_20.npy	suaad
+dataset/raw\suaad\suaad_23.npy	suaad
+dataset/raw\zay\zay_1.npy	zay
+dataset/raw\zay\zay_34.npy	zay
+dataset/raw\zay\zay_49.npy	zay
+dataset/raw\zay\zay_9.npy	zay
+dataset/raw\zay\zay_11.npy	zay
+dataset/raw\zay\zay_0.npy	zay
+dataset/raw\zay\zay_46.npy	zay
+dataset/raw\zay\zay_23.npy	zay
+dataset/raw\zay\zay_43.npy	zay
+dataset/raw\zay\zay_22.npy	zay
+dataset/raw\zay\zay_37.npy	zay
+dataset/raw\zay\zay_20.npy	zay
+dataset/raw\zay\zay_33.npy	zay
+dataset/raw\zay\zay_48.npy	zay
+dataset/raw\zay\zay_5.npy	zay
+dataset/raw\zay\zay_17.npy	zay
+dataset/raw\zay\zay_39.npy	zay
+dataset/raw\zay\zay_45.npy	zay
+dataset/raw\zay\zay_15.npy	zay
+dataset/raw\zay\zay_6.npy	zay
+dataset/raw\zay\zay_27.npy	zay
+dataset/raw\zay\zay_40.npy	zay
+dataset/raw\zay\zay_47.npy	zay
+dataset/raw\zay\zay_13.npy	zay
+dataset/raw\zay\zay_7.npy	zay
+dataset/raw\zay\zay_24.npy	zay
+dataset/raw\zay\zay_8.npy	zay
+dataset/raw\zay\zay_35.npy	zay
+dataset/raw\zay\zay_16.npy	zay
+dataset/raw\zay\zay_3.npy	zay
+dataset/raw\zay\zay_12.npy	zay
+dataset/raw\zay\zay_44.npy	zay
+dataset/raw\zay\zay_14.npy	zay
+dataset/raw\zay\zay_25.npy	zay
+dataset/raw\zay\zay_19.npy	zay
+dataset/raw\zay\zay_18.npy	zay
+dataset/raw\zay\zay_26.npy	zay
+dataset/raw\zay\zay_38.npy	zay
+dataset/raw\zay\zay_29.npy	zay
+dataset/raw\zay\zay_36.npy	zay
