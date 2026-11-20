@@ -21,11 +21,8 @@ export interface BackendHealth {
   aiServiceReady?: boolean;
 }
 
-// In local browser dev, route through Vite's local reverse proxies to avoid CORS/port blocks completely
 const AI_PROXY_URL = '/api-ai';
 const BACKEND_PROXY_URL = '/api-net';
-
-// Direct URLs as secondary fallback
 const AI_DIRECT_BASE = ((import.meta as any).env?.VITE_AI_URL as string) || 'http://127.0.0.1:8001';
 const BACKEND_DIRECT_BASE = ((import.meta as any).env?.VITE_BACKEND_URL as string) || 'http://localhost:5000';
 
@@ -33,7 +30,6 @@ export async function checkBackendStatus(): Promise<{ backend: boolean; aiServic
   let backend = false;
   let aiService = false;
 
-  // 1. Probe AI Service via local proxy first
   try {
     const res = await fetch(`${AI_PROXY_URL}/ready`, { method: 'GET', signal: AbortSignal.timeout(2000) });
     if (res.ok) {
@@ -41,7 +37,6 @@ export async function checkBackendStatus(): Promise<{ backend: boolean; aiServic
       aiService = data.ready === true;
     }
   } catch {
-    // Try direct AI fallback
     try {
       const res = await fetch(`${AI_DIRECT_BASE}/ready`, { method: 'GET', signal: AbortSignal.timeout(2000) });
       if (res.ok) {
@@ -53,7 +48,6 @@ export async function checkBackendStatus(): Promise<{ backend: boolean; aiServic
     }
   }
 
-  // 2. Probe .NET Gateway via local proxy
   try {
     const res = await fetch(`${BACKEND_PROXY_URL}/health`, { method: 'GET', signal: AbortSignal.timeout(2000) });
     if (res.ok) {
@@ -77,60 +71,40 @@ export async function predictVideo(blob: Blob): Promise<Prediction> {
   const form = new FormData();
   form.append('video', blob, 'sign_clip.webm');
 
-  let res: Response | null = null;
-  let lastErr = '';
+  // Attempt requests in order, preserving server-returned error messages (e.g. 400 Bad Request)
+  const targets = [
+    `${AI_PROXY_URL}/v1/signs/predict-video`,
+    `${AI_DIRECT_BASE}/v1/signs/predict-video`,
+    `${BACKEND_PROXY_URL}/api/v1/signs/predict-video`
+  ];
 
-  // 1. Send via local Vite AI proxy (bypasses any browser CORS/port restrictions)
-  try {
-    res = await fetch(`${AI_PROXY_URL}/v1/signs/predict-video`, {
-      method: 'POST',
-      body: form,
-      signal: AbortSignal.timeout(20000)
-    });
-  } catch (err: any) {
-    lastErr = err.message || '';
-  }
+  let serverErrorMessage = '';
+  let lastNetworkErr = '';
 
-  // 2. If proxy failed, try direct AI port
-  if (!res || !res.ok) {
+  for (const url of targets) {
     try {
-      res = await fetch(`${AI_DIRECT_BASE}/v1/signs/predict-video`, {
+      const res = await fetch(url, {
         method: 'POST',
         body: form,
-        signal: AbortSignal.timeout(20000)
+        signal: AbortSignal.timeout(25000)
       });
-    } catch (err: any) {
-      lastErr = err.message || lastErr;
-    }
-  }
 
-  // 3. If direct AI failed, try .NET backend proxy
-  if (!res || !res.ok) {
-    try {
-      res = await fetch(`${BACKEND_PROXY_URL}/api/v1/signs/predict-video`, {
-        method: 'POST',
-        body: form,
-        signal: AbortSignal.timeout(20000)
-      });
-    } catch (err: any) {
-      lastErr = err.message || lastErr;
-    }
-  }
+      if (res.ok) {
+        return await res.json();
+      }
 
-  if (!res || !res.ok) {
-    let message = 'Could not process sign clip. Please check service connection.';
-    if (res) {
+      // If server responded with 4xx or 5xx, read detailed error from JSON
       try {
         const errJson = await res.json();
-        message = errJson.detail || errJson.message || message;
+        serverErrorMessage = errJson.detail || errJson.message || `Server returned ${res.status}`;
       } catch {
-        // ignore
+        serverErrorMessage = `Server returned status ${res.status}`;
       }
-    } else if (lastErr) {
-      message = lastErr;
+      break; // Server was reached and returned an explicit message
+    } catch (err: any) {
+      lastNetworkErr = err.message || '';
     }
-    throw new Error(message);
   }
 
-  return res.json();
+  throw new Error(serverErrorMessage || lastNetworkErr || 'Could not process sign clip. Please check service connection.');
 }

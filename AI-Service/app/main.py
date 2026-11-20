@@ -7,7 +7,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from app.model import load_model, predict_sequence, SEQ_LEN, FEATURE_SIZE
 
-app = FastAPI(title="IsharaAI Sign Recognition Service", version="2.0.0")
+app = FastAPI(title="SignBridge AI Fast Recognition Service", version="2.2.0")
 
 app.add_middleware(
     CORSMiddleware,
@@ -17,7 +17,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-CONFIDENCE_THRESHOLD = float(os.getenv("PSL_CONFIDENCE_THRESHOLD", "0.45"))
+CONFIDENCE_THRESHOLD = float(os.getenv("PSL_CONFIDENCE_THRESHOLD", "0.30"))
 
 _detector_lock = threading.Lock()
 _hand_detector = None
@@ -38,9 +38,9 @@ def get_shared_detectors():
                 hand_opts = vision.HandLandmarkerOptions(
                     base_options=python.BaseOptions(model_asset_path=str(hand_path)),
                     num_hands=2,
-                    min_hand_detection_confidence=0.2,
-                    min_hand_presence_confidence=0.2,
-                    min_tracking_confidence=0.2
+                    min_hand_detection_confidence=0.15,
+                    min_hand_presence_confidence=0.15,
+                    min_tracking_confidence=0.15
                 )
                 _hand_detector = vision.HandLandmarker.create_from_options(hand_opts)
 
@@ -48,16 +48,16 @@ def get_shared_detectors():
                 if pose_path.exists():
                     pose_opts = vision.PoseLandmarkerOptions(
                         base_options=python.BaseOptions(model_asset_path=str(pose_path)),
-                        min_pose_detection_confidence=0.2,
-                        min_pose_presence_confidence=0.2,
-                        min_tracking_confidence=0.2
+                        min_pose_detection_confidence=0.15,
+                        min_pose_presence_confidence=0.15,
+                        min_tracking_confidence=0.15
                     )
                     _pose_detector = vision.PoseLandmarker.create_from_options(pose_opts)
     return _hand_detector, _pose_detector
 
 @app.get("/health")
 def health():
-    return {"status": "healthy", "service": "ishara-ai", "version": "2.0.0"}
+    return {"status": "healthy", "service": "signbridge-ai", "version": "2.2.0"}
 
 @app.get("/ready")
 def ready():
@@ -67,69 +67,104 @@ def ready():
 class SequenceRequest(BaseModel):
     frames: list[list[float]]
 
+def normalize_landmarks_to_origin(landmarks_raw):
+    pts = np.array(landmarks_raw, dtype=np.float32)
+    if pts.shape[0] == 0:
+        return pts
+    origin = pts[0].copy()
+    return pts - origin
+
 def extract_landmarks_from_video(video_path: str):
     import mediapipe as mp
     hand_det, pose_det = get_shared_detectors()
 
     cap = cv2.VideoCapture(video_path)
     if not cap.isOpened():
-        raise HTTPException(400, "Could not read recorded video clip.")
+        raise HTTPException(400, "Could not open or decode video stream.")
 
-    total_frames = int(cap.get(cv2.CAP_PROP_FRAME_COUNT))
-    sample_indices = set(np.linspace(0, max(0, total_frames - 1), min(35, max(10, total_frames))).astype(int))
-
-    frames = []
-    curr_frame_idx = 0
-    last_known_vector = np.zeros(FEATURE_SIZE, dtype=np.float32)
-
+    frames_read = []
     while True:
         ok, frame = cap.read()
-        if not ok:
+        if not ok or len(frames_read) >= 60:
             break
-        if curr_frame_idx in sample_indices:
-            h, w = frame.shape[:2]
-            if w > 640:
-                frame = cv2.resize(frame, (640, int(h * 640 / w)), interpolation=cv2.INTER_AREA)
-
-            rgb = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
-            mp_img = mp.Image(image_format=mp.ImageFormat.SRGB, data=rgb)
-            
-            # 1. Hand landmarks (left: 63, right: 63 -> 126)
-            hand_res = hand_det.detect(mp_img)
-            lh_vector = np.zeros((21, 3), dtype=np.float32)
-            rh_vector = np.zeros((21, 3), dtype=np.float32)
-            if hand_res.hand_landmarks:
-                for idx, hand in enumerate(hand_res.hand_landmarks[:2]):
-                    target = lh_vector if idx == 0 else rh_vector
-                    for pt_idx, pt in enumerate(hand):
-                        target[pt_idx] = [pt.x, pt.y, pt.z]
-
-            # 2. Pose landmarks (33 * 3 = 99)
-            pose_vector = np.zeros((33, 3), dtype=np.float32)
-            if pose_det:
-                pose_res = pose_det.detect(mp_img)
-                if pose_res.pose_landmarks:
-                    for pt_idx, pt in enumerate(pose_res.pose_landmarks[0]):
-                        pose_vector[pt_idx] = [pt.x, pt.y, pt.z]
-
-            # Concatenate to 225 values: [lh (63), rh (63), pose (99)]
-            vec = np.concatenate([lh_vector.reshape(-1), rh_vector.reshape(-1), pose_vector.reshape(-1)])
-
-            if np.sum(np.abs(vec)) > 0.05:
-                last_known_vector = vec.copy()
-            else:
-                vec = last_known_vector.copy()
-
-            frames.append(vec)
-        curr_frame_idx += 1
-
+        frames_read.append(frame)
     cap.release()
 
-    if len(frames) < 3:
-        raise HTTPException(400, "Video clip was too brief. Please sign for 2 to 3 seconds.")
+    if len(frames_read) == 0:
+        raise HTTPException(400, "No frames could be read from video recording.")
 
-    indexes = np.linspace(0, len(frames) - 1, SEQ_LEN).astype(int)
-    return np.stack([frames[i] for i in indexes]).tolist()
+    # High speed optimization: sample exactly 16 key temporal frames (cut processing time by > 60%)
+    sample_count = min(16, len(frames_read))
+    sample_indices = np.linspace(0, len(frames_read) - 1, sample_count).astype(int)
+
+    extracted_vectors = []
+    last_known_vector = np.zeros(FEATURE_SIZE, dtype=np.float32)
+
+    for idx in sample_indices:
+        frame = frames_read[idx]
+        h, w = frame.shape[:2]
+        # Fast downscale to 320px for rapid landmark inference
+        if w > 320:
+            frame = cv2.resize(frame, (320, int(h * 320 / w)), interpolation=cv2.INTER_LINEAR)
+
+        rgb = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
+        mp_img = mp.Image(image_format=mp.ImageFormat.SRGB, data=rgb)
+        
+        # 1. Hands (63 + 63 = 126)
+        hand_res = hand_det.detect(mp_img)
+        lh_vector = np.zeros((21, 3), dtype=np.float32)
+        rh_vector = np.zeros((21, 3), dtype=np.float32)
+
+        if hand_res.hand_landmarks and hand_res.handedness:
+            for hand_idx, hand_pts in enumerate(hand_res.hand_landmarks[:2]):
+                category_label = ""
+                if hand_idx < len(hand_res.handedness) and len(hand_res.handedness[hand_idx]) > 0:
+                    category_label = hand_res.handedness[hand_idx][0].category_name
+
+                raw_pts = [[pt.x, pt.y, pt.z] for pt in hand_pts]
+                normed_pts = normalize_landmarks_to_origin(raw_pts)
+
+                if category_label == "Left":
+                    rh_vector = normed_pts
+                elif category_label == "Right":
+                    lh_vector = normed_pts
+                else:
+                    if np.sum(np.abs(rh_vector)) == 0:
+                        rh_vector = normed_pts
+                    else:
+                        lh_vector = normed_pts
+
+        elif hand_res.hand_landmarks:
+            for h_idx, hand_pts in enumerate(hand_res.hand_landmarks[:2]):
+                raw_pts = [[pt.x, pt.y, pt.z] for pt in hand_pts]
+                normed_pts = normalize_landmarks_to_origin(raw_pts)
+                if h_idx == 0:
+                    rh_vector = normed_pts
+                else:
+                    lh_vector = normed_pts
+
+        # 2. Pose (33 * 3 = 99)
+        pose_vector = np.zeros((33, 3), dtype=np.float32)
+        if pose_det:
+            pose_res = pose_det.detect(mp_img)
+            if pose_res.pose_landmarks and len(pose_res.pose_landmarks) > 0:
+                raw_pose = [[pt.x, pt.y, pt.z] for pt in pose_res.pose_landmarks[0]]
+                pose_vector = normalize_landmarks_to_origin(raw_pose)
+
+        vec = np.concatenate([lh_vector.reshape(-1), rh_vector.reshape(-1), pose_vector.reshape(-1)])
+
+        if np.sum(np.abs(vec)) > 0.05:
+            last_known_vector = vec.copy()
+        else:
+            vec = last_known_vector.copy()
+
+        extracted_vectors.append(vec)
+
+    # Smoothly resample to 30 frames for the PyTorch LSTM
+    idx_map = np.linspace(0, len(extracted_vectors) - 1, SEQ_LEN).astype(int)
+    final_sequence = [extracted_vectors[i] for i in idx_map]
+
+    return np.stack(final_sequence).tolist()
 
 @app.post("/v1/signs/predict-sequence")
 def predict(req: SequenceRequest):
