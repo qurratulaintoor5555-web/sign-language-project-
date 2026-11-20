@@ -9,8 +9,15 @@
   "python.analysis.diagnosticSeverityOverrides": {
     "reportMissingImports": "none",
     "reportUndefinedVariable": "none",
-    "reportGeneralTypeIssues": "none"
+    "reportGeneralTypeIssues": "none",
+    "reportOptionalMemberAccess": "none",
+    "reportUnusedImport": "none",
+    "reportMissingTypeStubs": "none"
   },
+  "python.linting.enabled": false,
+  "python.linting.pylintEnabled": false,
+  "python.linting.flake8Enabled": false,
+  "html.validate.scripts": false,
   "files.exclude": {
     "**/__pycache__": true,
     "**/.pytest_cache": true
