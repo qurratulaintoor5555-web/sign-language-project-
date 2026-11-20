@@ -34,8 +34,11 @@ venv/
 ENV/
 *.log
 
-# Dataset Archive & Temporary Data
+# Dataset Archive & Large Binaries
 dataset/archive_irrelevant/
+dataset/*.zip
+*.zip
+dataset/raw/
 
 # Operating System & IDE
 .DS_Store
