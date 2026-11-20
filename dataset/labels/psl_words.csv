@@ -1,90 +1,64 @@
 label,englishText,urduText,category
-APPLE,Apple (fruit).,سیب (پھل)۔,Food & Fruit
-Ain,Urdu Letter Ain (ع).,حرف عین (ع)۔,Alphabets
-Aj,Today is the day we planned.,آج کا دن ہے جس کی بات ہوئی تھی۔,Time / Calendar
-Alif,Urdu Letter Alif (ا).,حرف الف (ا)۔,Alphabets
-Allah,Allah (God). May Allah bless you.,اللہ تعالیٰ، اللہ آپ پر رحمت فرمائے۔,Religious / Blessings
-Allama Iqbal,Allama Muhammad Iqbal (National Poet).,علامہ محمد اقبال (قومی شاعر)۔,Personalities
-Ap,You (respectful form). How are you?,آپ، آپ کیسے ہیں؟,Pronoun
-Apki,Yours. This belongs to you.,آپ کی / یہ چیز آپ کی ہے۔,Pronoun
-Assalamulaikum,Assalam-o-Alaikum! Peace be upon you.,السلام علیکم! آپ پر سلامتی ہو۔,Greeting
-Baad may,Later / We will talk after some time.,بعد میں / ہم کچھ دیر بعد بات کریں گے۔,Time
-Bachay,Children / The kids are playing.,بچے / بچے کھیل رہے ہیں۔,Family & People
+Ain,PSL Letter Ain (ع).,اشارہ حرف عین (ع)۔,PSL Alphabet
+Aj,Today is the day we planned.,آج کا دن ہے جس کی بات ہوئی تھی۔,Time & Days
+Alif,PSL Letter Alif (ا).,اشارہ حرف الف (ا)۔,PSL Alphabet
+Allah,Allah (God). May Allah bless you.,اللہ تعالیٰ، اللہ آپ پر رحمت فرمائے۔,Blessings & Reverence
+Ap,You (respectful form). How are you?,آپ، آپ کیسے ہیں؟,Pronouns
+Apki,Yours. This belongs to you.,آپ کی / یہ چیز آپ کی ہے۔,Pronouns
+Assalamulaikum,Assalam-o-Alaikum! Peace be upon you.,السلام علیکم! آپ پر سلامتی ہو۔,Greetings
+Baad may,Later / We will talk after some time.,بعد میں / ہم کچھ دیر بعد بات کریں گے۔,Time & Days
+Bachay,Children / Kids.,بچے / بچے کھیل رہے ہیں۔,Family & People
 Barai Mehrbani,Please / Kindly help me with this.,برائے مہربانی میری اس میں مدد کریں۔,Polite Request
-Bay,Urdu Letter Bay (ب).,حرف بے (ب)۔,Alphabets
-Behra,Deaf / Hard-of-hearing person.,بہرا / سماعت سے محروم شخص۔,Identity & Community
-Bemar,I am feeling sick / unwell.,میں بیمار ہوں، میری طبیعت ٹھیک نہیں۔,Medical / Health
-Chay,Urdu Letter Chay (چ).,حرف چے (چ)۔,Alphabets
-Cherry,Cherry (fruit).,چیری (پھل)۔,Food & Fruit
-Choti-ye,Urdu Letter Choti Ye (ی).,حرف چھوٹی یے (ی)۔,Alphabets
-Cuckoo,Cuckoo bird.,کوئل (پرندہ)۔,Animals & Birds
-Dal,Urdu Letter Dal (د).,حرف دال (د)۔,Alphabets
-Ddal,Urdu Letter Daal (ڈ).,حرف ڈال (ڈ)۔,Alphabets
-Duck,Duck (water bird).,بطخ (پرندہ)۔,Animals & Birds
-Dur hai,It is far away / distant location.,دور ہے / فاصلے پر ہے۔,Direction / Distance
-Eagle,Eagle / Shaheen.,عقاب / شاہین۔,Animals & Birds
-Email Address,Please provide your email address.,اپنا ای میل ایڈریس فراہم کیجیے۔,Technology
-Falcon,Falcon / Bird of prey.,باز (شکاری پرندہ)۔,Animals & Birds
-Fay,Urdu Letter Fay (ف).,حرف فے (ف)۔,Alphabets
-Fig,Fig (fruit) / Injeer.,انجیر (پھل)۔,Food & Fruit
-Firaun,Pharaoh / Historic ruler.,فرعون (تاریخی شخصیت)۔,History
+Bay,PSL Letter Bay (ب).,اشارہ حرف بے (ب)۔,PSL Alphabet
+Behra,Deaf / Hard-of-hearing individual.,بہرا / سماعت سے محروم فرد۔,Community & Identity
+Bemar,I am feeling unwell / sick.,میں بیمار ہوں، میری طبیعت ٹھیک نہیں۔,Medical & Emergency
+Chay,PSL Letter Chay (چ).,اشارہ حرف چے (چ)۔,PSL Alphabet
+Choti-ye,PSL Letter Choti Ye (ی).,اشارہ حرف چھوٹی یے (ی)۔,PSL Alphabet
+Dal,PSL Letter Dal (د).,اشارہ حرف دال (د)۔,PSL Alphabet
+Ddal,PSL Letter Ddal (ڈ).,اشارہ حرف ڈال (ڈ)۔,PSL Alphabet
+Dur hai,It is far away / distant location.,دور ہے / فاصلے پر ہے۔,Directions
+Email Address,Please provide your contact email address.,اپنا ای میل ایڈریس فراہم کیجیے۔,Contact & Work
+Fay,PSL Letter Fay (ف).,اشارہ حرف فے (ف)۔,PSL Alphabet
 G Han,"Yes, exactly! I agree completely.",جی ہاں، بالکل! میں متفق ہوں۔,Confirmation
-Gaaf,Urdu Letter Gaaf (گ).,حرف گاف (گ)۔,Alphabets
-Genghis Khan,Genghis Khan.,چنگیز خان۔,History
-Ghain,Urdu Letter Ghain (غ).,حرف غین (غ)۔,Alphabets
-Guava,Guava (fruit) / Amrood.,امرود (پھل)۔,Food & Fruit
-Hain,Are / Plural or respectful auxiliary.,ہیں / موجود ہیں۔,Grammar
-Hamza,Urdu Letter Hamza (ء).,حرف ہمزہ (ء)۔,Alphabets
-Hay,Urdu Letter Hay (ح).,حرف حے (ح)۔,Alphabets
-He,Urdu Letter He (ہ).,حرف گول ہے (ہ)۔,Alphabets
-Iski,His / Hers / Its (possessive).,اس کی / اس کا۔,Pronoun
-Jao,Go ahead / You may leave now.,جاؤ / اب آپ جا سکتے ہیں۔,Direction
-Jeem,Urdu Letter Jeem (ج).,حرف جیم (ج)۔,Alphabets
-Kaaf,Urdu Letter Kaaf (ک).,حرف کاف (ک)۔,Alphabets
-Kab,When? At what time will this happen?,کب؟ یہ کس وقت ہوگا؟,Question
-Kesay,How? In what manner can we do this?,کیسے؟ یہ کیسے ممکن ہے؟,Question
-Khay,Urdu Letter Khay (خ).,حرف خے (خ)۔,Alphabets
-Kya qeemat hai,How much does this cost? What is the price?,کیا قیمت ہے؟ یہ کتنے کا ہے؟,Shopping / Commerce
-Laam,Urdu Letter Laam (ل).,حرف لام (ل)۔,Alphabets
-Lord Mountbatten,Lord Mountbatten.,لارڈ ماؤنٹ بیٹن۔,History
-Mahatma Gandhi,Mahatma Gandhi.,مہاتما گاندھی۔,History
-Mahsoos kar rahay,Are you feeling okay? What do you sense?,کیا محسوس کر رہے ہیں؟ آپ کیسا محسوس کر رہے ہیں؟,Feelings
-Meem,Urdu Letter Meem (م).,حرف میم (م)۔,Alphabets
-Muhammad Ali Jinnah,Quaid-e-Azam Muhammad Ali Jinnah.,بابائے قوم قائد اعظم محمد علی جناح۔,Personalities
-Muhammad Bin Qasim,Muhammad Bin Qasim.,محمد بن قاسم۔,History
-Mujhay,To me / I need this.,مجھے، یہ مجھے درکار ہے۔,Pronoun
+Gaaf,PSL Letter Gaaf (گ).,اشارہ حرف گاف (گ)۔,PSL Alphabet
+Ghain,PSL Letter Ghain (غ).,اشارہ حرف غین (غ)۔,PSL Alphabet
+Hain,Are / Present auxiliary state.,ہیں / موجود ہیں۔,Grammar
+Hamza,PSL Letter Hamza (ء).,اشارہ حرف ہمزہ (ء)۔,PSL Alphabet
+Hay,PSL Letter Hay (ح).,اشارہ حرف حے (ح)۔,PSL Alphabet
+He,PSL Letter He (ہ).,اشارہ حرف گول ہے (ہ)۔,PSL Alphabet
+Iski,His / Hers / Its (possessive).,اس کی / اس کا۔,Pronouns
+Jao,Go ahead / You may go now.,جاؤ / اب آپ جا سکتے ہیں۔,Directions
+Jeem,PSL Letter Jeem (ج).,اشارہ حرف جیم (ج)۔,PSL Alphabet
+Kaaf,PSL Letter Kaaf (ک).,اشارہ حرف کاف (ک)۔,PSL Alphabet
+Kab,When? At what time will this happen?,کب؟ یہ کس وقت ہوگا؟,Questions
+Kesay,How? In what manner can we do this?,کیسے؟ یہ کیسے ممکن ہے؟,Questions
+Khay,PSL Letter Khay (خ).,اشارہ حرف خے (خ)۔,PSL Alphabet
+Kya qeemat hai,How much does this cost? What is the price?,کیا قیمت ہے؟ یہ کتنے کا ہے؟,Commerce & Shopping
+Laam,PSL Letter Laam (ل).,اشارہ حرف لام (ل)۔,PSL Alphabet
+Mahsoos kar rahay,How are you feeling? What do you sense?,کیا محسوس کر رہے ہیں؟ آپ کیسا محسوس کر رہے ہیں؟,Feelings & Health
+Meem,PSL Letter Meem (م).,اشارہ حرف میم (م)۔,PSL Alphabet
+Mujhay,To me / I need this.,مجھے، یہ مجھے درکار ہے۔,Pronouns
 Nahi hai,"No, not available / I do not have it.",نہیں ہے / میرے پاس نہیں ہے۔,Negation
-Noon,Urdu Letter Noon (ن).,حرف نون (ن)۔,Alphabets
-Pay,Urdu Letter Pay (پ).,حرف پے (پ)۔,Alphabets
-Peach,Peach (fruit) / Aarrhu.,آڑو (پھل)۔,Food & Fruit
-Penguin,Penguin (bird).,پینگوئن (پرندہ)۔,Animals & Birds
-Pigeon,Pigeon / Dove (Kabootar).,کبوتر (پرندہ)۔,Animals & Birds
-Pineapple,Pineapple (fruit) / Ananas.,انناس (پھل)۔,Food & Fruit
-Qaaf,Urdu Letter Qaaf (ق).,حرف قاف (ق)۔,Alphabets
-Ray,Urdu Letter Ray (ر).,حرف رے (ر)۔,Alphabets
+Noon,PSL Letter Noon (ن).,اشارہ حرف نون (ن)۔,PSL Alphabet
+Pay,PSL Letter Pay (پ).,اشارہ حرف پے (پ)۔,PSL Alphabet
+Qaaf,PSL Letter Qaaf (ق).,اشارہ حرف قاف (ق)۔,PSL Alphabet
+Ray,PSL Letter Ray (ر).,اشارہ حرف رے (ر)۔,PSL Alphabet
 Samjhna,I understand what you are communicating.,سمجھنا / میں آپ کی بات سمجھ گیا ہوں۔,Communication
-Say,Urdu Letter Say (ث).,حرف ثے (ث)۔,Alphabets
-Seekh raha hun,I am currently learning Pakistan Sign Language.,میں اشاروں کی زبان سیکھ رہا ہوں۔,Learning
-Sheen,Urdu Letter Sheen (ش).,حرف شین (ش)۔,Alphabets
-Shirt dhona hai,Need to wash the shirt / Laundry clothes.,قمیض دھونا ہے / کپڑے دھونے ہیں۔,Daily Life
-Sikander-e-Azam,Alexander the Great (Sikander-e-Azam).,سکندر اعظم۔,History
-Tay,Urdu Letter Tay (ت).,حرف تے (ت)۔,Alphabets
-Toain,Urdu Letter Toain (ط).,حرف طوئے (ط)۔,Alphabets
-Ttay,Urdu Letter Ttay (ٹ).,حرف ٹے (ٹ)۔,Alphabets
-Walaikumasalam,Wa Alaikum Assalam! And upon you be peace.,وعلیکم السلام! اور آپ پر بھی سلامتی ہو۔,Greeting
-Wao,Urdu Letter Wao (و).,حرف واؤ (و)۔,Alphabets
-Watermelon,Watermelon (fruit).,تربوز (پھل)۔,Food & Fruit
-Woodpecker,Woodpecker bird.,ہدہد / کٹھ پھوڑا۔,Animals & Birds
-Yaqeen,I am confident / I believe and trust this.,یقین / مجھے اس پر پورا بھروسہ ہے۔,Belief
-Ye,This one right here.,یہ / یہ والی چیز۔,Demonstrative
-Zal,Urdu Letter Zal (ذ).,حرف ذال (ذ)۔,Alphabets
-Zoain,Urdu Letter Zoain (ظ).,حرف ظوئے (ظ)۔,Alphabets
-Zuaad,Urdu Letter Zuaad (ض).,حرف ضاد (ض)۔,Alphabets
-Zulfiqar Ali Bhutto,Zulfiqar Ali Bhutto.,ذوالفقار علی بھٹو۔,Personalities
-bari-ye,Urdu Letter Bari Ye (ے).,حرف بڑی یے (ے)۔,Alphabets
-owl,Owl / Bird of wisdom.,الو (پرندہ)۔,Animals & Birds
-parrot,Parrot / Talking bird (Tota).,طوطا (پرندہ)۔,Animals & Birds
-rray,Urdu Letter Rray (ڑ).,حرف ڑے (ڑ)۔,Alphabets
-seen,Urdu Letter Seen (س).,حرف سین (س)۔,Alphabets
-suaad,Urdu Letter Suaad (ص).,حرف صاد (ص)۔,Alphabets
-zay,Urdu Letter Zay (ز).,حرف زے (ز)۔,Alphabets
+Say,PSL Letter Say (ث).,اشارہ حرف ثے (ث)۔,PSL Alphabet
+Seekh raha hun,I am currently learning sign language.,میں اشاروں کی زبان سیکھ رہا ہوں۔,Learning & Education
+Sheen,PSL Letter Sheen (ش).,اشارہ حرف شین (ش)۔,PSL Alphabet
+Tay,PSL Letter Tay (ت).,اشارہ حرف تے (ت)۔,PSL Alphabet
+Toain,PSL Letter Toain (ط).,اشارہ حرف طوئے (ط)۔,PSL Alphabet
+Ttay,PSL Letter Ttay (ٹ).,اشارہ حرف ٹے (ٹ)۔,PSL Alphabet
+Walaikumasalam,Wa Alaikum Assalam! And upon you be peace.,وعلیکم السلام! اور آپ پر بھی سلامتی ہو۔,Greetings
+Wao,PSL Letter Wao (و).,اشارہ حرف واؤ (و)۔,PSL Alphabet
+Yaqeen,I am confident / I trust and believe this.,یقین / مجھے اس پر پورا بھروسہ ہے۔,Expressions & Belief
+Ye,This one right here.,یہ / یہ والی چیز۔,Demonstratives
+Zal,PSL Letter Zal (ذ).,اشارہ حرف ذال (ذ)۔,PSL Alphabet
+Zoain,PSL Letter Zoain (ظ).,اشارہ حرف ظوئے (ظ)۔,PSL Alphabet
+Zuaad,PSL Letter Zuaad (ض).,اشارہ حرف ضاد (ض)۔,PSL Alphabet
+bari-ye,PSL Letter Bari Ye (ے).,اشارہ حرف بڑی یے (ے)۔,PSL Alphabet
+rray,PSL Letter Rray (ڑ).,اشارہ حرف ڑے (ڑ)۔,PSL Alphabet
+seen,PSL Letter Seen (س).,اشارہ حرف سین (س)۔,PSL Alphabet
+suaad,PSL Letter Suaad (ص).,اشارہ حرف صاد (ص)۔,PSL Alphabet
+zay,PSL Letter Zay (ز).,اشارہ حرف زے (ز)۔,PSL Alphabet
