@@ -1,15 +1,45 @@
+﻿# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Node / Frontend
+Frontend/node_modules/
+Frontend/dist/
+Frontend/.vite/
+node_modules/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# .NET / Backend
+Backend/PSL.Api/bin/
+Backend/PSL.Api/obj/
 **/bin/
 **/obj/
-**/node_modules/
-**/.venv/
-**/__pycache__/
-*.pyc
-.env
+*.db
+*.db-shm
+*.db-wal
+appsettings.Development.json
+
+# Python / AI Service
+__pycache__/
+*/__pycache__/
+*/*/__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+*.log
+
+# Dataset Archive & Temporary Data
+dataset/archive_irrelevant/
+
+# Operating System & IDE
+.DS_Store
+Thumbs.db
+.idea/
+*.suo
 *.user
-dataset/raw/*
-!dataset/raw/.gitkeep
-dataset/processed/*
-!dataset/processed/.gitkeep
-AI-Service/models/*.pt
-AI-Service/artifacts/*
-!AI-Service/artifacts/.gitkeep
